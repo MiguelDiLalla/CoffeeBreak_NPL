@@ -1,0 +1,2808 @@
+Titulo y descripción:
+
+
+Ep474_B: Señal Wow!; TD Lee; Agujeros Negros y Materia Oscura; Grafeno Lunar; Antihelio; Gravitondas
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-Una explicación astrofísica a la señal “Wow!” (00:01)
+-Los agujeros negros primordiales parecen ser escasos (23:15)
+-Grafeno multicapa en las muestras lunares de Chang’e-5 (51:00)
+-Posibles anthelios observados en la ISS por AMS-02 (1:04:10)
+-Comunicación de descubrimientos de gravitondas por LIGO+VIRGO+KAGRA (1:20:10)
+-Señales de los oyentes (1:37:10)
+
+Este episodio es continuación de la Cara A.
+Contertulios: Isabel Cordero, Sara Robisco, Héctor Vies, José Edelstein, Francis Villatoro, Héctor Socas. Imagen, crédito: Héctor Vives (@darksapiens. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+Ep474_A: Señal Wow!; TD Lee; Agujeros Negros y Materia Oscura; Grafeno Lunar; Antihelio; Gravitondas
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-Explicación de Francis del experimento cuántico del episodio anterior (doble rendija con elección retardada y borrado cuántico) (5:00)
+-Obituario de TD Lee (29:38)
+-La señal “Wow!” (50:00)
+
+Este episodio continúa en la Cara B.
+Contertulios: Sara Robisco, Héctor Vives, José Edelstein, Francis Villatoro, Héctor Socas. Imagen, crédito: Héctor Vives (@darksapiens)". Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+¿Podemos saber si vivimos en una simulación? Experimentos cuánticos y simulación en retículo. Extracto de Ep473
+Este audio es un extracto del episodio 473. No dejes de escuchar el episodio entero, con más contenidos interesantes
+
+Modelos climáticos híbridos: Computación que combina física y redes neuronales. Extracto de Ep473
+Este audio es un extracto del episodio 473. No dejes de escuchar el episodio entero, con más contenidos interesantes
+
+El Palacio de Urania de Tycho Brahe: Arqueología de su laboratorio. Extracto de Ep473
+Este audio es un extracto del episodio 473. No dejes de escuchar el episodio entero, con más contenidos interesantes
+
+Polémica del fosfano en Venus y debate sobre divulgación de astrobiología. Extracto de Ep473
+Este audio es un extracto del episodio 473. No dejes de escuchar el episodio entero, con más contenidos interesantes
+
+Agua subterránea en Marte y aniversario de la señal "Wow!". Extracto de Ep473
+Este audio es un extracto del episodio 473. No dejes de escuchar el episodio entero, con más contenidos interesantes
+
+Ep473_B: Marte; Venus; Simulismo; Brahe; Modelos Climáticos
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-Tungsteno en el laboratorio de Tycho Brahe, siglos antes de su descubrimiento (00:16)
+-Modelos climáticos y meteorológicos con redes neuronales (42:16)
+-El trilema de Bostrom y el simulismo (o hipótesis de la simulación). Parte II. Sobre tests observacionales (1:04:56)
+
+Este episodio es continuación de la Cara A.
+Contertulios: Isabel Cordero, Sara Robisco, Héctor Vies, Gastón Giribet, Francis Villatoro, Héctor Socas. Imagen de portada: Crédito NASA. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+Ep473_A: Marte; Venus; Simulismo; Brahe; Modelos Climáticos
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-Aniversario de la señal “Wow!” (7:00)
+-Más agua en Marte (10:10)
+-Nuevas medidas de fosfano en Venus (26:00)
+
+Este episodio continúa en la Cara B.
+Contertulios: Sara Robisco, Héctor Vives, Gastón Giribet, Francis Villatoro, Héctor Socas. Imagen de portada: Crédito NASA. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+Ep472_B: Marte; Olimpiadas; Cocodrilo Egipcio; Lenguaje y Pensamiento
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-Curiosity encuentra una roca de azufre en Marte (00:08)
+-Perseverance descubre un posible biomarcador en Marte (09:03)
+-La última cena de un cocodrilo egipcio, revelada con tomografía axial (TAC) (38:18)
+-El lenguaje es una herramienta para comunicación, no pensamiento (1:11:18)
+
+Este episodio es continuación de la Cara A.
+Contertulios: María Ribes, Isabel Cordero, Sara Robisco, Gastón Giribet, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+Ep472_A: Marte; Olimpiadas; Cocodrilo Egipcio; Lenguaje y Pensamiento
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-Breves: El libro de Gastón; Premios Dirac; Fundación EST; Paper rechazado (8:00)
+-Atletas olímpicos enferman de E.Coli tras nadar en el Sena (36:00)
+
+Este episodio continúa en la Cara B.
+Contertulios: María Ribes, Isabel Cordero, Sara Robisco, Gastón Giribet, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+Ep471: Zelda y Lenguas; ¿Vivimos en una Simulación?; Niño Neanderthal
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: 
+-GPT en Zelda para aprender idiomas (10:00)
+-¿Es el universo una simulación? El trilema de Bostrom (30:50)
+-El niño que vivió: Síndrome de Down entre los neandertales (1:40:20)
+
+Contertulios: María Ribes, Isabel Cordero, Alberto Aparici, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso.
+
+Ep470_B: Beethoven; Cardiografías; Oxígeno e Inteligencia; OGLE; Cuásar
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-CMRxRecon (00:01)
+-Agujero negro de mil millones de masas solares a redshift z=7 (26:45)
+-El oxígeno como cuello de botella para el desarrollo de vida inteligente (43:15)
+-El paso de la Tierra por una densa nube interestelar (1:20:45)
+-Señales de los oyentes (1:41:45)
+
+Este episodio es continuación de la Cara A.
+Contertulios: Sara Robisco, Gastón Giribet, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso.
+
+Ep470_A: Beethoven; Cardiografías; Oxígeno e Inteligencia; OGLE; Cuásar
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-La solución al misterio del metrónomo de Beethoven (10:00)
+-OGLE no observa agujeros negros masivos en el halo galáctico (27:00)
+-Babbel, la escuela de idiomas en tu móvil (código COFFEEBREAK en la oferta de 3 meses + 3 meses gratis) (49:30)
+-CMRxRecon: un conjunto de datos y un banco de pruebas públicos para facilitar el avance en técnicas de deep learning que usen imágenes de resonancia magnética cardíaca (51:00)
+
+Este episodio continúa en la Cara B.
+Contertulios: Sara Robisco, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso.
+
+Ep469_B: Tecnologías Cuánticas; Di-Higgs y Futuros Colisionadores; Publicaciones Científicas
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-Tecnologías cuánticas en el espacio (00:01)
+-Búsquedas de pares de Higgs en el LHC (42:00)
+-El colisionador circular electrón-positrón chino (CEPC) y el futuro FCC en el CERN (58:30)
+-Los cambios en el Journal Citation Reports (JCR) que está a punto de publicarse (1:17:00)
+
+Este episodio es continuación de la Cara A.
+Contertulios: Francis Villatoro, Gaston Giribet, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso.
+
+Ep469_A: Tecnologías Cuánticas; Di-Higgs y Futuros Colisionadores; Publicaciones Científicas
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-Tecnologías cuánticas en el espacio (9:00)
+
+Este episodio continúa en la Cara B.
+Contertulios: Juan Carlos Gil, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso.
+
+Ep468_B: Noticias del Espacio; Gliese 12 b; Conferencias de Cuerdas; Defectos Topológicos
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-La noticia de los defectos topológicos como materia oscura (sobre defectos topológicos hablamos en ep250) (00:01)
+-Recogida de muestras lunares de Chang'e 6 (11:51)
+-Conferencia Benasque (Huesca) y Amplitudes 2024 (20:51)
+-Las auroras de Mayo vistas por la sonda MAVEN en Marte (ver ep454 para corrientes ionosféricas inducidas) (47:41)
+-Gliese 12 b, un exoplaneta templado a solo 12pc (55:21)
+-Cómo usar una misión a Urano para detectar ondas gravitacionales (1:25:51)
+-Agujero negro de masa intermedia en el cúmulo M15 (1:39:21)
+
+Este episodio es continuación de la Cara A.
+Contertulios: Jose Edelstein, Francis Villatoro, Gaston Giribet, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso.
+
+Ep468_A: Noticias del Espacio; Gliese 12 b; Conferencias de Cuerdas; Defectos Topológicos
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-Universo entre Canciones (8:20)
+-Fallecimiento de Bill Anders y Ed Stone (12:30)
+-Prueba IFT4 de Starship (hablamos de IFT3 en el ep 456) (20:00)
+-Patrocinio de Babbel (código COFFEEBREAK en la oferta de 3 meses + 3 meses gratis) (44:30)
+-La noticia de los defectos topológicos como materia oscura (sobre defectos topológicos hablamos en ep250) (48:00)
+
+Este episodio continúa en la Cara B.
+Contertulios: Jose Edelstein, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso.
+
+Ep467_B: Venus; Galaxias Lejanas; Obesidad y Diabetes; Condensado Bose-Einstein
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-La galaxia JADES-GS-z14-0, la más lejana observada por el JWST 
+-Premios Princesa de Asturias 2024. Premio Ciencia y Tecnología a Drucker, Friedman, Habener, Holst y Mojsov (ver ep 446) (35:20)
+-Primer condensado de Bose-Einstein de moléculas (1:27:50)
+-Señales de los oyentes (1:56:50)
+
+Este episodio es continuación de la Cara A.
+Contertulios: Alberto Aparici, Francis Villatoro, Héctor Socas. Imagen de portada: NASA/JPL. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso.
+
+Ep467_A: Venus; Galaxias Lejanas; Obesidad y Diabetes; Condensado Bose-Einstein
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-Patrocinio y colaboración con  GMV, la empresa tecnológica que cumple 40 años (8:00)
+-La sonda Magallanes detecta actividad volcánica en Venus (10:45)
+-Estaremos en Valencia el 6/7, Festival OWN. Fecha límite el domingo (47:45)
+-La galaxia JADES-GS-z14-0, la más lejana observada por el JWST (51:00)
+
+Este episodio continúa en la Cara B.
+Contertulios: Francis Villatoro, Héctor Socas. Imagen de portada: NASA JPL. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso.
+
+Ep466_B: Nilo y Pirámides; Jim Simons; Superbólido Ibérico; Cygnus-X; Cuásars
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-El superbólido ibérico (España y Portugal) y la probabilidad de que CNEOS14 sea interestelar (00:02)
+-El ramal perdido del Nilo y la construcción de las pirámides egipcias (26:28)
+-Rayos gamma (cósmicos) de más de PeV provenientes de Cygnus (1:02:58)
+-Masa de supermassive black holes en cuásares de entre 6 y 7, usando el JWST (1:19:58)
+-Señales de los oyentes (1:31:58)
+
+Este episodio es continuación de la Cara A.
+Contertulios: María Ribes, Gastón Giribet, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+Ep466_A: Nilo y Pirámides; Jim Simons; Superbólido Ibérico; Cygnus-X; Cuásars
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-Estaremos en Valencia el 6/7, Festival OWN (3:00)
+-Obituario de Jim Simons (7:00)
+
+Este episodio continúa en la Cara B.
+Contertulios: José Edelstein, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso.
+
+Ep465_B: Bz; Superbólido; Campos Galácticos; Efecto Hall Cuántico; Entropía de Agujeros Negros
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-Se simula el efecto Hall cuántico fraccionario usando fotones (00:01)
+-Campos magnéticos del halo galáctico (21:53)
+-Descripción microscópica de entropía de agujeros negros (48:53)
+-La atmósfera de un exoplaneta rocoso observada por JWST (1:16:33)
+-Señales de los oyentes (1:33:13)
+
+Este episodio es continuación de la Cara A.
+Contertulios: Gastón Giribet, José Edelstein, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso.
+
+Ep465_A: Bz; Superbólido; Campos Galácticos; Efecto Hall Cuántico; Entropía de Agujeros Negros
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-Estaremos en Valencia el 6/7, Festival OWN (05:00)
+-Charla con Valentín Martínez Pillet sobre la importancia de Bz en las tormentas solares (6:30)
+-Breve comentario sobre el bólido de España y Portugal (35:30)
+-Se simula el efecto Hall cuántico fraccionario usando fotones (47:00)
+
+Este episodio continúa en la Cara B.
+Contertulios: José Edelstein, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso.
+
+Ep464_B: Auroras; Alphafold3; Moléculas Prebióticas; Glubolas
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-Alphafold 3 predice las interacciones biomoleculares (05:40)
+-Formación astrofísica de moléculas aromáticas nitrogenadas (59:20)
+-BESIII observa que X(2370) tiene la paridad de una glubola pseudoescalar (1:16:10)
+
+Este episodio es continuación de la Cara A.
+Contertulios: Gastón Giribet, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+Ep464_A: Auroras; Alphafold3; Moléculas Prebióticas; Glubolas
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-Estaremos en Valencia el sábado 6 de Julio, Festival OWN (5:00)
+-GPT-4o y turbo, Sutskever deja OpenAI (10:00)
+-La intensa actividad solar y geomagnética de estos días (22:00)
+
+Este episodio continúa en la Cara B.
+Contertulios: Isabel Cordero, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+Ep463_B: Migraciones Planetarias; Criptografía Postcuántica; Esferas de Dyson; Cubits Gatunos
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-Un error en el artículo IACR de Chen salva la criptografía postcuántica (02:15)
+-Orígenes del sistema solar y migraciones planetarias: Modelo de Niza y Gran Tack (34:30)
+-Cúbits tipo gato (cat-qubits) coherentes durante diez segundos (1:10:00)
+-Señales de los oyentes (1:38:20)
+
+Este episodio es continuación de la Cara A.
+Contertulios: José Edelstein, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+Ep463_A: Migraciones Planetarias; Criptografía Postcuántica; Esferas de Dyson; Cubits Gatunos
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-Buscando esferas de Dyson en datos de GAIA (papers I y II) (5:00)
+
+Este episodio continúa en la Cara B.
+Contertulios: José Edelstein, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+Ep462_A: Planeta 9; IceCube; Tortugas; Matemáticas
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-Nuevos indicios sobre la existencia de un Planeta 9 (16:00)
+-IceCube ha observado a 5 sigmas el neutrino tau (48:00)
+
+Este episodio continúa en la Cara B.
+Contertulios: Alberto Aparici, Francis Villatoro, Héctor Socas. Imagen de portada: Cmichel67 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=128003225. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep462_B: Planeta 9; IceCube; Tortugas; Matemáticas
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+- Las tortugas de Florida entienden la noción de proporcionalidad (35:40)
+-Un matemático chileno mejora la cota de Mahler-Chowla (57:00)
+-Señales de los oyentes (1:10:05)
+
+Este episodio es continuación de la Cara A.
+Contertulios: Alberto Aparici, Francis Villatoro, Héctor Socas. Imagen de portada: Cmichel67 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=128003225. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep461_A: Oppenheimer; Filosofía Natural de Kant
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-Oppenheimer (10:00)
+
+Este episodio continúa en la Cara B.
+Contertulios: Sara Robisco, Alberto Aparici, Francis Villatoro, Jose Edelstein, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep461_B: Oppenheimer; Filosofía Natural de Kant
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-300 años de Kant (29:14)
+
+Este episodio es continuación de la Cara A.
+Contertulios: Sara Robisco, Gastón Giribet, Alberto Aparici, Francis Villatoro, Jose Edelstein, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep460_A: Peter Higgs; Nova Recurrente; Agujero Negro Estelar
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-El reto de la felicitación de Neferchitty (8:00)
+-Las cuentas suspendidas de Twitter/X (9:30)
+-La nova recurrente que volveremos a ver (incluso a simple vista) este año (15:45)
+-Breve comentario sobre los papers del 1 de abril (40:00)
+
+Este episodio continúa en la Cara B.
+Contertulios: Jose Edelstein, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney, DALL.E 2 y hace uso de una fotografía de Bengt Nyman (Creative Commons https://creativecommons.org/licenses/by/2.0/deed.en). Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso.
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep460_B: Peter Higgs; Nova Recurrente; Agujero Negro Estelar
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-Recordando y despidiendo a Peter Higgs (01:00)
+-Solución al reto de Neferchitty (1:18:00)
+-Un enorme agujero negro estelar en nuestra galaxia (1:19:15)
+-Señales de los oyentes (1:50:00)
+
+Este episodio es continuación de la Cara A.
+Contertulios: Gastón Giribet, Jose Edelstein, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney, DALL.E 2 y hace uso de una fotografía de Bengt Nyman (Creative Commons https://creativecommons.org/licenses/by/2.0/deed.en). Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso.
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep459_B: BabyLM; Arqueomagnetismo; DESI; Gravitondas; Titanosaurio
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-Ladrillos mesopotámicos y campo magnético (00:12)
+-Primeros resultados de DESI tras su primer año (DESI 2024 III, IV, VI) (29:12)
+-GW230529, la primera onda gravitacional en el salto de masa (1:35:12)
+-Nuevo titanosaurio de Uruguay (1:52:12)
+
+Este episodio es continuación de la Cara A.
+Contertulios: Sara Robisco, María Ribes, Alberto Rubiño, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney y DALL.E 2, incluye ilustración de magnetosfera de NASA (Greg Shirah and Tom Bridgman). Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso.
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep459_A: BabyLM; Arqueomagnetismo; DESI; Gravitondas; Titanosaurio
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-El día en que se acaben los eclipses (5:00)
+-Se anuncia el premio Irene González en la reunión de la American Astronomical Society (ver ep 360, ep 434) (15:00)
+-BabyLM Challenge (16:00)
+--Episodio patrocinado por BABBEL. Usa el código COFFEEBREAK para conseguir tus 3 meses gratis entrando en su web (29:30)
+
+Este episodio continúa en la Cara B.
+Contertulios: Sara Robisco, María Ribes, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney  y DALL.E 2, incluye ilustración de magnetosfera de NASA (Greg Shirah and Tom Bridgman). Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso.
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep458_A: Proxima b; LIGO+VIRGO; Sag A*; Neutrinos; Lentes Oscuras
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-Breve aclaración sobre enanas negras (ep286, p332) (5:00)
+-El entorno de radiación en Proxima b: Rayos cósmicos y partículas energéticas estelares (14:30)
+-El anuncio de que LIGO+VIRGO reanudan observaciones (run 4, O4b) (43:30)
+
+Este episodio continúa en la Cara B.
+Contertulios: Sara Robisco, Isabel Cordero, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso.
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep458_B: Proxima b; LIGO+VIRGO; Sag A*; Neutrinos; Lentes Oscuras
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-La nueva imagen de Sgr A* con la polarización de la luz (09:26)
+-IceCube pone cotas a efectos de decoherencia en neutrinos atmosféricos, que se toman como cotas al acoplamiento con la gravedad (57:26)
+-Buscando lentes oscuras en datos de GAIA (1:32:26)
+-Señales de los oyentes (1:53:36)
+
+Este episodio es continuación de la Cara A.
+Contertulios: Isabel Cordero, Gastón Giribet, Sara Robisco, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso.
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep457_A: Fútbol; Premio Abel; Enanas Blancas; Maldacena y Cosmología Cuántica
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-Un sistema de IA para predecir el comportamiento de los saques de esquina y desarrollar una estrategia (5:00)
+
+Este episodio continúa en la Cara B.
+Contertulios: Gastón Giribet, Sara Robisco, Jose Edelstein, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso.
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep457_B: Fútbol; Premio Abel; Enanas Blancas; Maldacena y Cosmología Cuántica
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-Michel Talagrand, Premio Abel 2024 (00:00)
+-El letargo en el enfriamiento de las enanas blancas (28:24)
+-Maldacena revisa la "no boundary proposal" de Hartle-Hawking sobre la función de onda del universo (53:24)
+-Señales de los oyentes (1:46:54)
+
+Este episodio es continuación de la Cara A.
+Contertulios: Gastón Giribet, Sara Robisco, Jose Edelstein, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso.
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep456_B: Señales; Encuentros Estelares; Tensión Cosmológica; Gatos; Starship
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+
+Cara B:
+
+-El paleoclima hace 56 millones de años alterado por el paso de una estrella cercana (26:55)
+
+-La genética de los gatos Manx sin cola (52:05)
+
+-Tercer lanzamiento de prueba (IFT3) de Starship (1:09:35)
+
+
+Este episodio es continuación de la Cara A.
+
+Contertulios: Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+Ep456_A: Señales; Encuentros Estelares; Tensión Cosmológica; Gatos; Starship
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+
+Cara A:
+
+-Fallece William (Jack) Welch, pionero de SETI, esposo de Jill Tarter (8:00)
+
+-Encuentros estelares con transmisiones terrestres a sondas espaciales (12:00)
+
+-Episodio patrocinado por BABBEL. Entra en www.babbel.com/empezar y usa el código COFFEEBREAK para conseguir tus 3 meses gratis (39:00)
+
+-Adam Riess (SH0ES) elimina otro sesgo en la escalera de distancias (40:00)
+
+
+Este episodio continúa en la Cara B.
+
+Contertulios: Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+Ep455_A: Meteoro o Camión; LK-99; Hossenfelder vs Cuerdas; IA en Medicina
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-Se cuestiona el origen de la señal sísmica asociada por Loeb et al al meteoro CNEOS 2014-01-08 (15:00)
+
+Este episodio continúa en la Cara B.
+Contertulios: Sara Robisco, Gastón Giribet, Francis Villatoro, Hector Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso.
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep455_B: Meteoro o Camión; LK-99; Hossenfelder vs Cuerdas; IA en Medicina
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-Sigue coleando el LK-99, supuesto superconductor a temperatura ambiente (00:00)
+-Crítica al vídeo de Sabine Hossenfelder sobre teoría de cuerdas (20:51)
+-Una nueva herramienta basada en la IA mejorará el diagnóstico de cáncer cerebral (1:19:06)
+
+Este episodio es continuación de la Cara A.
+Contertulios: Sara Robisco, Gastón Giribet, Héctor Socas, José Edelstein. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep454_A: Cola; Exoatmósferas; Gravedad; Tecnomarcadores; eROSITA
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-La pérdida de cola en humanos: (5:00)
+-Calentamiento de atmósferas en exoplanetas de corto periodo por corrientes eléctricas (37:10)
+
+Este episodio continúa en la Cara B.
+Contertulios: Héctor Socas, Francis Villatoro. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep454_B: Cola; Exoatmósferas; Gravedad; Tecnomarcadores; eROSITA
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-El experimento de gravitación clásica en miligramos: (19:58)
+-Longevidad de los tecnomarcadores y la ley de Lindy (43:13)
+-El resultado de eRosita sobre S8 (1:10:28)
+-Señales de los oyentes (1:38:58)
+
+Este episodio es continuación de la Cara A.
+Contertulios: Héctor Socas, Francis Villatoro. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep453_A: Alunizaje; Fusión; Supernova; Enana Blanca; Quasar Hiperluminoso; Gravastars
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-Alunizaje de costado del módulo lunar privado Odysseus (3:00)
+-Perseverance fotografía el rotor dañado de Ingenuity (30:00)
+-El control con IA de reactores de fusión nuclear (33:00)
+
+Este episodio continúa en la Cara B.
+Contertulios: Jose Edelstein, Isabel Cordero, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep453_B: Alunizaje; Fusión; Supernova; Enana Blanca; Quasar Hiperluminoso; Gravastars
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-El remanente de la supernova SN 1987A es una estrella de neutrones (10:11)
+-Acreción de metales (astrofísicos) en una enana blanca contaminada (1:00:11)
+-El cuásar más brillante del universo; el agujero negronsupermasivo en crecimiento más rápido del que tengamos noticia. (1:31:11)
+-Gravastar estratificadas (1:41:56)
+-Señales de los oyentes (1:59:41)
+
+Este episodio es continuación de la Cara A.
+Contertulios: Gastón Giribet, Isabel Cordero, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso.
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep452_A: Neurotransistores; Planeta 9; Materia Oscura; Plasma Quark-Gluón
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-Aclaraciones: colapso de la AMOC; transformación entre Kerr y Schwarzschild (4:00)
+-Amautas cumple 3 años (12:00)
+-Premios Fronteras del Conocimiento: Claire Voisin y Yakov Eliashberg (22:00)
+-Un transistor neuromórfico basado en materiales de moiré (35:00)
+
+Este episodio continúa en la Cara B.
+Contertulios: Jose Edelstein, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep452_B: Neurotransistores; Planeta 9; Materia Oscura; Plasma Quark-Gluón
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-Qué nos pueden decir las resonancias de transneptunianos sobre la existencia o no de un Planeta 9 (05:03)
+-Búsqueda del Planeta 9 en el survey de PanSTARRS1 (30:17)
+-La teoría de Sundrum et al. sobre "la materia como universo espejo" (1:01:47)
+-La medición de la velocidad del sonido en el plasma de quarks+gluones (1:27:47)
+
+Este episodio es continuación de la Cara A.
+Contertulios: Gastón Giribet, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep451_A: Papiros de Herculano; Circulación Atlántica; Mimas; Láser de Gravedad
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-Vesuvius challenge y los papiros de Herculano (6:00)
+-Cambio climático: sobre el colapso de la circulación termohalina (38:30)
+
+Este episodio continúa en la Cara B.
+Contertulios: María Ribes, José Edelstein, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep451_B: Papiros de Herculano; Circulación Atlántica; Mimas; Láser de Gravedad
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-El océano subterráneo de Mimas (39:47)
+-Láser gravitacional (1:07:12)
+-Señales de los oyentes (1:35:12)
+
+Este episodio es continuación de la Cara A.
+Contertulios: Gastón Giribet, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep450_A: Exoplanetas y Habitabilidad; Gillain-Barré; Agujeros Negros; Tejido Inteligente; Adiós a Penzias
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-11F, día de la mujer y la niña en ciencia (10:00)
+-La historia de Zoozve, el cuasi-satélite de Venus (23:00)
+-Un tercer exoplaneta en el sistema estelar de Teegarden (35:00)
+
+Este episodio continúa en la Cara B.
+Contertulios: Ángel López-Sánchez, José Edelstein, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep450_B: Exoplanetas y Habitabilidad; Gillain-Barré; Agujeros Negros; Tejido Inteligente; Adiós a Penzias
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-Argumentos contra la presencia de atmósferas en Trappist-I (00:00)
+-La causa autoinmune del síndrome de Guillain-Barré (en algunos pacientes) (38:12)
+-El agujero negro de Markarian 817 observado por XMM-Newton and NuSTAR (1:05:02)
+-Enormes agujeros negros (que son pequeños puntos rojos) a z entre 4 y 9 (1:21:22)
+-Fibras con semiconductores para tejidos inteligentes (1:36:22)
+-Adios a Arno Penzias (1:48:12)
+
+Este episodio es continuación de la Cara A.
+Contertulios: Gastón Giribet, José Edelstein, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep449_A: Ingenuity; NASA; DOOM; Higgs; Entrelazamiento de Quarks; Agujeros Negros
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-Eskirmiones para modelar estrellas de neutrones (tesis doctoral de Miguel Huidobro) (5:00)
+-Finaliza la misión de Ingenuity tras 72 vuelos en Marte (12:00)
+-NIAC financia el startup de 13 nuevos conceptos (31:00)
+-Una estudiante del MIT estudia una “pantalla de bacterias” para correr Doom (43:00)
+
+Este episodio continúa en la Cara B.
+Contertulios: José Edelstein, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep449_B: Ingenuity; NASA; DOOM; Higgs; Entrelazamiento de Quarks; Agujeros Negros
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-ATLAS y CMS estudian la desintegración del bosón de Higgs en un bosón Z y un fotón (00:05)
+-Cociente de masas de agujero negro central a masa total para galaxias a z>4 (24:02)
+-Evolución dinámica de la masa relativa de agujeros negros supermasivos y la masa de la galaxia anfitriona a redshift z=2 (43:22)
+-La evaporación de agujeros negros primordiales podría mantener las nubes de H calientes y permitir las semillas tempranas de SMBHs (48:22)
+-Entrelazamiento cuántico entre quarks en chorros hadrónicos (58:22)
+-Señales de los oyentes (1:22:22)
+
+Este episodio es continuación de la Cara A.
+Contertulios: Gastón Giribet, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep448_B: Gigantopithecus; GPT Perezoso; Estructuras Cosmológicas; Agujeros Negros
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-Pereza en GPT-4 (Invalid time format. Please use hh:mm:ss or hh.mm.ss.)
+-Una estructura cósmica muy grande y muy temprana (27:36)
+-Nueva imagen de M87* (59:16)
+-Confirmación de un agujero negro en GN-z11 (1:10:16)
+-Señales de los oyentes (1:21:06)
+
+Este episodio es continuación de la Cara A.
+Contertulios: Gastón Giribet, Alberto Aparici, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep448_A: Gigantopithecus; GPT Perezoso; Estructuras Cosmológicas; Agujeros Negros
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-The Spectator: ”Have we just discovered aliens?” (No) (5:00)
+-La extinción de Giganthopitecus blacki, el mayor primate de la historia (17:00)
+
+Este episodio continúa en la Cara B.
+Contertulios: Alberto Aparici, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep447_A: Especial Premios Señal y Ruido 2023
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+ESPECIAL PREMIOS SEÑAL Y RUIDO 2023
+Candidaturas Premio Señal (20:00)
+-El apocalipsis de Chicxulub (ep437) (20:00)
+-El chorro de M87* (ep414, ep432) (43:00)
+
+Este episodio continúa en la Cara B.
+Contertulios: Isabel Cordero, José Edelstein, Alberto Aparici, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep447_B: Especial Premios Señal y Ruido 2023
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+ESPECIAL PREMIOS SEÑAL Y RUIDO 2023
+-Nanogravitondas con NANOGrav, EPTA, PTA y CPTA (ep422): (04:48)
+-Beneficios de las terapias GLP-1 contra la obesidad (ep446): (35:48)
+
+Candidaturas Premio Ruido (50:48)
+-El supuesto superconductor a condiciones ambientales LK-99 (ep423) (51:48)
+-Las microesférulas de Loeb (ep439) (1:05:27)
+-Grush testifica sobre OVNIs ante el congreso de EEUU (ep423) (1:31:08)
+
+Este episodio es continuación de la Cara A.
+Contertulios: Isabel Cordero, José Edelstein, Alberto Aparici, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep446_A: Espacio; Obesidad; Oxigenación; Panspermia; DES
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-Noticias del espacio: Fallo de Peregrin-1 y aplazamientos en Artemisa (5:00)
+-Beneficios de las terapias GLP-1 contra la obesidad (15:00)
+
+Este episodio continúa en la Cara B.
+Contertulios: Alberto Aparici, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep446_B: Espacio; Obesidad; Oxigenación; Panspermia; DES
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-Nuevos fósiles de tilacoides nos dan la evidencia directa más antigua de la fotosíntesis del oxígeno: hace 1750 millones de años (04:00)
+-Implicaciones de la observación de ‘Oumuamua para la posibilidad de panspermia (49:26)
+-DES publica sus resultados a los 5 años con ~1500 supernovas Ia (1:09:30)
+-Señales de los oyentes (1:46:30)
+
+Este episodio es continuación de la Cara A.
+Contertulios: Alberto Aparici, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep445_A: Especial Señales de los Oyentes
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Recopilación de preguntas y respuestas
+
+
+
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep445_B: Especial Señales de los Oyentes
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Recopilación de preguntas y respuestas
+
+
+
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep444_A: SETI-Ballena; Fisión de Transuránicos; Agujero Negro Solar; Murciélagos
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-Un proyecto de comunicación con ballenas corcovadas (6:00)
+-Elementos pesados en estrellas: Indicios de fisión de transuránicos (25:00)
+
+Este episodio continúa en la Cara B.
+Contertulios: Sara Robisco, Héctor Vives, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep444_B: SETI-Ballena; Fisión de Transuránicos; Agujero Negro Solar; Murciélagos
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-Agujeros negros primordiales dentro de estrellas (11:05)
+-Murciélagos y parques de energía solar (1:05:35)
+-Señales de los oyentes (1:18:05)
+
+Este episodio es continuación de la Cara A.
+Contertulios: Sara Robisco, Héctor Vives, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep443_A: Leona; Galaxias; IA
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-Ocultación de Betelgeuse (9:00)
+-Descubierta una nueva nebulosa en la galaxia del Triángulo (38:00)
+-Dos mini-anuncios breves de congresos ProAm el año que viene (44:00)
+- La Pequeña Nube de Magallanes son dos sistemas (46:00)
+
+Este episodio continúa en la Cara B.
+Contertulios: María Ribes, Francis Villatoro, Ángel López Sánchez, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep443_B: Leona; Galaxias; IA
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-Primer Mapa de Contaminación Lumínica Calibrado de Alta Resolución de la Península Ibérica (19:30)
+-AI ‘breakthrough’: neural net has human-like ability to generalize language (34:30)
+-A social network for AI (1:19:00)
+-Chirper: una red social solo para IA que imita tan bien a twitter, que las IA se pelean (1:26:00)
+-Descubrimientos matemáticos gracias a FunSearch de DeepMind (Google) (1:30:00)
+
+Este episodio es continuación de la Cara A.
+Contertulios: María Ribes, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep442_A: Tormentas Solares; Metales Extraños; Gravedad Poscuántica; Espacio-Tiempo e Información Cuántica
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-La gran tormenta solar de 1872 (11:30)
+-La posible ausencia de cuasipartículas en los metales extraños (48:00)
+
+Este episodio continúa en la Cara B.
+Contertulios: Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep442_B: Tormentas Solares; Metales Extraños; Gravedad Poscuántica; Espacio-Tiempo e Información Cuántica
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-El paper de J. Oppenheim que estudia la posibilidad de que la gravedad sea fundamentalmente clásica: (00:00)
+-Resumen del workshop “spacetime and quantum information” en el IAS de Princeton (44:17)
+-La posibilidad de que la estrella S0-6 que orbita a Sgr A* en centro galáctico haya sido atrapada y no venga de nuestra galaxia (1:15:36)
+-Señales de los oyentes (1:21:17)
+
+Este episodio es continuación de la Cara A.
+Contertulios: Gastón Giribet, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep441_A: IA y Arte; Betelgeuse; Singularidades; Kerr; Quarks; Agujeros Negros
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-La IA puede recuperar arte destruido: (10:00)
+-La IA al servicio de la Asiriología (38:00)
+
+Este episodio continúa en la Cara B.
+Contertulios: María Ribes, Sara Robisco, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep441_B: IA y Arte; Betelgeuse; Singularidades; Kerr; Quarks; Agujeros Negros
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-Los pingüinos barbijo se echan microsiestas de pocos segundos (1:00)
+-La velocidad de rotación de Betelgeuse y la posibilidad de confundir velocidad de rotación con velocidad de convección en su superficie (10:50)
+-La observación (por primera vez) de un proceso de un sólo quark top y fotones en el LHC (29:50)
+-Los agujeros negros sin pelo gracias a la onda gravitacional GW190521 (47:20)
+-La boutade de Roy Kerr: ¿Los agujeros negros de Kerr contienen singularidades? (1:12:20)
+
+Este episodio es continuación de la Cara A.
+Contertulios: Isabel Cordero, Sara Robisco, Gastón Giribet, Jose Edelstein, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep440_B: Betelgeuse; Rayo Cósmico; Homeostasis; Planeta 9; Genoma
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-Proteínas intrínsecamente desordenadas y la cantidad de agua “libre” dentro de una célula (14:00)
+-Planeta 9, ¿existe o no? (46:00)
+-El genoma visualizable (1:34:00)
+-Señales de los oyentes (1:34:00)
+
+Este episodio es continuación de la Cara A.
+Contertulios: Alberto Aparici, Gastón Giribet, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep440_A: Betelgeuse; Rayo Cósmico; Homeostasis; Planeta 9; Genoma
+a tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-Rectificación sobre astroturismo en Málaga: AstroLab (5:00)
+-Proyecto de ciencia ciudadana para observar la ocultación de Betelgeuse (15:00)
+-Telescope Array observa un protón con unos 250 exaelectrónvoltios (31:00)
+
+Este episodio continúa en la Cara B. 
+Contertulios: Alberto Aparici, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep439_A: Galaxias Oscuras; OpenAI y Altman; Esférulas; Starship
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-Una galaxia casi oscura (Nube) (31:00)
+
+Este episodio continúa en la Cara B.
+Contertulios: Nacho Trujillo, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep439_B: Galaxias Oscuras; OpenAI y Altman; Esférulas; Starship
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-OpenAI despide a Sam Altman (¿o no?) (42:22)
+-Lanzamiento de Starship (1:25:02)
+-Polémica con las microesférulas encontradas por Loeb en el Pacífico (1:45:02)
+
+Este episodio es continuación de la Cara A.
+Contertulios: Nacho Trujillo, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep438_A: Gobekli Tepe; Voynich; Galaxias; Agujeros Negros; LLMs y Proteínas
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-Nuevos hallazgos de esculturas de 11,000 años de antigüedad en la zona de Gobekli-Tepe (10:00)
+-Hallada una carta de la Sra. Voynich sobre el misterioso códice (30:00)
+
+Este episodio continúa en la Cara B.
+Contertulios: María Ribes, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep438_B: Gobekli Tepe; Voynich; Galaxias; Agujeros Negros; LLMs y Proteínas
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-Un agujero negro supermasivo a z~10 apunta a semillas pesadas (00:00)
+-El agujero negro Sag A* rota a casi la velocidad de la luz (27:11)
+-Una galaxia espiral como la Vía Láctea a z=3 (44:41)
+-LLMs para predecir estructura de proteínas (a la AlphaFold) (1:08:11)
+
+Este episodio es continuación de la Cara A.
+Contertulios: Gastón Giribet, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep437_A: ORCs; Chicxulub; Betelgeuse; Theia; Espacio-tiempo
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-La charla de Jose Edelstein con Alan Sokal: (5:00)
+-Gas ionizado extenso en Odd Radio Circles (ORCs) (11:00)
+-El invierno global tras el impacto de Chicxulub (49:00)
+
+Este episodio continúa en la Cara B.
+Contertulios: . Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep437_B: ORCs; Chicxulub; Betelgeuse; Theia; Espacio-tiempo
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-Betelgeuse podría haber tragado una estrella (01:00)
+-Restos del impacto que formó la Luna (29:00)
+-Cómo crear un espacio-tiempo artificial en el laboratorio (50:00)
+-Señales de los oyentes (1:24:00)
+
+Este episodio es continuación de la Cara A.
+Contertulios: . Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep436_B: Scholz; Vesubio; Egipto; Simetría CPT; Agujeros Negros Primordiales; Semiconductor
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-Concedido el primero de los premios del Vesubius Challenge (papiros de Herculano) (00:10)
+-Un antiguo cementerio egipcio de hace 3,500 años (16:45)
+-Violación de simetría CPT en teorías con invariancia Lorentz (32:10)
+-Las masas de los agujeros negros primordiales (1:02:10)
+-Un semiconductor cuántico muy rápido (1:39:10)
+
+Este episodio es continuación de la Cara A.
+Contertulios: Eloy Peña Asensio, María Ribes, Gastón Giribet, José Edelstein, Francis Villatoro. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep436_A: Scholz; Vesubio; Egipto; Simetría CPT; Agujeros Negros Primordiales; Semiconductor
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-La Tierra, bajo ataque por la estrella de Scholz (11:00)
+
+Este episodio continúa en la Cara B.
+Contertulios: Eloy Peña Asensio, María Ribes, Gastón Giribet, José Edelstein, Francis Villatoro. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep435_A: Salud Mental; Eugenio Calabi, Variedades y Teoría de Cuerdas
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-Tertulia sobre salud mental (15:00)
+
+Este episodio continúa en la Cara B.
+Contertulios: Isabel Cordero, Ignacio Crespo, Daniel Orts, Alberto Aparici, Jose Edelstein, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep435_B: Salud Mental; Eugenio Calabi, Variedades y Teoría de Cuerdas
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-Falleció Eugenio Calabi a los 100 años (38:30)
+-Señales de los oyentes (1:21:30)
+
+Este episodio es continuación de la Cara A.
+Contertulios:  Isabel Cordero, Ignacio Crespo, Daniel Orts, Alberto Aparici, Jose Edelstein, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep434_A: Tertulia Solar; Teoría de Ensamblaje; Anillo de Einstein; Novas en M87
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-Tertulia sobre Física Solar con Valentín Martínez Pillet y Javier Rodríguez-Pachecho (min 5:00)
+
+Este episodio continúa en la Cara B.
+Contertulios: Javier Rodríguez Pacheco, Valentín Martínez Pillet, Gastón Giribet, José Edelstein, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney y DALL.E 2. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep434_B: Tertulia Solar; Teoría de Ensamblaje; Anillo de Einstein; Novas en M87
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-Modelo matemático de la aparición de la vida (11:30)
+-JWST descubre un nuevo anillo de Einstein (paper de van Dokkum) (1:17:30)
+-Novae a lo largo del jet de M87* (1:37:00)
+
+Este episodio es continuación de la Cara A.
+Contertulios: Javier Rodríguez Pacheco, Valentín Martínez Pillet, Gastón Giribet, José Edelstein, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney y DALL.E 2 Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep433_A: Garumbatitan; JUMBOs; Relatividad General; Supersimetría; Entrelazamiento
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara A:
+-Revista “Paralajes” del IAC, nº 1, 2023 “El Infrarrojo” (3:00)
+-Actualización de la búsqueda del Planeta 9 (7:00)
+-Resultado preliminar de la muestra de OSIRIS-REx de Bennu (15:00)
+-Garumbatitan morellensis: Un nuevo dinosaurio gigante del Cretáceo Inferior en la Península Ibérica (21:00)
+-JWST descubre JUMBOS, parejas de planetas gigantes sin estrellas (49:00)
+
+Este episodio continúa en la Cara B
+
+Contertulios: Gastón Giribet, Sara Robisco, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep433_B: Garumbatitan; JUMBOs; Relatividad General; Supersimetría; Entrelazamiento
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-Solución a las ecuaciones de Einstein con dos agujeros negros en equilibrio con una constante cosmológica positiva (18:52)
+-ATLAS (LHC) publica nuevos límites de exclusión para la supersimetría (1:13:52)
+-ATLAS (LHC) registra el entrelazamiento a mayor energía jamás observado (1:36:52)
+
+Este episodio es continuación de la Cara A
+
+Contertulios: Gastón Giribet, Sara Robisco, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep432_B: Premios Nobel; Europa; Antimateria; Chorro; Disrupción; Bosón Z
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Cara B:
+-ALPHA-g mide que la antimateria cae hacia abajo (01:00)
+-Los Premios Nobel 2023 (1:02:30)
+-La precesión del jet del agujero negro superamasivo en M87 (1:48:00)
+-Observación de cefeidas con el James Webb para comprobar la tensión de Hubble (2:07:00)
+-Un evento de disrupción de marea por un agujero negro (2:26:00)
+-La medición de ATLAS de la constante de acoplamiento fuerte a la energía de la masa del bosón Z (2:33:00)
+
+Contertulios: Gastón Giribet, Francis Villatoro, José Edelstein, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep432_A: Premios Nobel; Europa; Antimateria; Chorro; Disrupción; Bosón Z
+La tertulia semanal en la que repasamos las últimas noticias de -la actualidad científica. En el episodio de hoy:
+Cara A:
+-Votación para los premios ASESPOD (5:00)
+-Breve resumen de los Premios Nobel (10:00)
+-CO2 endógeno observado por el JWST en la luna helada Europa (20:00)
+
+Contertulios: Gastón Giribet, Francis Villatoro, José Edelstein, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep431_A: Asteroides; Premios Ig Nobel; Agujeros Negros Extremales; Cosmología
+La tertulia semanal en la que repasamos las últimas noticias de -la actualidad científica. En el episodio de hoy:
+-Breves (min 1:00)
+-Adiós a Steve Keil (10:00)
+-De OSIRIS-ReX a OSIRIS-APEX: Retorno de la muestra del asteroide Bennu y misión extendida hacia Apophis (25:00)
+-Premios Ig Nobel (50:00)
+Este episodio continúa en la Parte B
+Contertulios: Alberto Aparici, Gastón Giribet, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep431_B: Asteroides; Premios Ig Nobel; Agujeros Negros Extremales; Cosmología
+La tertulia semanal en la que repasamos las últimas noticias de -la actualidad científica. En el episodio de hoy:
+-Premios Ig Nobel (min 1:00)
+-Agujeros negros extremalmente rotantes (1:00:00)
+-Crecimiento de estructuras cosmológicas: La tensión del parámetro S8 (1:21:00)
+-La línea de 21cm en cosmología (1:51:00)
+-Señales de los oyentes (2:02:00)
+Este audio es continuación de la Parte A
+Contertulios: Alberto Aparici, Gastón Giribet, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep430_A: Noctalgia; Consciencia Artificial
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+-Noctalgia: La melancolía de perder el cielo nocturno (min 5:00)
+-Consciencia en inteligencia artificial (45:00)
+
+Este episodio continúa en la Parte B
+Contertulios: Sara Robisco, Alberto Aparici, Ángel López Sánchez, Gastón Giribet, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep430_B: Noctalgia; Consciencia Artificial
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+-Consciencia en inteligencia artificial (min 1:00)
+
+Este episodio es continuación de la Parte A
+Contertulios: Sara Robisco, Alberto Aparici, Ángel López Sánchez, Gastón Giribet, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep429_A: Biomarcador; Murciélagos; BAO; Híades; Magnetismo Cósmico
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Murciélagos y aerogeneradores (min 11:00)
+¿Biomarcadores en el exoplaneta K2-18b? (42:00)
+Este episodio continúa en la Parte B
+Contertulios: Sara Robisco, Jose Edelstein, Gastón Giribet, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep429_B: Biomarcador; Murciélagos; BAO; Híades; Magnetismo Cósmico
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Continuación: ¿Biomarcadores en el exoplaneta K2-18b? (min 1:00)
+Primera oscilación acústica individual (49:20)
+Agujero(s) negro(s) en el cúmulo de Híades (1:18:29)
+Magnetismo galáctico en el universo joven (1:38:20)
+Señales de los oyentes (1:57:23)
+Este episodio es continuación de la Parte A
+Contertulios: Sara Robisco, Jose Edelstein, Gastón Giribet, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep428_A: Cuello de Botella; Meteoro Interestelar; Agujeros Negros; AGNs
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: 
+Cuando fuimos una especie en peligro de extinción, hace casi un millón de años (min 13:00)
+Este episodio continúa en la Parte B.
+Contertulios: Alberto Aparici, Gastón Giribet, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep428_B: Cuello de Botella; Meteoro Interestelar; Agujeros Negros; AGNs
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: 
+Observaciones del disco de acreción de un agujero negro supermasivo (min 1:00)
+El JWST ve menos AGNs de los esperables en el universo joven (14:00)
+La polémica sobre el meteoro interestelar IM1 y la expedición de Avi Loeb (27:00)
+Este episodio es continuación de la Parte B.
+
+Contertulios: Alberto Aparici, Gastón Giribet, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep427_A: Mecanismo Antikythera; Indiana Jones; Neutrinos; T Tauri; Médula Espinal
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+El mecanismo de Anticitera y la película de Indiana Jones, parte I
+Este episodio continúa en la Parte B.
+Contertulios: María Ribes, Marian Martínez, Gastón Giribet, Iván Martí Vidal, Sara Robisco, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep427_B: Mecanismo Antikythera; Indiana Jones; Neutrinos; T Tauri; Médula Espinal
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: 
+Rayos gamma de estrellas T Tauri (min 1:00); El agujero negro del centro galáctico, Sagittarius A* (21:00);  El mecanismo de Anticitera y la película de Indiana Jones, parte 2 (36:30); Detectados neutrinos del LHC (1:24:00); Reorganización cortical tras lesiones de médula espinal (1:54:00); Señales de los oyentes (2:05:00)
+Este episodio es continuación de la parte A. 
+Contertulios: María Ribes, Marian Martínez, Gastón Giribet, Francis Villatoro, Iván Martí Vidal, Sara Robisco, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep426_A: Rusia, India, Luna; Eventos de Partículas; MOND; Hipervelocidad
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: 
+India y Rusia: Éxitos y fracasos en la Luna (min 5:00); Eventos de partículas en Tierra, Luna y Marte (25:00). Este episodio continúa en la Parte B. Contertulios: Marian Martínez, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep426_B: Rusia, India, Luna; Eventos de Partículas; MOND; Hipervelocidad
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: 
+Polémica MOND (min 1:00); Estrellas a hipervelocidad y visitantes intergalácticos (59:30); Señales de los oyentes (1:27:00)
+Este episodio es continuación de la Parte A. Contertulios: Marian Martínez, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep425_A: Debate: Ética y Ciencia; Sesgos; LK-99; Muón g-2; Batería
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Debate: Ética científica (min 8:00). Este episodio continúa en la Parte B. Contertulios: Sara Robisco, Gastón Giribet, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney y Dall.E 2. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep425_B: Debate: Ética y Ciencia; Sesgos; LK-99; Muón g-2; Batería
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Debate sobre ética científica (min 1:00); La presidencia de la RAC (19:00); Sesgos cognitivos (32:00); Actualización sobre el material LK-99 (54:00); Actualización sobre el experimento Muón g-2 (1:11:00); Batería de carbón-cemento (1:35:00). Este episodio continúa en la Parte B. Contertulios: Sara Robisco, Gastón Giribet, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney y Dall.E 2. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep424_A: Cuerdas 2023; Muón g-2; Gravitondas y Cosmología; Superconductor
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Resumen de Strings 2023, la conferencia sobre teoría de cuerdas (min 5:00). Este episodio continúa en la Parte B. Contertulios: Isabel Cordero, Gastón Giribet, Francis Villatoro, José Edelstein, Héctor Socas. Imagen de portada realizada con Midjourney y Dall.E 2. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep424_B: Cuerdas 2023; Muón g-2; Gravitondas y Cosmología; Superconductor
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Gravitondas para resolver la tensión de la constante de Hubble (min 1:00); Anuncio del experimento Muón g-2 de Fermilab que desafía el modelo estándar (43:00); Actualización sobre el posible superconductor LK-99 (1:12:00); Señales de los oyentes (1:29:00). Este episodio es continuación de la Parte A. Contertulios: Isabel Cordero, Gastón Giribet, Francis Villatoro, José Edelstein, Héctor Socas. Imagen de portada realizada con Midjourney y Dall.E 2. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep423_A: OVNI; Superconductor LK-99; Tiempo y Cosmos
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: OVNI, UAPs, Grusch, History Channel y el Congreso de EEUU (min 13:00). Este episodio continúa en la Parte B. Contertulios: Gastón Giribet, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep423_B: OVNI; Superconductor LK-99; Tiempo y Cosmos
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: OVNI, UAPs, Grusch, History Channel y el Congreso de EEUU (min 1:00); Superconductor LK-99 (28:00); Observada la dilatación temporal cosmológica en cuásares (1:38:40). Este episodio es continuación de la Parte A. Contertulios: Gastón Giribet, Francis Villatoro, Héctor Socas. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep422_A: Solitones; Homo Naledi; Geoquímica; Ondas Gravitacionales
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Breves (min 5:00); Solitones (33:00). Este episodio continúa en la Parte B. Contertulios: Isabel Cordero, Francis Villatoro, Alberto Aparici, Jose Edelstein, Ignacio Crespo. Imagen de portada realizada con Midjourney y DALL-E 2. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep422_B: Solitones; Homo Naledi; Geoquímica; Ondas Gravitacionales
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Homo naledi (min 1:00); Geoquímica (49:00); PTA y ondas gravitacionales (1:20:00). Este episodio es continuación de la Parte A. Contertulios: Isabel Cordero, Francis Villatoro, Alberto Aparici, Jose Edelstein, Ignacio Crespo. Imagen de portada realizada con Midjourney. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep421_A: Galaxias y Materia Oscura; Fósforo en Encélado; La Luna
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Solsticio (min 12:00); La galaxia reliquia NGC1277, deficiente en materia oscura (15:00). Este episodio continúa en la Parte B. Contertulios: Sébastien Comerón, Alberto Aparici, Nacho Trujillo, Jose Edelstein, Héctor Socas. Imagen de portada realizada con Midjourney y DALL-E 2. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep421_B: Galaxias y Materia Oscura; Fósforo en Encélado; La Luna
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Fósforo en Encélado y vida en el sistema solar (min 1:00); Usos científicos para la Luna (1:04:00); Señales de los oyentes (1:39:00). Este episodio es continuación de la Parte A. Contertulios: Sébastien Comerón, Alberto Aparici, Nacho Trujillo, Jose Edelstein, Héctor Socas. Imagen de portada realizada con Midjourney y DALL-E 2. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep420_A: Besos; Betelgeuse; Higgs; Pares de Partículas; Galaxia GN-z11
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: El origen del beso (min 5:00); ¿Está Betelgeuse a punto de explotar? (32:00). Este episodio continúa en la Parte B. Contertulios: María Ribes, Gastón Giribet, Francis Villatoro, Sara Robisco, Ángel López-Sánchez, Jose Edelstein, Héctor Socas. Imagen de portada realizada con DALL-E 2. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep420_B: Besos; Betelgeuse; Higgs; Pares de Partículas; Galaxia GN-z11
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Betelgeuse (continuación) (min 1:00); Hidrocarburos aromáticos observados en otra galaxia (18:00); Desintegración del Higgs en un fotón y un bosón Z (32:00); Anécdotas sobre Peter Higgs y la casa de Maxwell (42:00); Producción gravitacional de pares (1:18:00); Dos papers sobre la galaxia lejana GN-z11 (1:31:30); Señales de los oyentes 2:00:00). Este episodio es continuación de la Parte B. Contertulios: María Ribes, Gastón Giribet, Francis Villatoro, Sara Robisco, Ángel López-Sánchez, Jose Edelstein, Héctor Socas. Imagen de portada realizada con DALL-E 2. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep419_A: Libros; Lenguas; Biota; AI Chats
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Especial Feria del Libro de Madrid. Recomendaciones de libros (min 5:00); ¿Hay lenguas más bellas que otras? (40.00). Este episodio continúa en la Parte B. Contertulios: María Ribes, Francis Villatoro, Ignacio Crespo, Alberto Aparici, Héctor Socas. Imagen de portada realizada con DALL-E 2. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep419_B: Libros; Lenguas; Biota; AI Chats
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Especial Feria del Libro de Madrid.  ¿Hay lenguas más bellas que otras? (continuación) (min 1:00); Premios Princesa de Asturias 2023 (9:00); Asistentes de investigación artificales: Scispace, Elicit y ChatGPT (43:00);. Este episodio es continuación de la Parte A. Contertulios: María Ribes, Francis Villatoro, Ignacio Crespo, Alberto Aparici, Héctor Socas. Imagen de portada realizada con DALL-E 2. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep418_A: Encélado; Hartle; Agujeros Negros; Galaxias; RadioSupernova; X-jets; NASA y OVNIs
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: El JWST observa los penachos de agua que surgen de Encélado (min 9:00); Adiós a James Hartle, colaborador de Stephen Hawking (30:00). Este episodio continúa en la Parte B. Contertulios: Gastón Giribet, Francis Villatoro, Jose Edelstein, Héctor Socas. Imagen de portada: Modificación con DALL-E 2 de imágenes de NASA. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep418_B: Encélado; Hartle; Agujeros Negros; Galaxias; RadioSupernova; X-jets; NASA y OVNIs
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Una galaxia inactiva a z=4.658 (min 1:00); La oscura presencia en el cúmulo globular M4, ¿un agujero negro? (15:00); Líneas coronales y agujeros negros de masa intermedia (24:00); Observada en radio una supernova de tipo Ia (46:00); Variabilidad en chorros relativistas de rayos X (58:00); La NASA investiga más de 800 casos de OVNIs (1:05:00); Señales de los oyentes (1:18:00). Este episodio continúa es continuación de la Parte A. Contertulios: Gastón Giribet, Francis Villatoro, Jose Edelstein, Héctor Socas. Imagen de portada: Modificación con DALL-E 2 de imágenes de NASA. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep417_A: Supernova; Computación Cuántica y Alones; Fusión; Postdocs
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: El orgullo friki (min 3:00); La supernova SN2023ixf (17:00). Este episodio continúa en la Parte B. Contertulios: Gastón Giribet, Francis Villatoro, Héctor Socas. Imagen de portada: Modificación con DALL-E 2 de imágenes de NASA. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep417_B: Supernova; Computación Cuántica y Alones; Fusión; Postdocs
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Alones (anyons) y computación cuántica (min 1:00); ¿Es aneutrónica la fusión nuclear que propone Helion? (47:40); Reflexiones sobre la carrera investigadora (1:02:00); Otras preguntas de los oyentes (1:47:40). Este episodio es continuación de la Parte A. Contertulios: Gastón Giribet, Francis Villatoro, Héctor Socas. Imagen de portada: Modificación con DALL-E 2 de imágenes de NASA. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep416_A: JUICE; Fusión; Cosmología; CNEOS; Ctenóforos
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Resuelto el problema de JUICE (min 14:00); Microsoft invierte en el reactor de fusión de Helion (31:20); ApJ dejará de publicar papers sobre eventos (individuales) de CNEOS (50:00). Este episodio continúa en la Parte B. Contertulios: Alberto Aparici, Gastón Giribet, Francis Villatoro, José Edelstein, Héctor Socas. Imagen de portada: Modificación con DALL-E 2 de imágenes de NASA. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep416_B: JUICE; Fusión; Cosmología; CNEOS; Ctenóforos
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: ApJ dejará de publicar papers sobre eventos (individuales) de CNEOS (min 1:00); La reaparición de una supernova magnificada y la tensión cosmológica de H0 (16:00); Retrocausalidad, cuántica y clickbaits (1:00:00); Ctenóforos y la evolución de los sistemas nerviosos (1:22:00). Este episodio es continuación de la Parte A. Contertulios: Alberto Aparici, Gastón Giribet, Francis Villatoro, José Edelstein, Héctor Socas. Imagen de portada: Modificación con DALL-E 2 de imágenes de NASA. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep415_B: El Lado Oculto del Sol; De Cuántica a Clásica; Exoatmósferas Extensas
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Explorando la frontera entre el mundo clásico y el cuántico (min 2:00); Atmósferas de H/He en exoplanetas jóvenes (58:00); Señales de los oyentes (1:24:00). Este episodio es continuación de la Parte A. Contertulios: Alberto Aparici, Gastón Giribet, José Edelstein, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep415_A: El Lado Oculto del Sol; De Cuántica a Clásica; Exoatmósferas Extensas
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: La dura vida de l@s postdocs (min 5:00); Solar Orbiter y el lado oculto del Sol (38:00). Este episodio continúa en la Parte B. Contertulios: Alberto Aparici, Gastón Giribet, José Edelstein, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep414_B: Galaxia; Agujero Negro; IyC; Supertierras; Disrupción; Polvo
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: El origen del chorro de M87* (min 2:00); Carta abierta para salvar el archivo digital de Invetigación y Ciencia (49:00); Dos supertierras en zona de habitabilidad (1:03:00); Evento de disrupción de marea (1:08:00); Polvo en zonas de baja metalicidad (1:23:00); Señales de los oyentes (1:36:00). Este episodio es continuación de la Parte A. Contertulios: Isabel Cordero, Gastón Giribet, José Edelstein, Mireia Montes, Jorge Sánchez, Iván Martí Vidal, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep414_A: Galaxia; Agujero Negro; IyC; Supertierras; Disrupción; Polvo
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: ¿Agujero negro a la fuga o galaxia de canto? (min 5:00). Este episodio continúa en la Parte B. Contertulios: Isabel Cordero, Gastón Giribet, José Edelstein, Mireia Montes, Jorge Sánchez, Iván Martí Vidal, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep413_A: Controversia Galáctica; Rosalind Franklin; Fuentes Ultraluminosas; Redes Neuronales; Exoplaneta; Materia...
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Controversia galáctica (min 4:00); Codificación del habla en el encéfalo humano y en redes neuronales (25:00). Este episodio continúa en la Parte B. Contertulios: Francis Villatoro, Sara Robisco, Gastón Giribet, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep413_B: Controversia Galáctica; Rosalind Franklin; Fuentes Ultraluminosas; Redes Neuronales; Exoplaneta; Materia...
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Nuevas observaciones de M87* (min 1:00); Nuevos documentos sobre la historia de Rosalind Franklin y el ADN (7:00); Fuentes pulsantes ultraluminosas que violan el límite de Eddington (44:30); Gravastars (1:12:00); El curioso exoplaneta TOI-733 b (1:23:00); Anillos de Einstein para diferenciar si la materia oscura es tipo WIMP o tipo axión (1:18:00); Un protocúmulo observado con el JWST (1:40:00). Este episodio continúa en la Parte B. Contertulios: Francis Villatoro, Sara Robisco, Gastón Giribet, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep412_B: Hiperlumínico; Galaxias; Proteínas Aberrantes; Doble Rendija Temporal; Hidrógeno Metálico
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Cara A: Sobre Coffee Break (min 4:00); Sabine Hossenfelder y el viaje hiperlumínico (15:00). Cara B: Galaxias tempranas observadas por el JWST (min 1:00); ADN no codificante y proteínas aberrantes (33:00); Doble rendija en el tiempo (1:09:00); Hidrógeno metálico (1:28:00); Señales de los oyentes (1:38:00). Contertulios: Francis Villatoro, Sara Robisco, Gastón Giribet, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep412_A: Hiperlumínico; Galaxias; Proteínas Aberrantes; Doble Rendija Temporal; Hidrógeno Metálico
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Cara A: Sobre Coffee Break (min 4:00); Sabine Hossenfelder y el viaje hiperlumínico (15:00). Cara B: Galaxias tempranas observadas por el JWST (min 1:00); ADN no codificante y proteínas aberrantes (33:00); Doble rendija en el tiempo (1:09:00); Hidrógeno metálico (1:28:00); Señales de los oyentes (1:38:00). Contertulios: Francis Villatoro, Sara Robisco, Gastón Giribet, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep411: Esna; FRAGMENTARIUM; Herculano; Teselado; Rafael Luque
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Pospuesto el lanzamiento de la misión europea JUICE (min 4:00); El techo astronómico del templo egipcio de Esna (10:00); Fragmentarium: Reconstruyendo el puzzle de las tablillas babilonias (36:00); Ciencia ciudadana y tomografía de rayos X para leer los papiros de Herculano (1:01:00); El problema de einstein: Teselado aperiódico con una tesela (1:19:00); El polémico caso de Rafael Luque (1:54:00); Señales de los oyentes (2:39:00). Contertulios: María Ribes, Sara Robisco, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep410: Luna; Marcianadas; Bosón W; Protogalaxia; Agujeros Negros
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: La tripulación de Artemisa II, la próxima misión tripulada a la Luna (min 10:00); Chang'e 5 encuentra agua lunar (30:00); De los autores de "champiñones en Marte" llega "artrópodos en Marte" (39:00); Atlas anuncia su medida de la masa del bosón W (59:00); ¿Se ha resuelto la paradoja de la información en los agujeros negros? (1:22:30); Una población de estrellas de los orígenes de la Vía Láctea (1:36:00); GAIA detecta un agujero negro acompañado de una gigante roja (1:45:30). Estallidos rápidos de radio y ondas gravitacionales (1:52:00); Un agujero negro ultramasivo (2:01:00). Contertulios: Sara Robisco, Francis Villatoro, Gastón Giribet, José Edelstein, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep409: Caffarelli, Premio Abel; TRAPPIST-1 b; Agujeros Negros: Dualidad, Efecto Meissner y Cuerdas; 'Oumuamua
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Luis Caffarelli, premio Abel (min 5:00); Observaciones del exoplaneta TRAPPIST-1 b con el JWST (1:06:00); Dualidad entre un sistema cuántico y un agujero negro en 10 dimensiones (1:27:30); Efecto Meissner en agujeros negros (1:55:30); Solución de agujero negro en teoría de cuerdas (2:11:30); Nueva explicación a la aceleración no gravitatoria de 'Oumuamua (2:19:00); Señales de los oyentes (2:44:00). Contertulios: Isabel Cordero, Francis Villatoro, Gastón Giribet, José Edelstein, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep408: Uracilo en Ryugu; Loeb, Naves y UAPs; Teletransporte Contrafáctico; Segmentación; Agujeros Negros
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Luis Caffarelli, premio Abel (min 4:00); Uracilo en Ryugu (9:00); Objetos interestelares como fragmentos de esferas de Dyson (29:00); De naves nodriza y UAPs (54:30); Teletransporte contrafáctico y agujeros de gusano locales (1:52:00); Segmentación de imágenes de MRI con "machine learning" (2:40:00); Un sistema cuántico simple que describe un agujero negro (2:40:00). Contertulios: Francis Villatoro, Sara Robisco, Gastón Giribet, José Edelstein, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep407: ChatGPT4; Macacos; Superconductor; Cerebro de Insecto; IA y Esclerosis Múltiple
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: ChatGPT-4; Superconductor en condiciones ambientales; Primer mapa del cerebro completo de un insecto (larva de drosofila); U-Net para la segmentación de lesiones en esclerosis múltiple: Herramientas de macacos. Contertulios: Francis Villatoro, Sara Robisco, Andrés Asensio, Carlos Westendorp. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep406: CRISPR-Cas9; Imágenes en el Cerebro; SETI
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Reconstruyen ancestros de la enzima Cas9 de hace miles de millones de años (min 4:00); Leyendo imágenes del cerebro con MRIf y "latent stable diffusion" (45:00); Usando IA para extraer señales de radio en búsquedas SETI (1:36:00); Señales de los oyentes (2:30:00). Contertulios: Carlos Westendorp, Isabel Corder, Jose Edelstein, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep405: Agujero Negro; CARMENES; Blazar; Rebobinado Cuántico
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Debate sobre costes de publicación (min 8:00); Agujero negro a la fuga (34:00); Primera publicación de datos de CARMENES (1:20:00); El blazar OJ 287 y el estallido que no  se produjo (1:50:30); Revertiendo el estado cuántico de un sistema (2:16:00); Señales de los oyentes (2:43:00). Contertulios: Isabel Cordero, Gastón Giribet, Sara Robisco, Jose Edelstein, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep404: ChatGPT y Teoría de la Mente; Agujeros Negros y Energía Oscura; Neandertales
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: El gorro láser y el cambio climático (min 10:00); Agujeros negros y energía oscura (1:44:50); Hallazgo de restos neandertales muy recientes (2:27:00); Señales de los oyentes (2:41:40). Contertulios:  Carlos Westendorp, Gastón Giribet, Sara Robisco, Jose Edelstein, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+
+
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep403: Miniluna; Lope de Vega; Polvo Lunar; AGN Doble; Anillo de Quaoar
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: La efímera miniluna de la Tierra (min 6:30); Una IA descubre la última obra de Lope de Vega (34:00); Polvo lunar contra el calentamiento global (1:00:20); Una galaxia cercana con doble núcleo activo (2:00:00); El intrigante anillo de Quaoar (2:18:00); Señales de los oyentes (2:35:00). Contertulios: Isabel Cordero, Gastón Giribet, Sara Robisco, Jose Edelstein, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep402: Personas Momificadas; Cemento Romano; Teletransporte Cuántico; Planeta 9; Agujero Negro; Exoplaneta
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Análisis del embalsamamiento egipcio (min 7:00); La durabilidad del hormigón romano (40:00); Actualización sobre nuestra búsqueda del Planeta 9 (1:16:00); Teletransporte cuántico de energía (1:55:00); Un cuásar activo enormemente lejano (2:28:00); Un exoplaneta descubierto por lente gravitacional desde el espacio (2:43:00); Señales de los oyentes (2:52:30). Contertulios: María, Ribes, Gastón Giribet, Sara Robisco, Jose Edelstein, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep401: Rotación Terrestre; JWST; VIRGO; Medina Azahara; Agujeros Negros
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Resuelta la avería en NIRISS, del JWST (min 9:00); La mal contada rotación del núcleo terrestre (26:00); VIRGO, las ondas gravitacionales y los ruidos ambientales (1:04:11); ¿Causaron los terremotos el abandono de la ciudad califal de Medina Alzahara? (1:56:00); Agujeros negros "sobremasivos" en galaxias enanas lejanas (2:22:00). Contertulios: Sara Robisco, Jose Edelstein, Isabel Cordero, Francis Villatoro, Gastón Giribet, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso!
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep400: Especial Premios Señal y Ruido 2022
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Especial Premios Señal y Ruido. Repasamos lo mejor y lo peor de la ciencia durante el año 2022. Candidaturas a Premio Señal (min 11:00); Candidaturas a Premio Ruido (1:41:30); Veredicto (2:58:30). Contertulios: Jose Edelstein, Isabel Cordero, Francis Villatoro, Gastón Giribet, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso1
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep399: Ciencia disruptiva; QUIJOTE, la Cosmología y nuestra galaxia
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: ¿Es la ciencia menos disruptiva que antes? (8:40); Primeros resultados del experimento QUIJOTE (1:02:00); Señales de los oyentes (2:21:30). Contertulios: Jose Edelstein, Sara Robisco, Francis Villatoro, Jose Alberto Rubiño, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso.
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep398: Papers Fraudulentos; Galaxias Satélites; MOND
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Los "talleres clandestinos" de papers fraudulentos (min 8:30); El problema del plano de las galaxias satélites (1:15:30); MOND y los centros de las galaxias enanas (1:47:00); Señales de los oyentes (2:50:30). Contertulios: Jorge Sánchez Almeida, Francis Villatoro, Nacho Trujillo, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso.
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep397: Marte; Anomalía LHCb; Exoatmósfera; Luz Intracumular
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Paleomagnetismo marciano (min 13:50); DRAGO-2 (32:00); La atmósfera del exoplaneta WASP 39b (39:30); Se desvanece la anomalía de LHCb (1:05:40); Luz intracumular observada con el JWST (2:02:30); Señales de los oyentes (2:44:00).  Contertulios: Héctor Vives, Mireia Montes, Francis Villatoro, Nacho Trujillo, José Edelstein, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso.
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep396: Especial Interpretaciones de la Mecánica Cuántica
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Especial Interpretaciones de la Mecánica Cuántica. Contertulios: Gastón Giribet, Francis Villatoro, Alberto Aparici, José Edelstein, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep395: Especial Cuatro Introducciones a la Mecánica Cuántica
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Cuatro introducciones a la mecánica cuántica. Introducción de Gastón Giribet (min 7:00); Introducción de Héctor Socas (25:20); Introducción de Francis Villatoro (1:31:00); Introducción de José Edelstein (2:04:50). Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+ Hosted on Acast. See acast.com/privacy for more information.
+
+
+Ep394: Fusión Nuclear; Galaxias Tempranas; Partículas Solares; Agujeros Negros Primordiales
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Artemis I: El regreso (min 9:00); Fusión nuclear y el anuncio de NIF (14:30); El JWST observa las galaxias más lejanas y tempranas (1:05:30); Agujeros negros primordiales (1:31:00); Solar Orbiter y los eventos de partículas solares (2:03:00); Betelgeuse (2:38:44). Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife. Museos de Tenerife apoya el valor científico y divulgativo de CB:SyR sin asumir como propios los comentarios de los participantes.
+
+
+Ep393: Chicxulub; Agujero de Gusano; Marte
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: GPT-3, una inteligencia artificial con un avanzado modelo de conversación (min 8:00); Predicción del impacto de un pequeño asteroide (25:00); Denuncias de malas prácticas en la investigación del impacto de Chicxulub (41:00); ¿Se ha creado un agujero de gusano transitable? (1:24:00); Un penacho de magma bajo la superficie de Marte (2:18:30); Señales de los oyentes (2:42:00). Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife. Museos de Tenerife apoya el valor científico y divulgativo de CB:SyR sin asumir como propios los comentarios de los participantes.
+
+
+Ep392: JWST; Función de Onda; Emperador Romano; TMT; Genoma Vegetal
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Tertulia sobre la ciencia del JWST (min 7:30); La función de onda en cuántica (1:26:00); ¿Un nuevo emperador romano? (1:40:30); Estado actual del proyecto de supertelescopio TMT (2:13:50); ¿Es más largo el genoma vegetal que el animal? (2:34:20). Portada generada con DALL.E 2. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife. Museos de Tenerife apoya el valor científico y divulgativo de CB:SyR sin asumir como propios los comentarios de los participantes.
+
+
+Ep391: Fusión Nuclear; Horizontes Sintéticos; Encuentros Estelares
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Docencia y criterios de evaluación (min 8:00); IFMIF-DONES y el futuro de la fusión nuclear (23:00); Simulaciones de horizonte de agujeros negros (50:00); Encuentros pasados del sistema solar con otras estrellas (1:47:00); Señales de los oyentes (2:28:00) . Contertulios: Francis Villatoro, Gastón Giribet, Héctor Socas. Portada generada con DALL.E 2. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife. Museos de Tenerife apoya el valor científico y divulgativo de CB:SyR sin asumir como propios los comentarios de los participantes.
+
+
+Ep390: Artemis I; Venus; Trasplantes; Constantes Fundamentales; Gigantes Rojas; Agujeros Negros
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Lanzada con éxito Artemisa I (min 7:30); Continúa la controversia del fosfano en Venus (30:00); Predicciones de supervivencia a trasplantes de corazón (45:30); Cotas a la variación de las constantes físicas fundamentales (1:03:00); Sismología de gigantes rojas (1:43:00); Un agujero negro de masa intermedia en una galaxia enana (2:28:30); Señales de los oyentes (2:46:00) . Contertulios: Sara Robisco, Héctor Vives, Francis Villatoro, Jose Edelstein, Gastón Giribet, Héctor Socas. Portada generada con Stable Diffusion. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife. Museos de Tenerife apoya el valor científico y divulgativo de CB:SyR sin asumir como propios los comentarios de los participantes.
+
+
+Ep389: Cosmología; Estereotipos Científicos; Matemáticas
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Inflación y el fondo cósmico de gravitones (min 5:00); La percepción social de l@s científic@s (1:08:00); ¿Ha observado el James Webb evidencia de minicúmulos de axiones o agujeros negros primordiales? (1:49:00); La hipótesis de Riemann (2:00:00); Señales de los oyentes (2:37:00) . Contertulios: Sara Robisco, Francis Villatoro, Jose Edelstein, Jose Alberto Rubiño, Gastón Giribet, Héctor Socas. Portada generada con Stable Diffusion. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife. Museos de Tenerife apoya el valor científico y divulgativo de CB:SyR sin asumir como propios los comentarios de los participantes.
+
+
+Ep388: IceCube y Gravitación Cuántica; Actualidad del espacio; Arañas que duermen; El precio del CO2
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Gravedad cuántica y neutrinos; Actualidad del espacio; Arañas que duermen; El precio del CO2. Contertulios: Francis Villatoro, Jose Edelstein, Ángel López-Sánchez, Alberto Aparici. Portada generada con Stable Diffusion. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife. Museos de Tenerife apoya el valor científico y divulgativo de CB:SyR sin asumir como propios los comentarios de los participantes.
+
+
+Ep387: SARS-CoV-2; Latigazos y Solar Orbiter; OVNIs; Estrella de Neutrones
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: TESS recuperado (min 6:00); El SARS-CoV-2 ¿virus sintético? (15:00); Latigazos magnéticos del Sol observados por Solar Orbiter (42:30); Loeb explica los OVNIs de Ucrania (1:20:00); Una estrella de neutrones sospechosamente ligera (1:44:00); Señales de los oyentes (2:11:00). Contertulios: Sara Robisco, Francis Villatoro, Gastón Giribet, Héctor Socas. Portada generada con Stable Diffusion. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife. Museos de Tenerife apoya el valor científico y divulgativo de CB:SyR sin asumir como propios los comentarios de los participantes.
+
+
+Ep386: Simulante Lunar LZS-1; IA y Medicina Individualizada; El Mayor Estallido de Rayos Gamma
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Agradecimientos (min 5:00); Simulando la Luna en Lanzarote: Entrevista Fernando Alberquilla (20:00); Una red neuronal para predecir respuestas individualizadas a tratamientos médicos (1:04:30); El estallido de rayos gamma más energético jamás registrado (1:32:00); Señales de los oyentes (2:22:00). Contertulios: Sara Robisco, Fernando Alberquilla, Ignacio  Crespo, Francis Villatoro, Gastón Giribet, José Edelstein, Héctor Socas. Portada generada con Stable Diffusion. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife. Museos de Tenerife apoya el valor científico y divulgativo de CB:SyR sin asumir como propios los comentarios de los participantes.
+
+
+Ep385: Ingeniería Genética; AlphaTensor; Luna y Theia; DART
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: TESS en modo seguro (min 4:00); Planeta 9 (min 8:00); Ingeniería genética, con J.M. Mulet (15:00); AlphaTensor, una IA que inventa algoritmos (57:00); Resultado del impacto de DART (1:33:00); El día en que nació la Luna (1:50:00); Señales de los oyentes (2:35:00). Contertulios: Sara Robisco, J.M. Mulet, Francis Villatoro, Gastón Giribet, Héctor Socas. Portada generada con Stable Diffusion. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife. Museos de Tenerife apoya el valor científico y divulgativo de CB:SyR sin asumir como propios los comentarios de los participantes.
+
+
+Ep384: Premios Nobel; Entrelazamiento Cuántico; Sagitario A*
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Predicciones de Francis (min 5:00); Premios Nobel (15:00); Nobel de Fisiología o Medicina (25:00); Nobel de Química (34:00); Nobel de Física (47:00); Llamarada en el agujero negro supermasivo del centro galáctico (1:36:00); Señales de los oyentes (2:00:00). Contertulios: Iván Martí, Francis Villatoro, Jose Edelstein, Gastón Giribet, Héctor Socas. Portada generada con Stable Diffusion. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife. Museos de Tenerife apoya el valor científico y divulgativo de CB:SyR sin asumir como propios los comentarios de los participantes.
+
+
+Ep383: Planeta 9; DART; Sueños y REM; Proyectos Aleatorios; Física de Partículas
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Nuestra búsqueda del Planeta 9 (min 5:00); El impacto de DART en Dimorphos (1:20:30); Neurociencia del sueño y la fase REM en ratones (1:39:00); La lotería de los proyectos de investigación (2:12:50); Sabine Hossenfelder contra la comunidad de la física de partículas (2:41:17) ; Señales de los oyentes (3:03:00). Contertulios: Nacho Trujillo, Gastón Giribet, Alberto Aparici, Francis Villatoro, Jose Edelstein, Héctor Socas. Portada generada con DALL.E 2. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife. Museos de Tenerife apoya el valor científico y divulgativo de CB:SyR sin asumir como propios los comentarios de los participantes.
+
+
+Ep382: Terremotos; JWST; Meteoritos en Marte; Anillos y Lunas; El Apocalipsis de Chicxulub
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Terremotos en México y coincidencias de fechas (min 5:00); Adiós a Maarten Schmidt, descubridor de los cuásars (32:20); Problema con el instrumento MIRI del JWST (43:00); El espectro de Marte observado por JWST (58:00); Insight registra impactos de meteoritos en Marte (1:11:00); El origen de los anillos de Saturno (1:31:00); Un sistema binario formado por una estrella tipo solar y un agujero negro (1:53:00); Nuevos hallazgos sobre el impacto de Chicxulub: Incendios y tsunamis (2:08:00); Señales de los oyentes (2:28:00). Contertulios: Sara Robisco, Héctor Vives, Gastón Giribet, Francis Villatoro, Héctor Socas. Portada gentileza de Manu Pombrol. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife. Museos de Tenerife apoya el valor científico y divulgativo de CB:SyR sin asumir como propios los comentarios de los participantes.
+
+
+Ep381: Dall.E 2; Cirugía Paleolítica; Tetraneutrón; Exoplanetas
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Naukas Bilbao 2022 (min 6:00); Dall.E 2 "imagina" paisajes y personajes de Tolkien (13:00); La mutilación más antigua conocida, hace 31,000 años (58:00); Observada una configuración de cuatro neutrones juntos (1:22:00); Exoplaneta en la zona de habitabilidad de una de las estrellas cercanas más frías (1:56:30); Señales de los oyentes (2:17:00). Contertulios: Sara Robisco, Alberto Aparici, Gastón Giribet, Francis Villatoro, Jose Edelstein, Héctor Socas. Portada gentileza de Manu Pombrol. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife. Museos de Tenerife apoya el valor científico y divulgativo de CB:SyR sin asumir como propios los comentarios de los participantes.
+
+
+
+Ep380: Frank Drake y SETI; Embriones Sintéticos; LHC; Exoplaneta; Burbujas de Fermi; Protón y Encanto
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Espectacular avistamiento de Starlink (min 5:00); Problemas con la criogenia del LHC (13:30); Detección de CO2 en un exoplaneta (20:30); Adiós a Frank Drake. Orígenes de SETI y ecuación de Drake (31:00); Embriones sintéticos a partir de células madre (1:37:00); Subestructura en las burbujas de Fermi (1:55:00); NNPDF y la componente de quark encanto en el protón (2:13:30); Señales de los oyentes (2:38:40) . Contertulios:  Sara Robisco, Gastón Giribet, Francis Villatoro, Héctor Socas. Portada gentileza de Manu Pombrol. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife. Museos de Tenerife apoya el valor científico y divulgativo de CB:SyR sin asumir como propios los comentarios de los participantes.
+
+Ep379: Chorizogate; Artemis I; Chimpancés; JWST; ¿Refutado el Big Bang?
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: El chorizo más famosa de la galaxia (min 7:00); Pospuesto el lanzamiento de Artemis I (28:00); Estructura en las secuencias vocales de los chimpancés (1:28:00); Galaxias no tan distantes, tras la calibración de NIRCam en JWST (2:25:00); ¿Tiene algún sentido eso de que se ha refutado el Big Bang? (2:35:00). Contertulios:  María Ribes, Héctor Vives, Gastón Giribet, Sara Robisco, Alberto Aparici, Francis Villatoro, Héctor Socas. Portada gentileza de Manu Pombrol. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife. Museos de Tenerife apoya el valor científico y divulgativo de CB:SyR sin asumir como propios los comentarios de los participantes.
+
+Ep378: JWST; Materia Oscura y Kroupa; Xenon1T; Agujero Negro Extragaláctico
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: JWST y los micrometeoritos (min 5:00); Perseverance (31:30); Galaxias a alto redshift (42:00); El controvertido artículo de Kroupa sobre la materia oscura (57:00); Descartado el exceso de Xenon1T (2:21:00); Un agujero negro tranquilo en la Gran Nube de Magallanes (2:33:00). Contertulios:  Gastón Giribet, Sara Robisco, Héctor Vives, Francis Villatoro, Héctor Socas. Portada gentileza de Manu Pombrol. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife. Museos de Tenerife apoya el valor científico y divulgativo de CB:SyR sin asumir como propios los comentarios de los participantes.
+
+Ep377: Galaxias; Cráneo; Peste Negra; Agujeros Negros; Holografía
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Las galaxias más distantes del JWST (min 9:00); Hallado el cráneo humano más antiguo (47:00); Strings 2022, el congreso de la teoría de cuerdas (1:05:00); El origen de la peste negra (1:18:00); Formación de los primeros agujeros negros supermasivos (1:53:00); Nueva dualidad dS/CFT (2:38:00); Señales de los oyentes (2:38:00). Contertulios:  Alberto Aparici, Sara Robisco, Gastón Giribet, Francis Villatoro, Ángel López-Sánchez. Portada gentileza de Manu Pombrol. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife. Museos de Tenerife apoya el valor científico y divulgativo de CB:SyR sin asumir como propios los comentarios de los participantes.
+
+Ep376: Especial Primeras Imágenes del JWST
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Especial: Primeras imágenes del James Webb Space Telescope (min 5:00); Señales de los oyentes (2:32:00). Contertulios:  Gastón Giribet, Héctor Vives, Jose Edelstein, Francis Villatoro, Héctor Socas. Portada gentileza de Manu Pombrol. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife. Museos de Tenerife apoya el valor científico y divulgativo de CB:SyR sin asumir como propios los comentarios de los participantes.
+
+Ep375: Revistas; Higgs; LHC; Medallas Fields; Neutrinos Solares
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Nuevos índices de impacto y citas de publicaciones científicas (min 5:00); Aniversario del descubrimiento del Higgs (28:00); Debate: ¿se necesitan más colisionadores? (35:00); Arranca el tercer ciclo de colisiones del LHC a 13.6 TeV (59:30); Medallas Fields 2022, el gran premio de las matemáticas (1:05:00); Borexino, los neutrinos solares y el problema del modelo solar (2:00:00); Señales de los oyentes (2:20:00). Contertulios:  Gastón Giribet, Sara Robisco, Francis Villatoro, Héctor Socas. Portada gentileza de Manu Pombrol. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife. Museos de Tenerife apoya el valor científico y divulgativo de CB:SyR sin asumir como propios los comentarios de los participantes.
+
+Ep374: Origen y Fin del Universo; Iniciarse en Astronomía; Preguntas y Respuestas
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Mesa redonda sobre "principio y fin del Universo" (min 3:00); Cómo iniciarse en astronomía de aficionado (1:17:00); Preguntas y respuestas (1:50:30) . Contertulios: Bea Ruiz, Gastón Giribet, Sara Robisco, Ángel López Sánchez Jose Alberto Rubiño, Francis Villatoro, Héctor Socas. Portada gentileza de Manu Pombrol. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife. Museos de Tenerife apoya el valor científico y divulgativo de CB:SyR sin asumir como propios los comentarios de los participantes.
+
+Ep373: Wolf-Rayet; Problema Solar; Dimensión Oscura y Agujeros Negros
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Espectacular reentrada del cohete chino CZ-2F (min5:00); Supernova de Wolf-Rayet (21:30); El mapa de astrónomos aficionados (50:00); ¿Ha detectado China señales alienígenas? (56:00); El problema del modelo solar (1:14:00); La dimensión oscura de Vafa y los agujeros negros primordiales (2:10:00). Contertulios: Gastón Giribet, Ángel López Sánchez, Héctor Socas. Portada gentileza de Manu Pombrol. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife. Museos de Tenerife apoya el valor científico y divulgativo de CB:SyR sin asumir como propios los comentarios de los participantes.
+
+Ep372: IA y Consciencia; GAIA; Agujero Negro Errante; Cuásar Luminoso
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: GAIA publica su DR3 (min 5:00); LaMDA, la IA de Google ¿es un ser consciente? (28:00); Un agujero negro errante (1:32:00); Un cuásar muy luminoso (1:50:25); Señales de los oyentes (2:05:00). Contertulios: Gastón Giribet, Sara Robisco, Francis VIllatoro, Héctor Socas. Portada gentileza de Manu Pombrol. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife. Museos de Tenerife apoya el valor científico y divulgativo de CB:SyR sin asumir como propios los comentarios de los participantes.
+
+Ep371: JWST; GAIA y Cefeidas; ¿Chorro en M87*?; Glaucoma; Átomos de Rydberg
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Microimpacto en el JWST (min 5:00); GAIA, cefeidas y la discrepancia de H0 (14:00); ¿Chorro en M87*? (59:30); Redes neuronales para el diagnóstico del glaucoma (1:44:30); Átomos de Rydberg (2:13:30); Señales de los oyentes (2:30:00). Contertulios: Gastón Giribet, Jose Edelstein, Francis VIllatoro, Alberto Aparici, Sara Robisco, Iván Martí-Vidal, Héctor Socas. Portada gentileza de Manu Pombrol. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife. Museos de Tenerife apoya el valor científico y divulgativo de CB:SyR sin asumir como propios los comentarios de los participantes.
+
+Ep370: Voyager 1; SETI; Teoría de Cuerdas y el Pantano
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: La intrigantes señales del Voyager 1 (min 7:50); ¿Civilizaciones maliciosas en la galaxia? (30:00); Migraciones espaciales (1:17:00); La predicción de una dimensión oscura a una micra (1:35:00); Señales de los oyentes (2:32:00). Contertulios: Gastón Giribet, Jose Edelstein, Héctor Socas. Portada gentileza de Manu Pombrol. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife. Museos de Tenerife apoya el valor científico y divulgativo de CB:SyR sin asumir como propios los comentarios de los participantes.
+
+Ep369: Los Nobel; Magnetosfera y Luna; Erídano y la Mancha Fría Cosmológica
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Fe de erratas y reflexiones sobre los Nobel (min 5:00); El controvertido vídeo de Veritasium (28:00); Magnetosfera terrestre y el transporte de iones a la Luna (41:00); La "mancha fría" del fondo cósmico y el supervacío de Erídano (1:20:00); Señales de los oyentes (1:57:30)  Contertulios: Francis Villatoro, Alberto Aparici, Héctor Socas. Portada gentileza de Manu Pombrol. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep368: Monopolos; Galaxias de van Dokkum; Luna; Gatos
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: La búsqueda de los monopolos magnéticos (min 5:00); La hipótesis del grupo de van Dokkum sobre las galaxias sin materia oscura (45:00); Cultivando el regolito lunar (1:33:00); Proyecto para un radiotelescopio autoensamblante en la cara oculta lunar (1:49:00); La capacidad de los gatos para reconocer nombres (2:05:00). Portada gentileza de Manu Pombrol (@manupombrol). Contertulios: Sara Robisco, Héctor Vives, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep367: Event Horizon Telescope; Resonancias Orbitales; IA en Papers; Perros
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Resonancias orbitales como tecnomarcador (min 6:00); El EHT observa el agujero negro supermasivo de nuestra galaxia (36:00); IA para analizar los papers (1:26:30); Perros, razas y características (1:39:30). Portada gentileza de Manu Pombrol (@manupombrol). Contertulios: Iván Martí-Vidal, José Edelstein, Francis Villatoro, Gastón Giribet, Héctor Socas, Eva Villaver, Sara Robisco, Alberto Aparici. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep366: Superfulguraciones; Agujeros Negros; Regularización Dimensional;El Tiempo
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: De superfulguraciones a radiación de partículas energéticas en exoplanetas (min 13:00); Retroceso de agujero negro (50:00); 50 años de regularización dimensional (1:16:00); El tiempo en física: ¿fundamental o emergente? (1:41:00); Señales de los oyentes (2:20:00). Portada gentileza de Manu Pombrol (@manupombrol). Contertulios: José Edelstein, Francis Villatoro, Gastón Giribet, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep365: Calendario; Meteoro Interestelar; Colaboracion ProAm; Cuasicuasar; ORCs
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: El problema del ajuste fino en Coffee Break (min 5:00); Calendarios (10:00); Un meteoro interestelar (45:00); Una nueva nebulosa, fruto de colaboración ProAm (1:29:30); Un objeto en el amanecer cósmico, a mitad de camino entre cuásar y galaxia (1:48:00); Más cerca de entender los ORCs (extraños círculos de radio, 2:09:00). Señales de los oyentes (2:25:00). Portada gentileza de Manu Pombrol (@manupombrol). Contertulios: Sara Robisco, Ángel López Sánchez, Alberto Aparici, Francis Villatoro, Gastón Giribet,  Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep364: Moon Knight; Arqueología; Novas y Rayos Gamma; Neutrinos de Borexino; CMS y Quark Top
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Día del libro y calendarios (min 5:00); Caballero Luna (8:00); Sistema (semi)automático de lectura de jeroglíficos (34:30); Espectrometría de volátiles en una tumba egipcia (46:30); Detección de rayos gamma procedentes de una nova recurrente (58:00); El exoplaneta que no era tal (1:17:00); Borexino observa la órbita de la Tierra en la señal de neutrinos solares (1:48:30); Sakharov y las cosmologías con simetría CPT (2:06:30); CMS mide con precisión la masa del quark top (2:14:30); Señales de los oyentes (2:30:00). Portada gentileza de Manu Pombrol (@manupombrol). Contertulios: María Ribes, Francis Villatoro, Gastón Giribet, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Fe de erratas: Héctor que el calendario juliano y el gregoriano se diferencian en los días bisiestos. En realidad ambos tienen días bisiestos. La diferencia es la corrección de segundo orden, según la cual no son bisiestos los divisibles por 100 (salvo que sí sean por 400).
+
+Ep363: Tevatrón y Bosón W; Rejuvenecimiento por Reprogramación Celular; JWST
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: La nueva medida del Tevatrón incompatible con el Modelo Estándar (min 9:00); Rejuvenecimiento en ratones por reprogramación celular (1:25:00); Estado del JWST y la polémica sobre el nombre (1:37:30). Portada gentileza de Manu Pombrol (@manupombrol). Contertulios: Sara Robisco, Francis Villatoro, Héctor Vives, Gastón Giribet, Alberto Aparici, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep362: Earendel; Galaxias; Genoma; CRISPR-Cas9; Energía Oscura; Agujeros Negros
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Más discusión sobre Earendel (min 6:00); Galaxias en radio y formación estelar (29:00); El genoma humano (37:00); Un nuevo Cas9 mejorado (58:00); Energía oscura, campos de quintaesencia y el destino del Cosmos (1:17:00); Agujeros negros y formación estelar (2:04:00); Señales de los oyentes (2:22:00).  Portada gentileza de Manu Pombrol (@manupombrol en Instagram). Contertulios: Ángel López-Sánchez, Francis Villatoro, Gastón Giribet, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep361: Universo Simétrico; Earendel; Interfaz Cerebral; Plantas del Pleistoceno; Tecnomarcadores; Starshot
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: ¿Un antiuniverso yendo atrás en el tiempo? (min 6:00); Earendel: La estrella más lejana y temprana (36:00); ELA: Interfaz cerebral para salir del síndrome de encierro total (1:17:00); Regenerando una planta de hace 32,000 años (1:36:00); Buscando contaminación industrial en exoplanetas (1:56:00); Breakthrough Starshot: Retos y problemas (2:20:30); Señales de los oyentes (2:34:00). Contertulios: Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Fe de erratas: Lapsus en 2:08:30, Héctor dice "George Gavin" y debería ser "Gavin Schmidt". En 2:13:10 dice "la misión Kepler que observa 200,000 exoplanetas" y debería ser "200,000 estrellas".
+
+Ep360: Heliosismología; Axiones; Agujeros Negros; Gravitondas
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: El agujero negro que no era tal (min 6:00); ¿Una nube de axiones en torno a M87*? (26:00); Tierra, Luna y ondas gravitacionales (1:07:00);  Irene González y el lado oculto del Sol (1:07:00); Adiós a Eugene Parker (2:11:00); Señales de los oyentes (2:32:00). Contertulios: Carlos Westendorp, Gastón Giribet, Francis Villatoro, Antonio Darwich, Jesús Patrón, Valentín Martínez Pillet, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep359: Luz Extragaláctica; Vikingos y Tormentas Solares; Células Madre y Diabetes; SETI; Ajuste Fino en Física
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Roscosmos (min 5:00); Luz intracumular (14:00); Vikingos en América y supertormentas solares (39:30); Células pancreáticas de células madre (1:17:00); Primera búsqueda SETI con FAST (1:38:00); Ajuste fino en el Universo(2:02:30); Superbacteria(2:38:00); Señales de los oyentes (2:50:00). Contertulios: Mireia Montes, Sara Robisco, Alberto Aparici, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep358: Amanecer Cósmico y Radioastronomía; IA y Fusión; Tiranosaurios; Animales y Herramientas
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: El polémico vídeo de Roscosmos (min 6:00); ¿Realmente se ha detectado el amanecer cósmico? (23:00); Meerkat mapea el centro galáctico en alta resolución (60:00); El agujero negro de la galaxia enana Henize 2-10 (1:19:30); Aprendizaje profundo para controlar plasmas en fusión (1:31:00); Tyrannosaurus Rex, Regina e Imperator (1:50:00); Animales y herramientas (2:12:00); Señales de los oyentes (2:32:30). Contertulios: Ángel López Sánchez, Ignacio Crespo, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep357: ISS; ITER; Exoluna; Energía Oscura Temprana; Agujero Negro
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: La disculpa de Francis (min 5:00); La guerra y los proyectos espaciales (17:00); Parón en las obras del ITER (29:00); Candidato a exoluna (40:00); Energía oscura temprana (1:07:00); Cúmulos de galaxias (1:40:00); Agujero negro desalineado (1:50:00); Señales de los oyentes (2:13:30). Contertulios: Jose Alberto Rubiño, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep356: Hayabusa 2; Daga Extraterrestre; Plantas; Fósiles en Pirámides; "R" Vibrante
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: El inminente impacto humano en la Luna (min 5:00); La muestra del asteroide Ryugu traída por Hayabusa 2 (12:30); Las plantas crecen mejor rodeadas de diversidad (54:30); La daga extraterrestre de Tutankamón (1:04:00); Fósiles, foraminíferos y pirámides (1:33:00); El origen del fonema "r" vibrante (1:46:00); Señales de los oyentes (2:16:00). Contertulios: María Ribes, Francis Villatoro, Gastón Giribet, Sara Robisco, Javier Licandro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep355: Proxima d; KATRIN; Megatormentas Solares; Agujero Negro Errante
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: El nuevo exoplaneta Proxima d. Entrevista con Alejandro Suárez-Mascareño (min 7:00); KATRIN publica nuevas cotas a la masa de los neutrinos (55:00); Un agujero negro errante (1:26:00); 40 satélites de Starlink destruidos (y debate sobre el periodismo) (1:39:00); Una supertormenta solar prehistórica (2:00:00); Señales de los oyentes (2:23:00). Contertulios: Alberto Aparici, Gastón Giribet, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+
+Ep354: Nebulosas Planetarias; Egipto; Neuromedicina; Mesopotamia; Radiación Hawking
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Confirmado un nuevo planeta en torno a Proxima Centauri (min 5:00); Encontradas miles de tablillas de estudiante del antiguo Egipto (10:00); Posible conexión entre cambios climáticos y la caída del imperio asirio (31:00); Implantes para recuperar la movilidad en pacientes con médula dañada (57:30); Ondas gravitacionales y radiación Hawking estimulada (1:18:30); Nebulosas planetarias: Las luciérnagas de Rebeca (1:54:00). Contertulios: María Ribes, Sara Robisco, Francis Villatoro, Gastón Giribet, Eva Villaver, Marian Martínez, Jorge García Rojas, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+
+
+Ep353: El Nuevo Misterio de Marte; IA en Paleontología; Un Objeto Raro en la Galaxia
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Un objeto humano impactará pronto en la Luna (min 5:00); Nuevos medidas intrigantes en Marte: isótopos de Carbono (25:00); Redes neuronales convolucionales para la reconstrucción de fósiles (58:00); Descubierto un nuevo tipo de radiofuente en nuestra galaxia (1:32:30); Señales de los oyentes (2:00:00). Contertulios: Sara Robisco, Jorge Pla-Gacía, Francis Villatoro, Gastón Giribet, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep352: Energía Nuclear; Gravitonda Excéntrica; Júpiter; Antimateria
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Energía nuclear. Entrevista: Alfredo García @OperadorNuclear (min 5:00); Reinterpretación de la señal de onda gravitacional GW190521 (1:10:30); La masa de la antimateria (1:47:30); Ciclones y vórtices jovianos (2:14:30); Señales de los oyentes (2:41:20). Contertulios: José Edelstein, Francis Villatoro, Alfredo García, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep351: Especial Premios Señal y Ruido 2021
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Candidaturas a Preimo Señal 2021 (7:00); Candidaturas a Premio Ruido (1:53:00); Veredicto (2:47:45). Contertulios: Sara Robisco, José Edelstein, Francis Villatoro, Alberto Aparici, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+
+Ep350: JWST; No Mires Arriba; Gemelos Bogdanoff; Cuántica; Entrevista: Patricia Contreras
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: El telescopio espacial James Webb (min 5:00); Los gemelos Bogdanoff (31:00); Don't look up (No mires arriba) (1:32:00); Los observadores cuánticos y el realismo: Entrevista a Patricia Contreras (2:18:40). Contertulios: Sara Robisco, Francis Villatoro, Alberto Aparici, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep349: Especial Señales de los Oyentes
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Recopilación de preguntas de oyentes. La discusión sobre agujeros negros se complementa con un vídeo sobre diagramas de Penrose. Se puede encontrar en: https://youtu.be/ayYG13WKgM0   
+Contertulios: Héctor Vives, Alberto Aparici, Nacho Trujillo, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep348: Especial Señales de los Oyentes
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Recopilación de preguntas de oyentes. Contertulios: Héctor Vives, Alberto Aparici, Jose Alberto Rubiño, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep347: Especial Señales de los Oyentes
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Recopilación de preguntas de oyentes. Contertulios: Héctor Vives, Jose Alberto Rubiño, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep346: Niñas CRISPR; Xenobots; Warp Drives; Constantes Fundamentales; Astrofísica
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: "Genes", un libro de muchos autores (min 5:00); Las niñas de CRISPR tres años después (26:00); Xenobots: ¿Vida sintética? (55:30); ESPRESSO busca variaciones en las constante fundamentales a lo largo de la historia del Cosmos 1:11:00); La majadería viral sobre un supuesto nuevo motor hiperlumínico basado en Alcubierre (1:49:00); Un minijet en el agujero negro central de nuestra galaxia (2:28:00); Probando la relatividad general con un púlsar doble (2:33:00); El evento superenergético AT2018cow (2:36:00). Contertulios: Gastón Giribet, Bernabé Cedrés, Sara Robisco, Ignacio Crespo,, Francis Villatoro, Alberto Aparici, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep345: Galaxias sin Materia Oscura; Telescopio Espacial James Webb; Exoplaneta; Neutrinos; Agujeros Negros
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: ¿Una galaxia sin materia oscura? (min 5:00); El nuevo telescopio espacial James Webb (52:00); Descubren una subtierra ultracaliente (1:24:00); IceCube y el fondo astrofísico de neutrinos (1:32:00); Varios descubrimientos de agujeros negros (1:47:00). Contertulios: Gastón Giribet, Héctor Vives, Francis Villatoro, Nacho Trujillo, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep344: Covid19 Ómicron; Hipótesis Riemann; Exoplaneta; Gravitondas y Púlsares; Rotación Solar
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Ómicron, la nueva variante preocupante del SARS-CoV-2 (min 5:00); TOI-2109b, un exoplaneta peculiar (32:00); Buscando las gravitondas de los púlsares (55:00); La rotación diferencial del Sol (1:21:30); La hipótesis de Riemann (1:46:30). Contertulios: Gastón Giribet, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep343: Misión DART; Polen Triásico; Biología Antártida; Fisión de Torio; Rayos Cósmicos
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Retraso del Telescopio Espacial James Webb (min 5:00); Despega la misión DART (20:00); Los microorganismos que viven en la Antártida (36:00); El polen en el yacimiento de El Atance (1:04:00); China construye una nueva central nuclear experimental basada en Torio (1:22:00); Rayos cósmicos en el centro galáctico (1:45:00); Señales de los oyentes (2:08:30). Contertulios: Sara Robisco, Alberto Aparici, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep342: Misil Antisatélite; Agujero Negro Discutido; Computación Cuántica; Planeta 9; Gravedad Cuántica
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Rusia destruye un satélite (min 7:00); El cuestionado descubrimiento de un agujero negro (25:00); Colaboración ProAm (1:05:00); IBM anuncia avances en computación cuántica (1:10:00); Buscando el Planeta 9 en datos de IRAS (1:29:30); Métricas complejas y la cuantización de la gravedad (1:54:00); Señales de los oyentes (2:16:00). Contertulios: Gastón Giribet, Ángel López Sánchez, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep341: Gravitondas; Monopolos; Fluidos en Roca Porosa; Agua en Galaxias; Agujeros Negros
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Estopa y calaverita (min 5:00); Nuevas detecciones de gravitondas por LIGO+VIRGO (17:30); Buscando los monopolos magnéticos (59:00); Fluidos políméricos en roca porosa (1:20:00); Detección de H2O y CO en galaxias jóvenes y distantes (1:42:00); Simulando los chorros del agujero negro de M87 (1:55:00); Señales de los oyentes (2:20:15). Contertulios: Sara Robisco, Gastón Giribet, Alberto Aparici, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep340: Mesa Redonda UCAM sobre Agujeros Negros
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Especial agujeros negros. Mesa redonda de la UCAM. Contertulios: Isabel Cordero, Gastón Giribet, Artemio Herrero, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep339: COVID19; Triplete de Leo; BLC1; Extroplaneta; Polémico GRB
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: El apagón anunciado por la ministra de Austria (min 5:00); Covid19: Inmunidad natural frente a vacunas (10:00); La dinámica del "Triplete de Leo" (41:00); Publicado el análisis de la señal SETI BLC1 (1:12:00); Un planeta extragaláctico (1:33:00); Controversia sobre un estallido de rayos gamma muy lejano (2:02:20); Señales de los oyentes (2:20:00). Contertulios: Ángel López Sánchez, Gastón Giribet, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep338: Muones y Homoquiralidad; Gravedad Alternativa; Inflación
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Rayos cósmicos y muones podrían explicar la homoquiralidad de toda la vida (min 5:00); RelMOND: Una nueva teoría de gravedad alternativa sin materia oscura (48:00); Buscando las ondas gravitacionales del principio del Universo (1:34:00); Señales de los oyentes (2:09:00). Contertulios: Bea Ruiz, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep337: Informe ANECA; Plantas Resistentes; Tomógrafos y Positronio. Entrevistas: J.M. Mulet y Elena Pérez
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Adiós a Emiliano Aguirre (min 5:00); Plantas más resistentes. Entrevista J.M. Mulet (12:00); Nuevo tomógrafo y aplicaciones físicas. Entrevista a Elena Pérez del Río (57:20); La polémica del informe de ANECA (1:41:20); Señales de los oyentes (2:33:00). Contertulios: Sara Robisco, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep336: Especial Premios Nobel 2021
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Los Nobel (min 5:00); Resumen de los tres Nobel de ciencias (20:00); Nobel de Fisiología o Medicina (1:00:00); Nobel de Física (1:35:00); Nobel de Química (2:!3:00). Contertulios: Ignacio Crespo, Alberto Aparici, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep335: Tricoleucemia; Galaxias; Agujeros Negros; Fotones y Neutrinos; Simetría CPT; Falacias y Estadísticas
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Tricoleucemia (min 5:00); Supernova disparada por agujero negro (27:00); Rayos gamma blandos y neutrinos superenergéticos (42:00); Galaxias tempranas sin formación estelar (1:03:00); Positrones y simetría CPT (1:15:00); Errores estadísticos y el "look elsewhere effect" (1:39:00); Señales de los oyentes (2:06:30). Contertulios: Gastón Giribet, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep334: Volcán; Cuerdas; Energía Oscura; Planeta 9
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Volcanes y tsunamis (min 5:00); Retirado el artículo sobre supergravedad vs de Sitter (1:01:00); El exceso de XENON1T, ¿una detección de energía oscura? (1:35:00); El cartografiado DES contrario a la existencia del Planeta 9 (2:01:00), Señales de los oyentes (2:17:00). Contertulios: Sara Robisco, Gastón Giribet, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep333: Rayos Cósmicos; Teoría de Cuerdas; Luz y Materia
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Amautas (min 5:00); El número 3 (11:00); Rayos cósmicos y bits (17:00); Las enanas marrones son de color violeta (42:00); Teoría de cuerdas y espacios de de Sitter (54:00); Partículas virtuales y conversión de luz en materia (1:43:00), Señales de los oyentes (2:06:00). Contertulios: José Edelstein, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep332: Mundos Hiceánicos; Superfulguraciones; Enanas Blancas; Teoría de Cuerdas
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Superfulguraciones en enanas rojas (min 10:00); Mundos hiceánicos y habitabilidad (57:30); Reacciones nucleares residuales en enanas blancas (1:37:00); Teoría de cuerdas y espacios de de Sitter (1:54:00); Señales de los oyentes (2:23:00). Contertulios: Eva Villaver, Gastón Giribet, Alberto Aparici, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep331: Asteroide Peligroso; Erupciones Solares Ancestrales; Dinosaurios; Esferas de Dyson
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Fósiles recuperados a contrabandistas (min 6:00); Bennu, probabilidades de colisión del asteroide potencialmente más peligroso (17:00); Descubierto un cráneo de dinosaurio, posible eslabón perdido (35:00); Registros paleontológicos de antiguos megaeventos solares (43:00); Esferas de Dyson en torno a agujeros negros (1:27:30); Avances en fusión nuclear (1:58:00); Señales de los oyentes (2:15:00). Contertulios: Sara Robisco, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep330: Observatorios, Tibet y TMT; Formación Planetaria; Depredadores Sorprendentes; Solitones y Superredes de Grafeno
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: China considera un observatorio en el Tibet (min 7:30); Sentencia sobre el supertelescopio TMT (51:00); Formación planetaria en el "Complejo de Ofiuco" (1:20:40); Las perturbadores imágenes de unos sorprendentes cazadores de aves (1:48:00); Ondas en superredes de grafeno (2:22:00). Contertulios: Sara Robisco, Francis Villatoro, Eva Villaver, Alberto Aparici, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep329: C. Shoemaker; Sintaxis y Evolución; Granulación Solar; Tetraquark
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Adiós a Carolyn Shoemaker, legendaria descubridora de cometas (min 7:00); Nuevo récord de decimales de Pi (25:00); Sintaxis y palabras no adyacentes en monos, simios y humanos (36:30); Germánico y latín en el inglés (1:09:00); Granulación solar y convección (1:50:00); El LHCb detecta un tetraquark (2:28:00); Señales de los oyentes (2:52:00). Contertulios: María Ribes, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep328: Cambio climático; Kazar sondas; Tablilla babilónica; Neandertales y cuales; Agujero negro
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: "Kazando" sondas meteorológicas (min 7:00); Tablilla Plimpton 322 y los orígenes de la geometría (40:40); Pinturas como indicio de pensamiento simbólico en lo sneandertales (1:07:50); Informe del IPCC sobre el cambio climático (1:27:30); El posible colapso de la circulación del Atlántico (2:03:00); Viendo la luz originada detrás de un agujero negro (2:15:20); Señales de los oyentes (2:37:20). Contertulios: Sara Robisco, Gastón Giribet, María Ribes, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep327: Virasoro; Gran Oxidación; Protoplanetas; GAIA y la Vía Láctea
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Susto en la ISS con el acoplamiento del módulo ruso Nauka (min 7:00); Adiós a Miguel Ángel Virasoro. Repasamos sus contribuciones en teoría de cuerdas y otros (13:00); La gran oxidación y la rotación terrestre (46:00); Protoestrellas, protoplanetas y discos circumplanetarios en el fascinante sistema PDS70; GAIA y la medida de los brazos de la Vía Láctea (1:35:00); Señales de los oyentes (2:00:00). Contertulios: Sara Robisco, Gastón Giribet, Eva Villaver, Francis Villatoro, Carlos González, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep326: Weinberg y el Modelo Estándar; Alphafold 2; Oído de Dinosaurios
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Adiós a Steven Weinberg. Repasamos sus contribuciones a la física de partículas (min 13); Se publica Alphafold2, la revolucionaria IA de Deepmind y su competidora RosettaFold (52:00); Entrevista: Carlos Outeiral (55:00); Lo que podemos aprender del oído interno de los dinosaurios (2:08:00); Proyecto GALILEO: Loeb investiga OVNIs (2:29:00);  Señales de los oyentes (2:27:00). Contertulios: Alberto Aparici, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep325: Hubble; New Shepard; Agujero Negro; Inmunidad COVID19; EHT; BORGs
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Recuperado el telescopio espacial Hubble; Primer vuelo tripulado del New Shepard; Comprobación del crecimiento del área de los agujeros negros; Duración de la inmunidad a la covid19; Nuevas observaciones del Event Horizon Telescope; Borgs: Una estructura de ADN. Contertulios: Alberto Aparici, Héctor Vives, Gastón Giribet, Francis Villatoro. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep324: Encélado; Galaxia sin Materia Oscura; Dinosaurios; Rapa Nui; Proyecto Hail Mary
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: El metano de Encélado (min 6:00); Nuevas entregas en la polémica sobre la galaxia sin materia oscura (41:00); Descubierta una nueva especie de dinosaurio (1:20:00); El declive de la civilización Rapa Nui (1:37:00); Proyecto Hail Mary, la novela de Andy Weir (1:54:00). Contertulios: Sara Robisco, Gastón Giribet, Francis Villatoro, Carlos Westendorp, Nacho Trujillo, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep323: Hubble; Coprolitos; Strings 2021; Megacometa; Supernova; Mesones
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Clarificación SKA (min 7:00); Problemas con el telescopio espacial Hubble (11:00); Escarabajos en heces de dinosaurios (30:00); Supercometa (42:00); Strings 2021: el gran congreso de la teoría de cuerdas (55:00); Supernova de captura de electrones (1:38:30); Mesones y simetría CP (1:52:00). Contertulios: Sara Robisco, Gastón Giribet, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep322: Gravitondas; Especies Humanas; Estructuras Cosmológicas; Radiogalaxia
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Asteroid Day (min 10:00); MeerKAT y la radiogalaxia IC 4296 (17:00); Estructuras cósmicas y el principio cosmológico (30:00); Especies humanas (55:00); Ondas gravitacionales de la fusión de un agujero negro y una estrella de neutrones (1:27:00); Señales de los oyentes (2:00:00). Contertulios: Ángel López-Sánchez, Alberto Aparici, Gastón Giribet, Francis Villatoro, José Edelstein, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una actividad del Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep321: Especial "La vida en el Universo"
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Especial "la vida en el Universo". Mesa redonda en la Unviersidad Católica de Murcia. Contertulios: Sonia Sánchez, Carlos Briones, Eva Villaver, Enric Pallé, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep320: Vacunas; James Webb Telescope; Marte; Neutrinos; Neutrones
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Solar Orbiter observa eyecciones de masa coronal (min 10:45); La polémica mezcla de vacunas (17:00); Aterriza el rover de la misión china en Marte (44:00); Posible nuevo retraso del telescopio espacial James Webb (56:00); Detectando neutrinos en el LHC (1:03:00); Señales de los oyentes ()1:16:40). Contertulios: Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep319: Mirzakhani; Vacunas; Exoplaneta Migrante; DALI; Stowaway
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Día de la Mujer en Matemáticas y Mariam Mirzakhani (min 7:00); Consecuencias de parar la vacunación (25:00); La migración de Osiris, un exoplaneta tipo Júpiter caliente (55:00); DALI, propuesta para un detector de axiones y fotones oscuros (1:20:00); Stowaway, el polizón (1:48:00); Señales de los oyentes (2:39:00). Contertulios: Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep318: Megacriometeoros; Oxígeno y Glaciaciones; Constante de Hubble; Estrellas de Neutrones
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Megacriometeoros, los mal llamdos aerolitos que cayeron en España hace 20 años (min 6:00); Astronomía: Colaboración Profesional-Amateur (22:00); La energía de gravitondas radiada en fusiones de agujeros negros (24:00); De radioastronomía a una nueva tecnología de conexión con satélites (38:00); La aparición del oxígeno en la atmósfera y las glaciaciones de la Tierra (1:00:00); Resolviendo el problema de H0 con fusiones de estrellas de neutrones (1:22:00); J0740, la estrella de neutrones más masiva (1:56:00); Señales de los oyentes (2:11:00). Contertulios: Gastón Giribet, Francis Villatoro, Alberto Aparici, Ángel López-Sánchez, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep317: Vehículo de Neutrinos; Primeras Plantas; Actividad Estelar; Spin del Protón
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: La absurda idea de un vehículo de neutrinos (min 8:00); Basura espacial (30:00); El origen de las plantas terrestres (41:00); Eyecciones de masa coronal en estrellas (57:30); Superfulguraciones en Proxima Centauri (1:16:00); El spin del protón (1:38:00); Señales de los oyentes (2:09:30). Contertulios:  Carlos González, Francis VIllatoro, Sara Robisco, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep316: Ingenuity; Señal BLC1; Cerebros de Homos; Asteroides y Bombas; Huellas de Neandertales; Fosfano; Oyentes
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: El vuelo del Ingenuity (min 12:00); BLC1, la señal de radio de Proxima Centauri (30:00); La evolución del cerebro: de simios a homos (55:00); Detonaciones nucleares para desviar asteroides (1:16:00); Huellas de neandertales (1:36:00); Fosfano en Venus (1:47:00); Señales de los oyentes (2:11:00). Contertulios: Alberto Aparici, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep315: Vacunas; Egiptología; Evento Adams; Materia Oscura en Júpiter; Magnetismo Oscuro; Fermiones de Majorana
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: La seguridad de las vacunas (min 8:00); Descubierta la Ciudad Dorada Perdida del antiguo Egipto (19:00); Evento Adams: Cuando la Tierra perdió su escudo magnético (38:00); Júpiter como detector de materia oscura (56:00); La discrepancia en la constante de Hubble y los Fast Radio Bursts (1:16:00); Modelo cosmológico alternativo con materia oscura magnética (1:29:30); La crisis de los fermiones de Majorana (1:46:00); Señales de los oyentes (2:17:00). Contertulios: Sara Robisco, Bea Ruiz, Francis Villatoro, María Ribes, Gastón Giribet, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep314: Marte; Experimento Muón g-2; USS Medusa; Papers de Broma
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: La espiral en el polo Norte de Marte (min 6:30); El experimento Muón g-2 de Fermilab (16:00); USS Jellyfish, una estructura en radio de baja frecuencia (1:00:00); Repasamos los artículos de broma del 1 de Abril (1:24:00); Señales de los oyentes (1:50:00). Contertulios: Sara Robisco, Francis Villatoro, Ángel López Sánchez, Gastón Giribet, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep313: Neandertal; 'Oumuamua; Anfiteatro Romano; Materia Bariónica Perdida
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Biodegradar el plástico (min 8:00); ¿Tenían lenguaje los neandertales? (18:00); Descubierto un gran anfiteatro romano en Turquía (56:00); 'Oumuamua, la respuesta de Loeb (1:21:00); Materia bariónica perdida y gravedades alternativas (1:54:00); Señales de los oyentes (2:28:00) . Contertulios: María Ribes, Sara Robisco, Francis Villatoro, Alberto Aparici, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep312: 'Oumuamua; Event Horizon Telescope; Antineutrino; Anomalía Leptónica
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: 'Oumuamua podría ser hielo de nitrógeno (min 6:00); Polarización medida en el agujero negro M87* por el Event Horizon Telescope (49:30); El antineutrino de IceCube y la resonancia Glashow (1:12:00); Anomalía leptónica en el LHCb (1:50:00); Señales de los oyentes (2:09:00). Este episodio está dedicado a Sara y a Serghey, que siempre será parte de la familia de Coffee Break. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep311: Microagujeros Negros; Neuronas Multimodales; Odderon; Visitantes Interestelares
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Pequeños agujeros negros primordiales y objetos transneptunianos (min 6:00); Neuronas multimodales e inteligencia artificial (30:00); Objetos interestelares en el sistema solar (1:35:00); Señales de los oyentes (1:55:00). Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep310: Warp Drives; ANAIS y Materia Oscura; Entrevista Dr. J.M. Mulet
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Solución de Alcubierre y otros warp drives (min 5:00); ANAIS-112, el experimento de búsqueda de materia oscura (48:00); Señales de los oyentes (2:13:00); Entrevista a J.M. Mulet (1:07:00); Señales de los oyentes (2:13:00). Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep309: Estrellas de Bosones; Propulsor de Plasma; Tucana II; Planeta 9; Tecnomarcadores
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:
+Tecnomarcadores e icnoescalas (min 4:00); ¿Gravitondas de estrellas de bosones? (21:00); Tucana II, una galaxia reliquia (55:00); ¿Se debilita la evidencia del Planeta 9? (1:34:00), Nuevo concepto de un propulsor de plasma (1:46:00); Señales de los oyentes (2:13:00). Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep308: Marte; CLASP2; Boring Billion; Cygnus-X1; Señales de Oyentes
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: 
+El "día después" de Perseverance en Marte (min 5:00); CLASP2, el cohete-sonda para polarimetría solar ultravioleta (1:07:00); La vida en la Tierra durante el boring billion (1:22:00); El famoso agujero negro Cygnus-X1 vuelve a sorprender (1:48:00); Señales de los oyentes (1:58:00). Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep307: Marte y Perseverance; Axiones; COVID19; Galaxias
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Observatorio Virtual de Sidney (min 9:00); Imagen de la luna con radar planetario (12:00); SAMI observa 3,000 galaxias con espectroscopía (24:00); Marte y el aterrizaje de la Perseverance (40:00); Buscando axiones con luz comprimida (1:33:00); Agujero negro GRS 1915+105 (2:00:00); ¿Pasará la covid19 de epidemia a enfermedad endémica? (2:08:00). En la foto, de arriba a abajo y de izquierda a derecha: Francis Villatoro, Héctor Socas, Sara Robisco, Ángel López-Sánchez, Alberto Aparici, Gastón Giribet. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep306: Especial Avi Loeb y 'Oumuamua; Arecibo Next Generation; Remanente de Supernova; Entrevista Avi Loeb
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Next Generation Arecibo Telescope (min 4:30); Entrevista Avi Loeb (28:00); Debate sobre entrevista y libro (57:00) Remanente de supernova Iax en el centro galáctico (2:14:00) Señales de los oyentes (2:22:00). En la foto, de arriba a abajo y de izquierda a derecha: Jose Edelstein, Héctor Socas, Julia de León, Francis Villatoro, Gastón Giribet, Noemí Pinilla. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep305: Venus; Alejandría; Pared Caliente; Magnetismo Cosmológico
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Fosfano en Venus (min 14:00); Descubiertas nuevas catacumbas en Alejandría (29:00); Redes neuronales y efecto "pared caliente" en el Sol (37:00); Detección de campos magnéticos en filamentos cósmicos (1:27:00); Señales de los oyentes (1:55:00). En la foto, de arriba a abajo y de izquierda a derecha: Andrés Asensio, Héctor Socas, Bea Ruiz, Francis Villatoro, María Ribes. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep304: Estrella de Tabby; Dinosaurios; Quasar; Colores; Marte
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: La luz de Marte (9:00); Estrella de Tabby y compañía (17:00); La cresta del parasaurolophus (43:00); Colores estelares (57:00); Quásars, blázars, agujeros negros grandes y pequeños (1:35:00); Señales de los oyentes (1:56:00). En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Héctor Socas, Héctor Vives, Francis Villatoro, Gastón Giribet. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep303: Marte; Proxima; Australia; Elamita Lineal; Axiones y Estrellas de Neutrones
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Fin de misión para el HP3 de la InSight en Marte (min 6:00); Contaminación lumínica durante el confinamiento (10:30); Observando Proxima b en radio (22:00); ¿Descubrieron Australia los españoles? (33:00); Un investigador afirma haber descifrado el elamita lineal (1:14:00); Buscando axiones como materia oscura en estrellas de neutrones (1:39:00); Señales de los oyentes (2:16:00). En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Héctor Socas, María Ribes, Francis Villatoro, Ángel López Sánchez. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep302: Ganimedes; 'Oumuamua; Monoquiralidad; Ciclo Solar; Neptuno
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: La señal de Ganimedes (min 6:00); La tormenta de Neptuno (46:00); 'Oumuamua (54:00); Tortugas prehistóricas (1:40:00); Predicción del nuevo ciclo solar (1:57:00); ¿Por qué todo el ADN de la Tierra tiene la misma orientación? (2:14:00); Señales de los oyentes (2:32:00). En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Héctor Socas, Héctor Vives, Ángel López-Sánchez, Francis Villatoro, Marian Martínez. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep301: Especial Premios Señal y Ruido 2020
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Candidaturas a Premio Señal 2020 (min 5:00); Candidaturas a Premio Ruido 2020 (1:58:00); Veredicto (2:51:00). En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Héctor Socas, Alberto Aparici, Francis Villatoro. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep300: Griegos y Persas; Interpretaciones Cuánticas; El Futuro de la Humanidad
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Especial 300: Espartanos, griegos y persas (min 5:00); Interpretaciones de la física cuántica (51:00); El futuro de la humanidad (1:43:00). En la foto, de arriba a abajo y de izquierda a derecha: Jose Edelstein, Sara Robisco, Héctor Socas, Francis Villatoro, Ángel López Sánchez, Alberto Aparici, Nacho Trujillo, Ignacio Crespo, María Ribes, Andrés Asensio. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep299: COVID19; Proxima Centauri; SETI
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: COVID19 y la variante inglesa (min 15:00); Analizando la eficacia de las medidas (47:00); Activaciones neuronales al leer código (1:34:00); Megafulguraciones en Proxima Centauri (1:53:00); Breakthrough Listen detecta una intrigante señal en la dirección de Proxima (2:12:00). En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Héctor Socas, Francis Villatoro, Ángel López-Sánchez, Ignacio Crespo, Alberto Aparici. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep298: Conjunción; Vacunas; ASKAP; Burbujas Galácticas; Estrellas a la Fuga
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Conjunción planetaria y ¿estrella de Belén? (min 5:00); Mitos sobre vacunas (25:00); ASKAP completa su primer cartografiado en radio del cielo (58:00); eROSITA descubre dos grandes burbujas desde el centro galáctico (1:15:00); Estrellas escapando de nuestra galaxia (1:39:00); Señales de los oyentes (2:06:00). En la foto, de arriba a abajo y de izquierda a derecha: Carlos González, Héctor Socas, Francis Villatoro, Ángel López-Sánchez. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep297: Misiones a Asteroides; Atención en IA; Pterodáctilos; Alphafold
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Asteroides: Llega a la Tierra la muestra de Ryugu (min 5:00); El posible origen de los pterodáctilos (46:00); Paralelismos entre inteligencia artificial y natural: El fenómeno de la atención (55:00); Señales de los oyentes (1:17:00); Alphafold2 vista por los expertos: Entrevista Carlos Outeiral (1:30:00). En la foto, de arriba a abajo y de izquierda a derecha: Julia de León, Sara Robisco, Héctor Socas, Carlos Outeiral, Francis Villatoro. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep296: Alphafold; Campos de Quintaesencia; Cazadoras Prehistóricas; Fosfano
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Colapsa el radiotelescopio de Arecibo (min 16:00); Un artículo sobre el fosfano en Venus, obsoleto antes de publicarse (36:00); Las mujeres prehistóricas también cazaban (50:00); Alphafold, una revolución en el estudio de las proteínas (58:00); Posibles indicios de un campo de quintaesencia cosmológico (1:35:00); Señales de los oyentes (2:12:40). En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Héctor Socas, Alberto Aparici, Gastón Giribet. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep295: Dinosaurios; Fondo Cósmico de Luz; Constelaciones Egipcias; Evolución Térmica del Universo
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: La RAE admite "espaciotiempo" (min 6:00); Plumas de dinosaurio y pelos de mamífero en ámbar (16:00); Sombras en una galaxia activa: De twitter a paper (25:00); Despega la misión china Chang'e 5 (42:00); New Horizons ve luz en la oscuridad más negra jamás medida (1:00:30); El Universo se ha calentado en los últimos miles de millones de años (1:21:00); Descubiertos nuevos jeroglíficos de constelaciones egipcias (1:44:00); Mitología de Tolkien (2:!8:00); Señales de los oyentes (2:26:00). En la foto, de arriba a abajo y de izquierda a derecha: Héctor Vives, María Ribes, Sara Robisco, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep294: Venus; Arecibo; Mongoles; Gravedad Cuántica; Púlsares
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Triste aniversario de mensaje de Arecibo (min 6:00); Los antiguos pobladores de la estepa asiática (23:00); Continúa la polémica del fosfano en Venus. Greaves et al responden (58:00); ¿Gravedad cuántica sin cuerdas? (1:37:00); Navegación usando púlsares (2:17:00). En la foto, de arriba a abajo y de izquierda a derecha: Héctor Vives, Héctor Socas, Alberto Aparici; Jose Edelstein; Gastón Giribet. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep293: Vacunas; FRBs; Agujeros Negros; Alzheimer
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Observatorio de Arecibo (min 6:00); La vacuna de Pfizer contra la COVID19 (14:00); Dudas sobre el fármaco contra el Alzheimer (51:00); FRBs y Magnetars (1:04:00); Espacio-tiempo emergente y la paradoja de la información en agujeros negros (1:32:00). En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Héctor Socas, Ignacio Crespo, Alicia López Oramas, Gastón Giribet. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep292: Tinta Egipcia; Planeta Extragaláctico; Materia Oscura y Galaxias; Amuletos y COVID19
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Loeb, estrella del congreso de ufología (min 14:00); Sorprendente composición de la tinta egipcia (20:00); Primer candidato a planeta en otra galaxia (38:00); Amuletos contra la COVID19, un paper muy "retractable" (1:01:00); Disrupción de marea y materia oscura en galaxias (2:00:00). En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Mireia Montes, Héctor Socas, Ángel López Sánchez. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep291: Venus; Luna; Espacio-Tiempo Emergente; Cosmología
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Sigue la polémica del fosfano en Venus (min 7:00); El nuevo descubrimiento de agua en la Luna (36:00); El espacio-tiempo emergente del entrelazamiento cuántico (1:00:00); El magnetismo primordial podría resolver el problema de Hubble (2:08:00); Señales de los oyentes (2:30:00). Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep290: El Lío de Venus; James Randi; Rotación Estelar; Superconductividad
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Adiós a James Randi (min 13:00); OSIRIS-REX toma una muestra de Bennu (35:00); Superconductor a temperatura ambiente (49:00); Rotación estelar (1:09:00); Galaxias y materia oscura (1:27:00); Polémica sobre el fosfano de Venus (1:43:00); Señales de los oyentes (2:42:00). En la foto, de arriba a abajo y de izquierda a derecha: Alberto Aparici, Ángel López Sánchez, Héctor Socas, Marian Martínez, Francis Villatoro. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep289: Especial Roger Penrose
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Tetraquark (min 5:00); Especial Roger Penrose (20:00); Señales de los oyentes (2:16:00). En la foto, de arriba a abajo y de izquierda a derecha: Bea Ruiz, Jose Alberto Rubiño, Jose Edelstein, Héctor Socas, Gastón Giribet, Francis Villatoro. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep288: Especial Premios Nobel 2020
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Especial Monográfico Premios Nobel 2020; Nobel de Fisiología y Medicina (min 20:00); Nobel de Física (55:00); Nobel de Química (2:07:00); Señales de los oyentes (2:56:00). En la foto, de arriba a abajo y de izquierda a derecha: Héctor Socas, Gastón Giribet, Ignacio Crespo, Francis Villatoro. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep287: Premios IgNobel; Galaxias y Materia Oscura; Agua en Marte
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: DF44, ¿una galaxia casi exclusivamente de materia oscura? (6:00); Principio de máxima entropía y materia oscura (54:00); Premios IgNobel 2020 (1:22:00); Agua subterránea en Marte (2:23:00); Señales de los oyentes (2:33:00). En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Francis Villatoro, Nacho Trujillo, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep286: Exoplaneta; Enanas negras; Cuerdas Cósmicas
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: El curioso exoplaneta que orbita una enana blanca (24:30); Supernovas de enanas negras para iluminar el fin del Universo (48:00); La detección de NANOGrav, cuerdas cósmicas y agujeros negros primordiales (1:29:30). En la foto, de arriba a abajo y de izquierda a derecha: Marian Martínez, Héctor Socas, Francis Villatoro, Jose Alberto Rubiño, Alberto Aparici. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep285: ¿Vida en Venus?; El Agua de la Tierra; Materia Oscura
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Embargos en artículos científicos (min 7:00); Fosfano en Venus y ¿vida? (16:30); El origen extraterrestre del agua en la Tierra (1:33:30); Materia oscura: Discrepancias entre observaciones y simulaciones de lente gravitacional (1:45:30); Cómo tendría que ser una teoría de gravedad sin materia oscura (2:04:00); Señales de los oyentes (2:24:00)
+En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Héctor Socas, Jorge Pla-García, Francis Villatoro. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep284: LIGO+VIRGO (y 2); TENET (y 2); Redes Neuronales y Tablillas Babilonias
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Ampliamos la informacion de la semana pasada sobre la detección de LIGO+VIRGO, con Isabel Cordero (min 6:00); Recuperando algunos de los textos más antiguos con redes neuronales artificiales (57:00); Palíndromos y la historia del cuadrado mágico de TENET (1:36:00); Continuamos el análisis de la película TENET. Hay aviso antes de los spoilers (2:15:00). En la foto, de arriba a abajo y de izquierda a derecha: Isabel Cordero, Héctor Socas, María Ribe, Francis Villatoro, Alberto Aparici. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep283: TENET; Agujeros negros de LIGO+VIRGO; 
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Evento Carrington (min 5:00); App RADAR Covid (20:00); LIGO+VIRGO anuncia la detección de dos agujeros negros muy grandes (35:00); TENET, física y viajes en el tiempo en la nueva película de Nolan (1:38:00). En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Héctor Socas, Francis Villatoro, Alberto Aparici. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep282: ¿Agujero Negro en el Sistema Solar?; Interfaz Neuronal; Lenguas y Baudios; Fe60 y Restos de Supernova
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Nanotecnología para electrodos neuronales (min 11:00); La velocidad universal de los idiomas (35:50); Nuestro viaje entre nubes interestelares remanentes de supernova (45:00); Tertulia: Buscando un agujero negro en los confines del sistema solar (1:05:40); Señales de los oyentes (2:17:00). En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Héctor Socas, Francis Villatoro, Jose Edelstein. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep281: Agujeros de Gusano; TECHNOCLIMES 2020; Ceres; La Galaxia de van Dokkum; La estrella de Scholz
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Technoclimes 2020, primera parte (min 6:00); ¿Un océano en Ceres? (18:30); Los cúmulos globulares de la galaxia "sin materia oscura" no cuadran (33:00); Maldacena y Milekhin proponen un nuevo tipo de agujero de gusano (57:00); Technoclimes, parte 2, la estrella de Scholz y el futuro bombardeo de cometas (1:41:00); Señales de los oyentes (2:16:00). En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Héctor Socas, Gastón Giribet, Francis Villatoro. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep280: Vacuna Rusa; Arecibo; Parásitos; Energía Negativa; Efectos Visuales: Entrevista Carolina Jiménez
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Perseidas y Perseo per se (min 10:00); Vacuna rusa para la COVID19 (28:00); Masa y energía negativa (51:00); Daños en el observatorio de Arecibo (1:03:00); Parásitos en peligro de extinción (1:15:00); Carolina Jiménez y los efectos especiales de COSMOS: Possible Worlds (1:26:30); Señales de los oyentes (2:11:30). En la foto, de arriba a abajo y de izquierda a derecha: Carolina Jiménez, Héctor Socas, Sara Robisco, María Ribes, Francis Villatoro. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep279: Estrellas con Fósforo; Humanos en América; Genoma del Tiburón Ballena; Efecto Túnel y Tiempo Cuántico
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: El primer poblamiento de América, más antiguo de lo que pensábamos; ¿De dónde viene el fósforo de las estrellas?; Longevidad y el genoma del tiburón ballena; Efecto túnel y el tiempo en física cuántica; Señales de los oyentes. En la foto, de arriba a abajo y de izquierda a derecha: Alberto Aparici, Carlos González, Francis Villatoro, Ignacio Crespo. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep278: STARMUS; COVID19; Agujeros Negros y Radiación Hawking
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Lanzamiento de Mars 2020 con el Rover Perseverance (min 6:00); Anticuerpos e inmunidad celular para la COVID19 (26:30); STARMUS: Festejando SETI y la expoloración Marte. Entrevista con Garik Israelian (45:00); Agujeros negros y radiación Hawking (1:08:30); Entrevista Gastón Giribet (1:17:00). En la foto, de arriba a abajo y de izquierda a derecha: Bernabé Cedrés, Francis Villatoro, Héctor Socas, Alberto Aparici, Gastón Giribet. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep277: Vacunas; Solar Orbiter; Cosmología
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Estado de las vacunas contra la COVID19 (min 11:00); Primeras imágenes de Solar Orbiter: Hogueras y nanofulguraciones (59:00); Resultados del Atacama Cosmology Telescope (1:30:00); eBOSS y la red cósmica (1:56:00); Señales de los oyentes (2:34:00). En la foto, de arriba a abajo y de izquierda a derecha: Jose Alberto Rubiño, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep276: Extraños Círculos de Radio; Tetraquark; Puntos de Hawking; Neutrinos Solares; Vía Láctea; ProAm
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Astronomía ProAm y líneas prohibidas (min 8:00); "Odd Radio Circles": Se descubre un nuevo tipo de objeto astronómico (31:00); La emisión del centro de la Vía Láctea (59:00); Debate sobre los "puntos de Hawking" de la cosmología cíciica de Penrose (1:18:00); Borexino detecta neutrinos solares de la reacción CNO (1:33:00); LHCb detecta un hadrón exótico compuesto por 4 quarks (1:57:00); Señales de los oyentes (2:13:00). En la foto, de arriba a abajo y de izquierda a derecha: Ángel López Sánchez, Héctor Socas, Carlos González, Francis Villatoro. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep275: Fotosíntesis; Energía Nuclear
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Música y adiós a Ennio Morricone (min 7:30); Estabilización de la fotosíntesis (22:30); Energía nuclear y entrevista a Alfredo García (56:00); Señales de los Oyentes (2:50:00). En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Francis Villatoro, Héctor Socas, Alfredo García, Alberto Aparici. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep274: Asteroid Day; Marte; Supernovas; Misión Solar China
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Asteroid Day y el peligro de un gran meteorito (min 4:30); La misión china para observar el Sol con una flotilla de sondas (26:30); El problema de las supernovas tipo ia en la "crisis cosmológica" (59:00); Marte, repaso de actualidad y la misión de Perseverance (1:28:00); Señales de los oyentes (2:17:30). En la foto, de arriba a abajo y de izquierda a derecha: Julia de León, Carlos González, Héctor Socas, Jorge Pla García, Francis Villatoro. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep273: Exceso en XENON1T; Gravitondas; Controversias Cosmológicas; Oxígeno y Tierra Helada; 
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Premios Princesa de Asturias 2020; NASA y tecnomarcadores; Relación entre la gran oxidación y la "Tierra helada"; LIGO/VIRGO detecta ondas gravitacionales de un evento intrigante; Analizamos el resultado del experimento XENON1T; Polémica recalibración de distancias cosmológicas; Estrategia europea de física de partículas; Señales de los oyentes. En la foto, de arriba a abajo y de izquierda a derecha: Alberto Aparici, Héctor Socas, Francis Villatoro. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep272: Conjetura de Maldacena y Entropía de Agujeros Negros; Condensado Bose-Einstein; Cocodrilos Bípedos; Varios
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Primer perihelio de Solar Orbiter; El "airglow" de Marte; Cocodrilomorfos bípedos en el Cretáceo Temprano; Conjetura de Maldacena y termodinámica de agujeros negros; Señales de los oyentes. En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Héctor Socas, Francis Villatoro. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep271: Especial SETI; Entrevista Jill Tarter
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Jill Tarter, Sagan, Thorne y la conexión entre Contact e Interstellar (min 4:00); Entrevista Dra. Jill Tarter (29:00); Historia y presente: De SETI a los tecnomarcadores (1:13:00). En la foto, de arriba a abajo y de izquierda a derecha: Jill Tarter, Héctor Socas, Héctor Vives, Ignacio Crespo, Francis Villatoro, Alberto Aparici. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias. Este programa está dedicado a la memoria de la astrofísica Rebeca Galera.
+
+Ep270: Bariones Perdidos; Espuma Cuántica; Space X; Pasta Nuclear
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Space X, primera empresa en llevar astronautas al espacio con su Crew Dragon (min 6:00), Los misteriosos FRBs ayudan a resolver el problema de la materia perdida (39:40); Galaxia colisional anular en el Universo joven (1:22:45); Espacio-tiempo cuántico: Probando teorías de espuma cuántica (1:39:00); La extraña materia que compone las enanas blancas y estrellas de neutrones (2:20:00); Señales de los oyentes (2:43:30). En la foto, de arriba a abajo y de izquierda a derecha: Carlos González, Héctor Socas, Alberto Aparici, Francis Villatoro, Ángel López-Sánchez. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep269: Gravitondas y Campos Cuánticos; La Civilización del Valle del Indo; IA en Física Solar; IA en Cosmología
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Predicen un nuevo efecto de interacción entre ondas gravitacionales y el vacío cuántico (min 6:00); Inscripciones del Valle del Indo, una de las civilizaciones más antiguas (1:10:40); Predicción del nuevo ciclo solar usando IA (2:16:00); GalaxyNet: La red neuronal que ha aprendido la relación entre materia oscura y galaxias (2:43:20); Señales de los oyentes (3:08:00). En la foto, de arriba a abajo y de izquierda a derecha: María Ribes, Sara Robisco, Alberto Aparici, Isabel Cordero, Francis Villatoro, Nicolás Sanchis-Gual. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep268: Vacuna; Agujeros Negros en Física Teórica; ANITA y Universos Paralelos; Paranoias Solares
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: La vacuna de Moderna contra la COVID-19 (min 5:00); La anomalía de ANITA y la historia del universo paralelo (45:00); Paranoias solares (1:38:00); Tertulia sobre física teórica y agujeros negros con el Dr. Gastón Giribet (2:08:00). En la foto, de arriba a abajo y de izquierda a derecha: Alberto Aparici, Gastón Giribet, Sara Robicso, Héctor Socas, Ignacio Crespo, Francis Villatoro. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep267: Materia Oscura; Agujero Negro; Estrellas de Neutrones; Cosmología Alternativa; Dinosaurios
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Podcasts de ciencia (min 6:00); Descubrimiento de un agujero negro interesante (18:00); Estrellas de neutrones de rayos X (47:00); ANTARES y su búsqueda de materia oscura (1:09:00); Nuevo modelo de materia oscura (1:33:00); Desintegración de materia oscura resuelve la discrepancia de H0 (1:45:00); ¿Cazaban junots los dinosaurios? (1:59:00); Rebote cosmológico anterior a la inflación (2:17:00); Descontaminando de velos para las futuras observaciones cosmológicas (2:43:45); Señales de los oyentes (2:56:00). En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Héctor Socas, Bea Ruiz, Francis Villatoro, Alberto Aparici, Carlos González. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep266: FRBs y Magnetars; Anticuerpos; Fomalhaut; Sol Raro; Reconexión; Publicaciones Científicas
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Adiós a Robert May; Un anticuerpo contra la COVID19; Fomalhaut b era una colisión de planetesimales; ¿Es el Sol anómalamente poco activo?; Los latigazos magnéticos de la corona solar y la reconexión de intercambio; Tertulia sobre el sistema de publicaciones científicas. En la foto, de arriba a abajo y de izquierda a derecha: Carlos Westendorp, Héctor Socas, Carlos González, Sara Robisco, Francis Villatoro, Marian Martínez. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep265: Objetos Interestelares; Espacio-Tiempo en Rotación; Etimología de Astrobiología; Actividad Estelar; Betelgeuse
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Loeb se une a Trump (min 7:00); Etimología de "astrobiología" (17:00); Las peculiaridades del cometa interestelar 2I/Borisov (48:00); Posible origen de 'Oumuamua (1:05:00); Actividad estelar (1:48:00); SOFIA-EXES: Nuevas observaciones de Betelgeuse (2:15:00); Señales de los oyentes (2:31:00). En la foto, de arriba a abajo y de izquierda a derecha: María Ribes, Héctor Socas, Marian Martínez, Sara Robisco, Francis Villatoro. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep264: Física de Wolfram; Antimateria; Parkinson; Dinosaurios; Precesión de Schwarzschild
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Cumplimos 5 años (min 5:00); Precesión de Schwarzschild y el agujero negro supermasivo de nuestra galaxia (12:00); Enfermedad de Parkinson (32:30); El esqueleto del espinoforosaurio (1:18:00); Adiós a Teresa Rodrigo (1:38:00); Violación de simetría CP en neutrinos (1:46:00); La física de Stephen Wolfram (2:19:00). En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Héctor Socas, Alberto Aparici, Ignacio Crespo, Francis Villatoro. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep263: John Conway; SETI y CETI; Anisotropías Cosmológicas; Neandertales; ¿Virus del Espacio?; Señales de los Oyentes
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: John Conway, el mago matemático (min 9:30); Cuerdas... ¿neandertales? (22:30); Especulando sobre el número de civilizaciones en la galaxia (32:00); Virus espaciales, pandemias y actividad solar (1:01:30); Anisotropías cosmológicas (1:30:30); Señales de los oyentes (2:03:30). En la foto, de arriba a abajo y de izquierda a derecha: Héctor Socas, Carlos Westendorp, Jose Alberto Rubiño, Sara Robisco, Carlos González, Francis Villatoro, Bea Ruiz. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep262: Margaret Burbidge; Física de Partículas y Materia Oscura; Superfulguraciones Estelares; Dinosaurios; 2I/Borisov
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Margaret Burbidge (min 5:00); INTEGRAL, rayos gamma, materia oscura, neutrinos estériles y axiones (57:30); Objeto interestelar 2I/Borisov (1:37:00); Superfulguraciones en estrellas tipo solar observadas por TESS (1:57:00); Reconstrucciones de dinosaurios (2:19:00); Señales de los oyentes (3:00:00). En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Héctor Socas, Francis Villatoro, Carlos González, Ángel López-Sánchez, Alberto Aparici. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep261: April's Fools; IA y Poesía; Anillos de Fotones y Agujeros Negros; Vía Láctea; Migraciones Animales; COVID-19
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Adiós a Phillip Anderson; Inteligencia artificial para generación de poesía; Los papers de broma del 1 de Abril: Nuestro ránking; Anillos de fotones en agujeros negros; Cambio climático y migraciones animales; Sagitario y los brotes de formación estelar de la Vía Láctea; El halo de materia oscura de nuestra galaxia; Modelos matemáticos de epidemias: COVID-19; Entrevista: Xisco Jiménez y Miquel Oliver. En la foto, de arriba a abajo y de izquierda a derecha: Bea Ruiz, Héctor Socas, Sara Robisco, María Ribes, Francis Villatoro, Carlos González. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep260: Premios Abel; Superfulguraciones; Emociones; Galaxias y MOND; Paradoja de Fermi; Biocontaminación Espacial;
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Drias Reciente: ¿Extinción por superfulguración? (min 9:00); Emociones y lenguas (29:00); Premios Abel (1:05:00); Biota de Ediacara (1:31:30); Galaxias cuya rotación no ajusta con MOND (1:50:00); Ecuación de Drake y Paradoja de Fermi (2:08:00); Ley espacial y biocontaminación planetaria (2:38:30). En la foto, de arriba a abajo y de izquierda a derecha: Alberto Aparici, Francis Villatoro, María Ribes, Sara Robisco, Carlos Westendorp, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep259: Exomars 2022; Dinosaurios; Coronavirus
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Especial CB:SyR Home Edition #yomequedoencasa; Exomars 2020, retrasada (min 11:30); Descubierto el dinosaurio más pequeño (33:00); ADN preservado en cartílago de dinosaurio (53:00); Actualidad del Covid-19 (1:10:00). En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Héctor Socas, Francis Villatoro, Alberto Aparici, Carlos González, Ignacio Crespo. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep258: Cosmología; Física de Partículas; Dryas Reciente; Actividad Solar; Coronavirus
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Actualidad del Covid-19 (min 5:00); El evento Dryas reciente: ¿un impacto catastrófico? (28:00); Vacío cósmico y la tensión de la constante de Hubble (51:00); La anomalía de KOTO (1:16:00); La actividad solar en los últimos 4,000 millones de años (1:40:00). En la foto, de arriba a abajo y de izquierda a derecha: Alberto Aparici, Francis Villatoro, Carlos Westendorp, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep257: Marte; Freeman Dyson; Dark Energy Survey; Agujeros Negros; Luna
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Adiós a Freeman Dyson (min 10:00); Fin de SETI@Home (34:30); ¿Una proteína extraterrestre? (39:00); Japón congela los fondos para el TMT (44:00); Retractado el paper de Zharkova et al (47:00); Resultados de Chang'E 4 en la Luna (1:02:40); Agujeros negros de masa intermedia en nuestra galaxia (1:17:00); Resultados del Dark Energy Survey (1:34:00); Resultados de 1 año de InSight en Marte, con Jorge Pla García (2:05:00). En la foto, de arriba a abajo y de izquierda a derecha: Héctor Vives, Sara Robisco, Francis Villatoro, Bea Ruiz, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep256: Coronavirus; Cosmología; Nefertiti; Antimateria; MOND vs Materia Oscura; TMT; Katherine Johnson
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Coronavirus y miedos (min 6;00); Despedimos a Katherine Johnson, calculadora de la NASA (21:00); Actualización sobre el TMT (33:20); La posible tumba de Nefertiti (43:20); MOND y materia oscura (1:16:30); Antimateria: medidas del antihidrógeno, a la búsqueda de asimetrías (1:44:40); Energía oscura como granulado del espacio-tiempo (2:01:50); Betelgeuse (2:47:50). En la foto, de arriba a abajo y de izquierda a derecha: María Ribes, Héctor Vives, Ignacio Crespo, Carlos Westendorp, Sandra Benítez, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep255: Starlink; FRBs; SETI; Betelgeuse; Cúmulos Globulares
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Starlink (min 10:50); FRBs (Estallidos Rápidos de Radio) y Abraham Loeb (29:00); Un punto azul pálido (50:20); FAST, el mayor radiotelescopio del mundo comienza operaciones SETI (1:06:00); Nuevas imágenes de Betelgeuse (1:32:00); Cúmulos globulares (1:48:00); Electricidad a partir de la humedad del aire (2:08:30). En la foto, de arriba a abajo y de izquierda a derecha: Ángel López Sánchez, Sara Robisco, Francis Villatoro, Alberto Aparici, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep254: Mujeres en Ciencia; Carne Roja; Primer FRB Periódico; Web Cósmica Fractal; Robot Científico Bayesiano
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Breves: coronavirus y Solar Orbiter (min 6:00); Mujeres en ciencia e igualdad (16:00); La polémica de la carne roja (1:00:00); Fast Radio Bursts, estallidos rápidos de radio (1:14:00); La Red Cósmica fractal (1:21:00); Máquina científica bayesiana (1:45:10). En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Bea Ruiz, Francis Villatoro, Bernabé Cedrés, Alicia López Oramas, Sandra Benítez, Carlos Westendorp. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep253: Polémica López Otín; La Voz de la Momia; Invariancia Lorentz; Lingüística; Protección Planetaria
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: La polémica de López Otín un año después (min 7:00); Reconstruyen el sonido de la voz de una momia de 3,000 años de antigüedad (32:30); Paralelismos entre el canto de los pájaros y el habla humana (45:30); Modelando el lenguaje (1:15:30); Descubierto el primer asteroide interior a Venus (1:34:50); MAGIC confirma la invariancia de Lorentz (1:40:00); Protección planetaria y los riesgos de contaminación biológica en el espacio (2:03:00); Señales de los oyentes (2:23:00).  En la foto, de arriba a abajo y de izquierda a derecha: María Ribes, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso
+
+Ep252: Coronavirus; Xenobots; Gravedad Masiva; Grafeno y Premio Wolf; Satélites rozándose; Neutrinos exóticos
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Coronavirus 2019-cnCoV; Premio Wolf y avance en Grafeno; Gravedad masiva y Premio Blavatnik; Detección de Materia Oscura con relojes atómicos; Robots biológicos o Xenobots; Satélites que pasan rozándose; Detección de neutrinos exóticos. En la foto, de arriba a abajo y de izquierda a derecha: Francisco Villatoro; Beatriz Ruiz; Alberto Aparici; Carlos González; Carlos Westendorp. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep251: Exoplanetas; Misión Solar Orbiter; Entrevistas: Enric Pallé y José Carlos del Toro
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Exoplanetas (min 4:50): Tertulia con Enric Pallé; Solar Óbiter (1:12:40): Tertulia con Jose Carlos del Toro. En la foto, de arriba a abajo y de izquierda a derecha: Enric Pallé, Jose Carlos del Toro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep250: Cosmología: Energía Oscura, Defectos Topológicos; Vía Láctea; Galaxias sin Materia Oscura
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Crisis cosmológica I: Anisotropía de la expansión acelerada (min 9:00); Crisis cosmológica II: Evolución de las Supernovas (35:00); Vía Láctea y Nubes de Magallanes (54:00); ¿Una población de galaxias sin materia oscura? (1:15:00); Cuerdas cósmicas, defectos topológicos y transiciones de fase cosmológicas. En la foto, de arriba a abajo y de izquierda a derecha: Carlos González Fernández, Jose Alberto Rubiño, Nacho Trujillo, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep249: Especial Premios Señal y Ruido 2019
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Gala especial premios Señal y Ruido 2019; Varios (min 4:00); Candidaturas al Premio Señal (27:00); Candidaturas al Premio Ruido (1:26:30); Colaboración Radio Skylab (2:25:00); Veredicto (2:39:00). En la foto, de arriba a abajo y de izquierda a derecha: Ángel López-Sánchez, Alberto Aparici, Ignacio Crespo, Sara Robisco, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep248: Clima, Calentamiento Global y Meteorología; Entrevista: Emilio Rey, Digitalmeteo
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Incendios en Australia (min 5:00); Betelgeuse y la Lotería (40:00); Cambio climático (58:00); Entrevista a Emilio Rey (2:33:10).  En la foto, de arriba a abajo y de izquierda a derecha: Francis Villatoro, Ángel López-Sánchez, Alberto Aparici, Sara Robisco, Emilio Rey, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep247: Indeterminismo Clásico y Metafísica; Paleontología; Pioneers, Voyagers: Futuros Encuentros; Betelgeuse; Starburst
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Navidad (min 4:00); Nueva interpretación indeterminista de la física clásica y sus implicaciones filosóficas (25:00); Descubiertos los fósiles más antiguos con evidencia de cuidados parentales hace 300 millones de años (1:17:00); El episodio más violento de nuestra galaxia: Cuando la Vía Láctea era una galaxia "starburst" (1:38:20); Los futuros encuentros de las sondas Pioneer y Voyager con otras estrellas (1:49:40); Betelgeuse: ¿A punto de explotar? (2:00:00). En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Alberto Aparici, Francis Villatoro, Alicia López Oramas, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep 246: Especial Sol y Luna. El Gran Apagón (de Tenerife); DKIST y Sonda Solar Parker; Mil Caras de la Luna
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: El apagón de Tenerife pudo deberse a un evento solar: Entrevista a Consuelo Cid, directora del grupo de meteorología espacial de la Universidad de Alcalá (min 4:50); DKIST y los últimos resultados de la Sonda Parker comentados por Valentín Martínez Pillet, director del National Solar Observatory de EEUU (41:00); Comentamos el libro "Las Mil Caras de la Luna" con su autora, la astrofísica Eva Villaver (1:25:00). En la foto, de arriba a abajo y de izquierda a derecha: Consuelo Cid, Valentín Martínez Pillet, Héctor Socas, Eva Villaver. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep245: Estrellas que Desaparecen; L'Affaire Molière; Gemelas CRISPR; Alzheimer; El Templo más Antiguo; Congreso ProAm
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: VASCO: Buscando estrellas que aparecen o desaparecen a lo largo de un siglo (min 19:00); Datos sobre las gemelas editadas genéticamente en China (40:00); ¿Escribió Molière sus propias obras? Lo que nos dice la ciencia sobre esta polémica (1:58:00); Posible nuevo tratamiento para la enfermedad de Alzheimer (1:20:15); Resumen del congeso Astronomía Profesional-Amateur (1:38:30); Se encuentra el que podría ser el templo más antiguo de la humanidad (2:30:30). En la foto, de arriba a abajo y de izquierda a derecha: Ángel López-Sánchez, Ignacion Crespo, Francis Villatoro, María Ribes, Beatriz Villarroel, Marian Martínez, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep244: Parker Solar Probe; Cavidades Resonantes Solares; Algoritmo Google; Homeostasis en IA; Neuronas visuales; Aye-Aye
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: primeros resultados de la Parker Solar Probe; Cavidades Resonantes Solares - Nature de Andrés; Algoritmo de Google; Homeostasis en IA; Neuronas Visuales; Aye-Aye, Primer primate de 6 dedos. En la foto, de arriba a abajo y de izquierda a derecha Sara Robisco, Carlos González, Ignacio Crespo, Andrés Asensio, Carlos Westendorp. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep243: MAGIC y Rayos Gamma; ¿Nuevo Bosón?; Titán; Europa; ProAm; Telescopios de Aficionado
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Los telescopios MAGIC detectan la emisión de fotones más energética de un estallido de rayos gamma (8:00); Un mapa geomorfológico de Titán (59:45); Se detecta vapor de agua en Europa (1:11:00); Bosón X17: ¿Se ha descubierto una quinta (o sexta) fuerza de la naturaleza? (1:32:30); Estrellas variables descubiertas por aficionados (2:03:50); Telescopios para iniciarse en la observación de aficionado (2:10:00). En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Francis Villatoro, Ángel López-Sánchez, Alicia López, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep242: Geometría Cosmológica; Oxígeno, el Nuevo Misterio de Marte; Terremotos: Precursores y Réplicas
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: LIGO/VIRGO retracta la reciente alerta por una señal desconocida (9:20); James Peebles y sus declaraciones contra la teoría del Big Bang (18:30); Espectroscopía multifibra (33:00); Starlink (40:10); TMT y EST (50:30); Terremotos: precursores y réplicas (56:00); Curiosity detecta variaciones estacionales del oxígeno en Marte (1:09:00); Cosmología (1:38:45). En la foto, de arriba a abajo y de izquierda a derecha: Francis Villatoro, Ángel López-Sánchez, Alberto Aparici, Carlos Westendorp, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep241: Higía y la IAU; Arrokoth; Virus Contra el Cáncer; Gravitondas Desconocidas; Puertas Lógicas Cuánticas
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Higía y la polémica sobre la IAU y los planetas enanos (min 5:00); Arrokoth, el nombre definitivo de Ultima Thule (46:00); CF33, un virus que podría eliminar el cáncer (1:04:00); LIGO/VIRGO detecta una señal desconocida (1:23:00); Puertas lógicas en computación cuántica (1:45:40); Señales de los oyentes (2:14:00). En la foto, de arriba a abajo y de izquierda a derecha: Francis Villatoro, Alberto Aparici, Ignacio Crespo, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep240: DESI; Voyagers; ¿Crisis Cosmológica?; Materia Oscura; Computación Cuántica
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: DESI, el Dark Energy Spectroscopic Instrument, ve primera luz (min 9:00); Voyager 2 y el límite de la heliosfera (18:00); Cúspides de materia oscura (31:50); Un nuevo paper sugiere que el Universo podría ser cerrado (47:30); Computación cuántica: supremacía o ventaja (1:33:00); Señales de los oyentes (1:53:30). En la foto, de arriba a abajo y de izquierda a derecha: Bea Ruiz, Sara Robisco, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep239: Marte; Bacterias Espaciales; AlphaStar de Deepmind; Materia Oscura; IA y Olfato; Exocinturones de Clarke
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Blade Runner (min 4:00); InSight: Nuevos problemas en Marte (8:40); Bacterias y hongos en la ISS (16:10); AlphaStar, el sistema de Deepmind de Google que juega al StarCraft II mejor que los humanos(38:00); Google Brain y sus redes neuronales profundas para entender el olfato (57:00); El problema de los "cusps" de materia oscura, ¿un fallo de simulación? (1:34:40); Nuevo paper sobre Exocinturones de Clarke (2:00:00); Señales de los oyentes y preguntas del público (2:30:00).  En la foto, de arriba a abajo y de izquierda a derecha: Francis Villatoro, Carlos Westendorp, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep238: Actividad Solar y Asirios; Tomografía de Papiros; Edición Genética; IA para Epigrafía
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Tomografía e IA para recuperar papiros carbonizados por el Vesubio (min 12:00); Registros de una supertormenta solar por los astrólogos asirios en el 660 A.C. (42:00); Redes neuronales permiten reconstruir epígrafes de la antigua Grecia (1:22:00); Una nueva técnica muy prometedora para editar ADN (1:57:00). En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Alberto Aparici, María Ribes, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep237: Insight, Higgs y Helical Engine; Carne Roja; Aharonov-Bohm e Invariancia Gauge; Radiotelescopio Arecibo
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Breves: Insight en Marte (min 5:00), Bosón de Higgs (8:00) y Helical engine (18:30); Carne roja y recomendaciones de salud (43:20); Efecto Aharonov-Bohm y la inariancia gauge en cuántica (1:20:40); Entrevista Ing. Francisco Córdova, director del Observatorio de Arecibo (1:54:30). En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Francis Villatoro, Carlos Westendorp, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep236: Gala Nobel 2019; Análisis de los Nobel de Fisiología y Medicina, Física y Química; Machine Learning en Cosmología
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Nuestra gala de los Nobel 2019 (min 9:30); Fisiología y Medicina: Gestión del oxígeno en las células (27:00); Física: Cosmología teórica y exoplanetas (1:19:30); Química: Baterías de Litio (2:09:40); Algoritmos genéticos para analizar datos de supernovas tipo Ia(2:26:30). En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Bea Ruiz, Francis Villatoro, Ignacio Crespo, Alberto Aparici, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep235: Planet 9 o Agujero Negro?; Cometa Interestelar Borisov; Universo Espejo; Un Exoplaneta Peculiar
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: ¿Y si el Planeta 9 fuera en realidad un agujero negro primordial?; Un exoplaneta peculiar que no encaja con las teorías de formación; El cometa interestelar 2I/Borisov; ¿Puede la materia oscura ser un universo espejo?. En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Francis Villatoro, Carlos Westendorp, Javier Licandro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep234: Supremacía Cuántica; Misión Borisov; Naukas 19; Planet Hunters TESS; Contaminación Lumínica
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Propuesta de misión al objeto interestelar 2I/Borisov (min 40:00); Fotos de la sustancia blanca en la Luna (36:00); Naukas 2019 (19:00); Google podría haber logrado la supermacía cuántica (1:13:00); Ciencia ciudadana: Planet Hunters TESS descubre el exoplaneta TOI 813b (1:46:00); Luces de Navidad y contaminación lumínica (56:00). En la foto, de arriba a abajo y de izquierda a derecha: Ángel López-Sánchez, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep233: Primer cometa interestelar! Neutrino evasivo; Premios Ig-Nobel; Entrevista J.A.Belmonte, C. Marín - Risco Caído
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Primer Cometa interestelar (segundo objeto!); Noticia del límite de la masa del neutrino en experimento Katrin; Premios Ig-Nobel de la ciencia; Entrevista a Juan Antonio Belmonte y Cipriano Marín sobre la inclusión de Risco Caído en la Lista de Patrimonio de la Humanidad; Señales del público en unidad móvil!. En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Andrés Asensio, Bernabé Cedrés, Carlos Westendorp. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep232: Michio Kaku; Exoplaneta con Agua; Genética y Sexualidad; El Gran Impacto de Chicxulub; Neutrinos; Arqueas
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Fe de erratas: El conejo de jade (min 6:00); Los OVNIs de Michio Kaku (11:20); Extendida la Chandrayaan-2, la misión india en la Luna (51:00); Genética de la orientación sexual (59:00); Reconstruyendo el día del gran impacto de Chicxulub hace 66 milones de años (1:17:00); Arqueas en la transición de procariota a eucariota (1:31:10); KATRIN, el experimento para medir la masa del neutrino está a punto de hacer un anuncio (1:55:10); Señales de los oyentes (2:18:10). En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Alberto Aparici, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep231: SpaceX vs ESA; Rumores: Agujero Negro Extraño; El Misterioso Gel Lunar; Materia Oscura; Sabine Hossenfelder
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Docencia universitaria (min 7:00); Fe de erratas (18:30); Rumores de un agujero negro extraño (26:40); La Chang'e 4 encuentra una extraña sustancia en la Luna (53:30); Starlink 44 de Space X y Aeolus de ESA en riesgo de colisión (1:01:00); El exceso de rayos gamma del centro galáctico (1:22:00); Análisis de la entrevista a Sabine Hossenfelder (1:36:10). En la foto, de arriba a abajo y de izquierda a derecha: Alberto Aparici, Francis Villatoro, Carlos Westendorp, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep230: Futuros Eventos Carrington; Clima de Venus; Gravitondas y H0; Agujeros Negros Primordiales; Señales de Oyentes
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: La probabilidad de que vuelva a ocurrir un evento Carrington (min 12:00); Detectadas fuertes variaciones en el clima de Venus por causas desconocidas (44:00); Determinación de la constante de Hubble con ondas gravitacionales (57:00); Agujeros negros primordiales como candidatos a materia oscura (1:17:00); Señales de los oyentes: Cambio climático, radiotelescopios, sombras, el Sol (1:45:00). En la foto, de arriba a abajo y de izquierda a derecha: Héctor Vives, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep229: Cazando ondas gravitatorias; ¿Seres de cánceres?; Medir exoatmósferas; Vallibonavenatrix; Fósiles; Metano Marte
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Detectado choque agujero negro y estrella de neutrones; ¿Puede un cáncer convertirse en una nueva especie?; Estudiar las atmósferas de exoplanetas; Descubierto el primer espinosáurido de la península ibérica; Nueva forma de reconstruir tejidos blandos a partir de los fósiles; Nuevo episodio del metano marciano: entrevista a Jorge Pla. En la foto, de arriba a abajo y de izquierda a derecha: Alberto Aparici, Sara Robisco, Ignacio Crespo, Isabel Cordero, Carlos Westendorp. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep228: Premios: Dirac y Breakthrough; Supergravedad; La Gran Oxidación; Materia Oscura y Big Bang
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Medalla Dirac 2019: El origen del Universo (5:30); Premio Breakthrough de Física Fundamental, supergravedad y supersimetría (57:00); La gran oxidación: la mayor catástrofe bio-climática de la historia del planeta (2:05:00); Últimas noticias sobre el TMT (2:27:00). En la foto, de arriba a abajo y de izquierda a derecha: Jose Alberto Rubiño, Francis Villatoro, Alberto Aparici, Sara Robisco, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la UC3 del Instituto de Astrofísica de Canarias.
+
+Ep227: TMT, Hawái, Canarias; Bioética; Terrascope y Entrevista: Dr Kipping; Exoplanetas; Programación; Galaxia Fedora
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Las últimas noticias sobre el supertelescopio TMT (5:00); Bioética y la investigaión con quimeras (35:00); Fotosíntesis a la luz de la luna (56:00); Julia y otros lenguajes de programación en ciencia (1:13:00); La forma de la Vía Láctea (1:45:00); Nuevos exoplanetas (2:00:00); Terrascope: Usando la Tierra entera como un gigantesco telescopio. Entrevista: Dr David Kipping (2:13:00). En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Francis Villatoro, Carlos González, David Kipping, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y el Instituto de Astrofísica de Canarias.
+
+Ep226: "Problema" Cosmológico; Orígenes de la Vía Láctea; Estrella a Hipervelocidad; Tecnomarcadores
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Quasites, el nuevo tecnomarcador propuesto por Kipping (8:00); ¿Se cumple la ley del aumento de entropía en el Cosmos? (29:00); Se descube una estrella hiper-rápida eyectada de nuestra galaxia por el agujero negro Sgr A* (45:00); El problema de la constante de Hubble (1:02:10); El origen de la Vía Láctea y la colisión con Gaia-Enceladus (1:43:00); Nuevos datos de la estrella S2 que se acerca al agujero negro supermasivo Sgr A* (2:00:15); Astro 2020 (2:14:00). En la foto, de arriba a abajo y de izquierda a derecha: Carlos González, Francis Villatoro, Alberto Aparici, Jose Alberto Rubiño, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y el Instituto de Astrofísica de Canarias.
+
+Ep225: Neuralink; El Problema de la Constante de Hubble; Muerte por Materia Oscura; Antibióticos sin Resistencia
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Hawái en estado de emergencia por las protestas contra el TMT (5:00); Elon Musk presenta Neuralink, su tecnología de interfaz con el cerebro (14:30); Magnetismo en júpiters calientes (35:30); Antibióticos que no producen resistencia (1:05:30); Nuevo método para medir la constante de Hubble (1:33:30); Muerte por materia oscura: Restricciones al modelo de "macros" (2:21:50). En la foto, de arriba a abajo y de izquierda a derecha: Francis Villatoro, Ignacio Crespo, Marian Martínez, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y el Instituto de Astrofísica de Canarias.
+
+Ep224: Alunizaje; Estrella de Tabby: ¿Exolunas?; Explicaciones Naturales para 'Oumuamua; El Campo Camaleón
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: 50 años de la llegada a la Luna (¡bonus: Sesión de preguntas con Daniel Marín!); Una explicación plausible al misterio de la estrella de Tabby; La "historia natural" de 'Oumuamua; Campo camaleón: Alternativa a las ecuaciones de Einstein para explicar la energía oscura. En la foto, de arriba a abajo y de izquierda a derecha: Francis Villatoro, Carlos Westendorp, Marian Martínez, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y el Instituto de Astrofísica de Canarias.
+
+Ep223: Metano Marciano; Luz Helicoidal; Astronomía ProAm; IA y Lenguas Perdidas; Neuronas de Cultivo; CRISPR vs SIDA
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Aleix Roig:  de astrónomo aficionado a hacer ciencia de frontera; Continúa el misterio del metano marciano: saltación y triboluminiscencias; Descifrando lenguas muertas con redes neuronales artificiales; Prometedora terapia con retrovirales y CRISPR-Cas9 contra el VIH; El torque de la luz; Observan la autoorganización espontánea de tejidos neuronales producidos en laboratorio. En la foto, de arriba a abajo y de izquierda a derecha: Francis Villatoro, Ignacio Crespo, Sara Robisco, María Ribes, Jorge Pla-García, Raul Infante, Aleix Roig, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep222: Simular Universo en IA; Hiperactividad y Cerebro; Estrellas Pulsantes; Meteoritos Marcianos; 2º FRB localizado!
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Meteoritos de Marte y Gran Bombardeamiento Pesado; Segundo FRB localizado; Simulando el Universo con Inteligencia Artificial (Deep Learning); Hiperactividad, el Cerebro y Estructuras Neuronales; Nuevas Estrellas Enanas Pulsantes; Especialización de Ovíparos y Vivíparos.  En la foto, de arriba a abajo y de izquierda a derecha: Serghey + Sara Robisco, Alberto Aparici, Ignacio Crespo, Marian Martínez, Carlos Westendorp.  Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep221: Serie Chernobyl; Energía Oscura/Gravedad Cuántica; Nuevos Exoplanetas; Más Metano en Marte; Seres Pluricelulares
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Héctor y OVNIS; Exoplanetas en Teegarden; Más Metano en Marte detectado; Serie Chernobyl - errores y grandezas; Energía Oscura y Gravedad Cuántica; Evolución de Seres Pluricelulares . En la foto, de arriba a abajo y de izquierda a derecha: Alberto Aparici, Ignacio Crespo, Francis Villatoro, Andrés Asensio, Carlos Westendorp. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep220: Polarización en el Fondo de Microondas; La Sal del Océano de Europa; Galaxia sin Materia Oscura; Dinamo Solar
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Dinamo solar y asimetrías caóticas (min 9:00); Detectan sal común en el gran océano subterráneo Europa, la luna de Júpiter(26:00); Actualizamos con Nacho Trujillo la controversia científica sobre la galaxia sin materia oscura (49:40); Buscando anomalías cosmológicas en los primeros resultados de Planck sobre la polarización del fondo de microondas (1:40:20). En la foto, de arriba a abajo y de izquierda a derecha: Francis Villatoro, Bea Ruiz, Héctor Vives, Nacho Trujillo, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración del Museo de la Ciencia y el Cosmos de Tenerife con el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep219: Agujeros Negros; Dinamo Solar y Planetas; Hierro Lunar; Materia Oscura vs MOND; Estrella Rara; Mensaje al Futuro
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: El disco de acreción de Sgr A*, el agujero negro de nuestra galaxia (min 1:27:00); El saganiano artefacto del Echostar XVI: Mensaje al futuro (8:30); Midiendo la calidad de los artículos (5:00); ¿Otra estrella como la de Tabby? (35:00); La dinamo solar y los alineamientos planetarios (57:00); La masa de hierro en la cara oculta de la luna (1:14:55); Una galaxia reliquia que refuta las teorías MOND (2:00:00). En la foto, de arriba a abajo y de izquierda a derecha: Francis Villatoro, Sara Robisco, Héctor Vives, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias y el Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep218: Cromodinámica Cuántica; China, la Capa de Ozono y la Luna; Big Bang Theory; Redes Neuronales; StarLink; Júpiter
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Cromodinámica cuántica y el legado de Gell-Mann (1:32:30); La controversia de la galaxia sin materia oscura (7:00) ¿Está desapareciendo la gran mancha roja de Júpiter? (57:30); Emisiones clandestinas de CFC-11 deterioran la capa de ozono (1:13:30); Resultados científicos de la misión china a la Luna (1:19:30); Demostrada la "conjetura de Sheldon": Ciencia y Big Bang Theory (2:10:30); Aprendiendo sobre el aprendizaje mediante redes neuronales (2:23:00); Más comentarios sobre Starlink, la megaconstelación de satélites de Space X (16:30). En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Francis Villatoro, Alberto Aparici, Ángel López-Sánchez, Carlos Westendorp, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias y el Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep217: Códice Voynich; Artemisa; Eclipse de Eddington; Starlink; Adiós a Murray Gell-Mann
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: ¿Realmente se ha descifado el códice Voynich? (minuto 41:20); El plan Artemisa de la NASA para establecerse en la Luna (2:02:00); Historias del eclipse que confirmó la teoría de la Relatividad General (29:30); El dilema de Starlink, la nueva iniciativa de Space X (15:30); Adiós a Murray Gell-Mann (8:20). En la foto, de arriba a abajo y de izquierda a derecha: María Ribes, Alberto Aparici, Héctor Socas, Enrique Joven, Carlos Westendorp. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias y el Museo de la Ciencia y el Cosmos de Tenerife.
+
+Ep216: Impactador Oscuro; CLASP; Gaussianidades Cosmológicas; Marte; Huawei; Entrevista: Javier Trujillo Bueno
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: La misión CLASP: Entrevista con Javier Trujillo Bueno; Impactador Oscuro; El lío de Huawei; Buscando las no-gaussianidades del fondo de microondas; ¿Agujero marciano?; Exovida y tipos de estrella. En la foto, de arriba a abajo y de izquierda a derecha: Carlos González, Héctor Socas, Bea Ruiz. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep215: Expansión Cósmica; Tormentas Solares de la Antigüedad; Dinosaurios Alados; Inflación Geométrica
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Continúa la controversia sobre el ritmo de expansión del Universo; Inflación geométrica, mención de honor de la Gravity Research Foundation; Dinosaurios con alas; Midiendo los eventos solares más extremos; La extraña rotación del Sol y las estrellas. En la foto, de arriba a abajo y de izquierda a derecha: Alberto Aparici, Francis Villatoro, Sara Robisco, Héctor Socas, Jose Alberto Rubiño. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+
+Ep214: Vacío Cuántico; Lenguas Asiáticas; Estrella Rara; Alzheimer's; Exoluna y Controversia
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Continúa la controversia sobre la exoluna de Teachey y Kipping; Una estrella muy rara, posiblemente de otra galaxia; El Alzheimer y las células gliales; Nuevos datos sobre el origen de las lenguas asiáticas; Vacío cuántico: partículas virtuales y radiación Cherenkov en el vacío. En la foto, de arriba a abajo y de izquierda a derecha: Ignacio Crespo, Sara Robisco, Carlos González, Héctor Socas, María Ribes, Alberto Aparici. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep213: Tensiones y Discrepancias Cosmológicas; Malaria; Desintegración Xenon 124; Exoluna; Exometano
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Vacunación masiva contra la malaria; Las discrepancias en la medida del ritmo de expansión del Universo; La exótica desintegración del Xenon 124; Dudas sobre el posible descubrimiento de la primera exoluna; AI para traducir señales cerebrales a lenguaje hablado; Metano en un exoplaneta. En la foto, de arriba a abajo y de izquierda a derecha: Ángel López-Sánchez, Sara Robisco, Carlos González, Bea Ruiz, Héctor Socas, Carlos Westendorp. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep212: Cosmología con Masa Negativa; Gemelos Astronautas; OVNIs; Reviviendo Cerebros; La Primera Molécula del Cosmos
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: ¿Se puede explicar la materia oscura y la energía oscura con masas negativas?; Resultados del estudio de los astronautas gemelos; OVNIs de Franco y el experimento Iván: Tertulia con Luis Alfonso Gámez; Observada la primera molécula del universo;  Reviven células cerebrales en cerdos horas después de su muerte. En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Elena Denia, Ignacio Crespo, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep211: Especies Humanas Ancestrales; Metano en Marte; ¿Exoplaneta Proxima c?; Cáncer de Páncreas
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Denisovanos y otras especies humanas ancestrales; Resultados contradictorios de MarsExpress y ExoMars complican la polémica del metano en Marte; Entrevista con Jorge Pla-García; Nueva vía de ataque contra un letal cáncer de páncreas; Indicios de una posible supertierra en torno a Proxima Centauri, la estrella más cercana. En la foto, de arriba a abajo y de izquierda a derecha: Alberto Aparici, Francis Villatoro, Héctor Socas, Bernabé Cedrés, Carlos Westendorp. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep210: EHT y la Imagen de un Agujero Negro; Fenómeno OVNI; Metano en Marte; Significancia Estadística
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: El Event Horizon Telescope obtiene la primera imagen de un agujero negro; La verdadera verdad sobre los OVNI; Mars Express, Curiosity y ExoMars: Se complica la polémica del metano en Marte; El significado de la "significancia estadística". En la foto, de arriba a abajo y de izquierda a derecha: Francis Villatoro, Sara Robisco, Héctor Socas, Jose Alberto Rubiño. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep209: Consciencia y...¿Libre Albedrío?; El Armagedón de los Dinosaurios; Metano en Marte; Event Horizon Telescope
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: El Event Horizon Telescope y la primera imagen de un agujero negro; Consciencia y libre albedrío: De la neurología al superdeterminismo en física; Hallado el primer registro fósil de la destrucción causada por el gran impacto que extinguió a los dinosaurios y cambió el planeta; El misterio del metano en Marte; Entrevista: Jorge Pla-García. En la foto, de arriba a abajo y de izquierda a derecha: Ignacio Crespo, Ángel López-Sánchez, Alberto Aparici, Héctor Socas, Carlos Westendorp. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep208: Galaxia sin Materia Oscura; Luna 2024; Mujeres Astronauta; Meteoro de Bering; Sorpresas en Bennu; Exoplanetas
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: La galaxia de van Dokkum; Dificultades de la misión OSIRIS-REx en Bennu; EEUU quiere volver a la Luna en 2024; El meteoro del mar de Bering; Se cancela la primera actividad espacial de dos mujeres astronauta; GRAVITY observa la composición de un superjúpiter caliente; ¿Setas en Marte? En la foto, de arriba a abajo y de izquierda a derecha: Héctor Socas, Nacho Trujillo, Héctor Vives. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep207: Premio Abel: Karen Uhlenbeck; Genética y Jack el Destripador; Supercontinentes; Metástasis; Íberos Arcaicos
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Premio Abel 2019: Karen Uhlenbeck; Primer análisis genético sistemático en el caso de Jack el Destripador; Supercontinentes y superocéanos; Las células del hígado dirigen la proliferación de metástasis; Pobladores de la Península Ibérica de hace 4500 años. En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Alberto Aparici, Ignacio Crespo, Francis Villatoro, Carlos Westendorp. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep206: ¿Invirtiendo el Tiempo?; Vía Láctea; Cosmología; Agujeros Negros y Propulsión Interestelar; Vida móvil; WWW
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: ¿De verdad un ordenador cuántico ha dado marcha atrás al tiempo?; El fondo cósmico de neutrinos: La nueva herramienta de la cosmología; Materia oscura y la masa de la Vía Láctea; La idea del propulsor halo de Kipping; Fósiles de las primeras formas de vida con movilidad propia; 30 años de WWW y el manifiesto de la W3C; ¿Una segunda estrella de Tabby?. En la foto, de arriba a abajo y de izquierda a derecha: Carlos González, Sara Robisco, Alberto Aparici, Bea Ruiz, Elena Denia, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep205: Supertelescopios Solares; Marte; Curando el VIH
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Primeras dificultades de la misión InSight; Indicios de una capa freática global en el Marte primigenio; Curado un enfermo de VIH; DKIST y EST: Los futuros grandes telescopios para observar el Sol; Tertulia con Valentín Martínez Pillet y Manolo Collados. En la foto, de arriba a abajo y de izquierda a derecha: Carlos González, Carlos Westendorp, Ignacio Crespo, Valentín Martínez, Manolo Collados, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep204: Hipocampo; Metafísica Cuántica Filipondrista; ADN Alternativo; Levadura, Cerveza y Cannabis; Parásitos
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Hipocampo, Proteo, Tritón y Chico Percebe; Hackean levadura de cerveza para producir cannabinoides; (Meta-)Física cuántica y "hechos alternativos"; Cuatro nuevos nucleótidos para formar ADN; Parásitos y anfitriones. En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Alberto Aparici, Francis Villatoro, Ignacio Crespo, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep203: Operación CB:Marte; Darwinismo Lingüístico; OpenAI: Creación de Textos; Reparación Neuronal; CRISPR vs Progeria
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Operación Rescate: Nos vamos a Marte a liberar a Opportunity; Ecofísica para el modelado de la evolución lingüística; Creando textos con una IA; CRISPR para el tratamiento del síndrome Hutchinson–Gilford, o progeria; Primera imagen 3D de viroides; Guiando el crecimiento neuronal. En la foto, de arriba a abajo y de izquierda a derecha: Ignacio Crespo, Sara Robisco, Bea Ruiz, Héctor Socas, Carlos Westendorp. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep202: Marte; Ardillas Fluorescentes; 'Oumuamua en Serio; Alabeo Galáctico; Cerebro y Tripas; Entrevista: Casiana Muñoz
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Adiós al Opportunity; Ardillas fluorescentes; Entrevista: Dra Casiana Muñoz; Los últimos cuatro papers sobre 'Oumuamua; ¿Existe relación entre flora intestinal y salud mental?; La Vía Láctea y el sombrero de Humphrey Bogart; La intrigante planitud de Ultima Thule. En la foto, de arriba a abajo y de izquierda a derecha: Francis Villatoro; Sara Robisco; Carlos González; Ignacio Crespo; Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep201: 'Oumuamua; Metaestudios con IA; Ciencia a Ciegas; Mundos en Colisión; Antipartículas
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy (rogamos disculpen los ruidos que se escuchan durante algunos pasajes debidos a problemas técnicos): Adiós a Stewart Adams, descubridor del ibuprofeno; ¿Es 'Oumuamua una sonda alienígena?; Inteligencia artificial para buscar datos en la literatura científica; La catastrófica colisión planetaria de Kepler 107; ¿Está la ciencia demasiado sesgada a lo visual?; El misterioso exceso de antipartículas que llueve sobre la Tierra. En la foto, de arriba a abajo y de izquierda a derecha: Alberto Aparici, Héctor Socas, Carlos Westendorp, Andrés Asensio. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep200: ¿Supercolisionadores Apocalípticos?; Ignorantes Enfadados; Fraude Científico; ¿Energía Oscura Dinámica?
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: De las paranoias apocalípticas a los proyectos de futuros colisionadores de partículas; La relación entre ignorancia y oposición al consenso científico; El caso López Otín: ¿Fraude o chapuza?; Nuevo método para medir la expansión del Universo; Ondas gravitacionales, fusiones de agujeros negros y dimensiones extra. En la foto, de arriba a abajo y de izquierda a derecha: Francis Villatoro, Sara Robisco, Carlos González, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. 
+
+Ep199: Medir Expansión del Universo; Planeta 9 ¿innecesario?; Magnetismo Primordial; J. Edelstein e Inflación Geométrica
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Diferencias o "tensión" entre nuevas medidas de la constante de Hubble; Teoría alternativa al hipotético Planeta 9 (o ¿X?); Inferencia del magnetismo primordial en galaxias; Entrevista a José Edelstein sobre su teoría de Inflación Geométrica. En la foto, de arriba a abajo y de izquierda a derecha: Francis Villatoro, Héctor Socas, Bea Ruiz, Carlos Westendorp. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep198: Adiós Sir Atiyah; FRBs; IA y Teoremas de Incompletitud; Paleoflores; Ciclo Solar
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Despedimos a Sir Michael Atiyah, uno de los grandes matemáticos del siglo XX; K2 286b, un exoplaneta rocoso; CHIME y las "misteriosas señales de radio extraterrestres"; Plantas con flores: El "abominable misterio" de la evolución de Darwin; La inteligencia artificial se topa con los teoremas de incompletitud matemática de Gödel. En la foto, de arriba a abajo y de izquierda a derecha: Alberto Aparici, Sara Robisco, Francis Villatoro, Héctor Socas, Marian Martínez. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep197: Especial Premios Señal y Ruido
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Alimentos ecológicos; Fast Radio Burst; Exoplaneta K2-286; Gala de la Tercera Edición de los Premios Señal y Ruido. En la foto, de arriba a abajo y de izquierda a derecha: Alberto Aparici, Sara Robisco, Ángel López Sánchez, Héctor Socas, Jose Alberto Rubiño. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+
+Ep196: Ultima Thule; Inflación; Chang'e y Luna; Bennu; Musk y Tesla; Ciencia en el Parlamento
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: New Horizons en Ultima Thule (2014MU69); Chang'e: China aterriza en el lado oculto de la Luna; Elon Musk y sus problemas con TESLA; OSIRIS-REX en Bennu; Inflación geométrica . En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Alberto Aparici, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep195: Marte; Saturno; CRISPR; ALMA; Luz Intracumular y Materia Oscura; Talcos Cancerígenos; Neurología de la Adicción
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Marte: El enorme lago helado del cráter Korolev; Saturno: La lluvia del anillo; Polémico anuncio de pruebas clínicas de CRISPR en EEUU; ALMA observa sistemas planetarios en formación; La luz intracumular como "radiografía" de la materia oscura; Actualizamos el debate científico sobre la galaxia de van Dokkum; Nuevos resultados sobre el mecanismo neurológico responsable de la adicción. En la foto, de arriba a abajo y de izquierda a derecha: Nacho Trujillo, Sara Robisco, Ángel López Sánchez, Héctor Socas, Itahisa Marcelino. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep194: AlphaFold, Nueva IA; Dinosaurios y Plumas; Registro Histórico de Actividad Solar; Detectores de Materia Oscura
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Noticias varias; Posible descubrimiento de plumas en los pterosaurios; AlphaFold, una nueva IA para el análisis de proteínas; Historia de la actividad solar en los últimos 400 años; Primeros resultados del detector de materia oscura COSINE-100. En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Héctor Socas, Francis Villatoro, Alberto Aparici. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep193: Cosmologías de Masa Negativa; ADN Mitocondrial; Universo Antes del Big Bang; Descifrando Primer Templo Humanidad
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Cosmologías con masa negativa; Ventajas e inconvenientes de la masa negativa como materia oscura y energía oscura; Mitocondrias de línea paterna; Una cosmología alternativa con simetría CPT;  Entrevista a Juan Antonio Belmonte sobre Gobekli Tepe, el templo más antiguo de la humanidad. En la foto, de arriba a abajo y de izquierda a derecha: Ignacio Crespo, Juan Antonio Belmonte, Bea Ruiz, Bernabé Cedrés, Héctor Socas, Carlos Westendorp. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep192: Descifrando Gobekli Tepe; La Historia del Universo en Rayos Gamma; Física Solar; Evolución de las Aves;LIGO/VIRGO
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Yacimiento de Gobekli Tepe: ¿Un posible paleoregistro de impactos cometarios?; Nueva técnica para investigar la historia del Universo usando rayos gamma y el fondo de luz intergaláctico; Cómo los cambios en la atmósfera terrestre influyeron en la evolución de las aves; Resultados de la misión CLASP para observar el complejo magnetismo solar; Nuevos resultados de LIGO+VIRGO con cuatro nuevas detecciones de ondas gravitacionales. En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Carlos González, Carlos Westendorp, Marian Martínez, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep191: Amartizaje InSight; Entrevista Leonard Susskind; CRISPR y las Gemelas de China
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Analizamos el descenso y aterrizaje de la misión InSight en Marte; Entrevista con Leonard Susskind; Susskind: La persona y su ciencia; Lulu y Nana, las gemelas que serán los primeros humanos genéticamente modificados. En la foto, de arriba a abajo y de izquierda a derecha: Jose Edelstein, Francis Villatoro, Ignacio Crespo, Héctor Vives, Jose Alberto Rubiño, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep190: Meteorito de Groenlandia; OSIRIS-REX y Hayabusa-2; Vacío Cuántico; Concavenator
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: El meteorito de Groenlandia: Un posible gran impacto reciente; OSIRIS-REX y Hayabusa-2, misiones de exploración a asteroides potencialmente peligrosos; Indicios de gigantismo en el depredador Concavenator Corcovatus; Vacío cuántico, partículas virtuales y principios de incertidumbre. En la foto, de arriba a abajo y de izquierda a derecha: Alberto Aparici, Sara Robisco, Carlos Westendorp, Javier Licandro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep189: Huracán de Materia Oscura; Polémica LIGO; Barnard b; Eventos Solares en la Guerra de Vietnam; Agujeros Negros
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: ¿Bacteria de Schrödinger?; Galaxias, barras y matrioshkas; Púlsar y estallidos gamma; Estrella de Barnard; LIGO y la polémica de New Scientist; Erupciones solares y la misteriosa detonación de minas navales en la guerra de Vietnam; El agujero negro que rota casi a la velocidad de la luz. En la foto, de izquierda a derecha y de arriba a abajo: Héctor Socas, Sara Robisco, Francis Villatoro. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep188: El Retorno del Lobo; 'Oumuamua; Inconsistencias Cuánticas; Hubble vs Lemaître; Galaxias Enanas
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Síndrome de Guillain-Barré; 'Oumuamua, alienígenas y el martillo de Occam; La ley de Hubble-Lemaître; Física cuántica: ¿Inconsistencias o errores de planteamiento?; Efectos "feedback" en galaxias enanas; Congreso Estatal de Astronomía; Ciencia en el Parlamento. En la foto, de arriba a abajo y de izquierda a derecha: Jose Edelstein, Héctor Socas, Ángel López Sánchez, Francis Villatoro, Alberto Aparici. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep187: Evento Tunguska; Dipolo del Electrón y Simetría CP; Moral Machine Experiment; La Pseudociencia de Gwyneth Paltrow
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Nuevos resultados sobre Tunguska 1908, el mayor impacto registrado en la historia; La cultura de la moral: Cómo al intentar enseñarle a las máquinas aprendemos sobre nuestras  inconsistencias; Nuevas cotas a la esfericidad del electrón: buscando violaciones de la simetría CP; El timo de la pseudociencia: Analizan los productos de la marca Goop de Gwyneth Paltrow; Noticias varias: TMT, Kepler, "La Guerra de los Mundos", extinciones recientes. En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Carlos González, Bernabé Cedrés, Carlos Westendorp, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep186: Velos en Cosmología; Teorias de Cuerdas; Inconsistencias de la Física Cuántica
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Buscando las ondas gravitacionales del principio del Universo; Los últimos resultados del experimento BICEP2/KECK ya descartan algunos modelos de inflación; Estiman el número de posibles universos predichos por las teorías de cuerdas heteróticas; Nuevo teorema "no-go" demuestra que la teoría cuántica no puede describirse a sí misma. En la foto, de arriba a abajo y de izquierda a derecha: Alberto Aparici, Jose Alberto Rubiño, Bea Ruiz, Nacho Trujillo, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep185: Dimensiones Extra; Anti-CRISPR; Vida Artificial Cuántica; Cura del SIDA; Medicina y Big Data
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Avería en el observatorio espacial Chandra; ¿Existen dimensiones ocultas en el Universo?; Mecanismos contra la edición genética CRISPR-CAS9; Algoritmos de vida artificial cuántica en computación cuántica; Nueva técnica prometedora para acabar definitivamente con el virus VIH. En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Ignacio Crespo, Carlos Westendorp, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep184: Soyuz; Factores X; Hubble; Telescopios Cherenkov; Biomecánica de Dinosaurios; Disminución de IQ; Estudiar Física
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Emergencia por fallo en el lanzamiento tripulado de la Soyuz MS-10; Factores X: Los puntos críticos de la economía mundial; La avería del Hubble y el problema de los giróscopos en el espacio; Inaugurado en La Palma el LST-1 de la Red de Telescopios Cherenkov CTA; Recreando el movimiento de los dinosaurios: aplicaciones en robótica y construcción; ¿Ha disminuido la inteligencia de las personas nacidas después de los 70?; Algunos consejos para futuros científicos, pero pocos. En la foto, de arriba a abajo y de izquierda a derecha: Carlos González, Héctor Socas, Alberto Aparici, Sara Robisco. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep183: NOBELs; Exoluna; NASA y SETI; Duende y Planeta 9
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Analizamos los Premios Nobel 2018; ¿Descubierta la primera exoluna? Evidencias frente a indicios; #technosigs18: La NASA convoca a la comunidad SETI en Houston; Descubierto un nuevo planeta enano que también apunta a un Planeta 9. En la foto, de arriba a abajo y de izquierda a derecha: Alberto Aparici; Ignacio Crespo; Francis Villatoro; Carlos Westendorp; Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep182: Planeta Vulcano? Hipótesis Riemann; Naukas; bichos Ediacara; Cerveza y Pan pre-agricultura! Crómlech toledano 
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Se ha descubierto el planeta Vulcano de Star-Trek? Hipótesis Riemann, demostrada?; experiencia Naukas; Dickinsonia y los bichos de Ediacara; Cerveza y Pan pre-agricultura! Descubierto un crómlech toledano. En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Carlos Westendorp, Francis Villatoro, Alberto Aparici. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep181: IA y Policía; Observatorio Solar Sunspot; Premios Ig Nobel; Alternativas Cosmológicas; Vía Láctea
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: VeriPol: La herramienta de la policía nacional para detectar denuncias falsas; Resuelto el misterio del cierre del Observatorio Solar Sunspot; Premios Ig Nobel 2018; Teorías cosmológicas alternativas a la inflación y posibles huellas observacionales; GAIA mide distorsiones en la Vía Láctea. En la foto, de arriba a abajo y de izquierda a derecha: Carlos González, Francis Villatoro, Héctor Socas, Bea Ruiz. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep180: SETI con Inteligencia Artificial y FRBs; Galaxias, Materia Oscura y... ¿Cáncer?; Hijo de las Estrellas
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Una inteligencia artificial busca señales de extraterrestres; Hijo de las Estrellas (S02), pronto en nuestras pantallas con Astrovlog; La galaxia de van Dokkum podría refutar teorías MOND; ¿Relación entre melanoma y materia oscura?; Noticias varias: Fin del "No LIGO MACHO", ministra dimisionaria, Observatorio Solar Sunspot. En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Carlos González, Ricardo García, Bernabé Cedrés, Julio Castro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep179: Cosmología de Penrose; Alcohol y Salud; Desintegración del Higgs; Híbridos Humanos; ¿Inversión Temporal en GRBs?
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: La Cosmología Cíclica Conforme (CCC) de Penrose; ¿Se han encontrado indicios de CCC en el fondo de microondas?; Efectos del alcohol en nuestra salud: ¿es positivo, negativo o neutro?; La "inversión del tiempo" en los enigmáticos estallidos cósmicos de rayos gamma (GRBs); Chorros relativistas superlumínicos (aparentemente); El LHC observa lo que antes se pensaba imposible: La desintegración del bosón de Higgs; Se encuentran restos de una mujer hija de neandertal y denisovano; Noticias varias: Museo Nacional de Brasil; Kepler; ISS; Jocelyn Bell Burnell; R.I.P. Luca Cavallí-Sforza. En la foto, de arriba a abajo y de izquierda a derecha: Francis Villatoro, Alberto Aparici, Marcos Pellejero, Jose Alberto Rubiño, Andrés Asensio, Carlos Westendorp, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep178: Especial Contemplando y Fotografiando el Cielo
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Especial sobre el hobby de fotografiar y contemplar el cielo; Tertulia con Daniel López (elcielodecanarias.com), uno de los mejores astrofotógrafos del mundo; Qué podemos hacer y cómo iniciarnos en esta apasionante afición; Equipamiento necesario para cada situación, con las recomendaciones personales de Daniel López; La astrofotografía como forma de vida. En la foto, de arriba a abajo y de izquierda a derecha: Héctor Socas, Carlos Westendorp, Daniel López. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep177: Especial Mitología y Astronomía
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Especial Mitología y Astronomía; Cosmogonías greco-romanas; Constelaciones, desde Mesopotamia hasta nuestros días; Catasterismos; Denominaciones de planetas y lunas; El ominoso sarcófago de Alejandría. En la foto, de arriba a abajo y de izquierda a derecha: Juan Antonio Belmonte, María Ribes, Héctor Socas, Carlos Westendorp. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep176: El Incidente Márquez; Fauna de Ediacara; Fast Radio Bursts; Fósiles Químicos; Preguntas de Oyentes
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Entrevista con Melissa Cristina Márquez: Conservación marina y su incidente con un cocodrilo; Biota de Ediacara y la búsqueda de los primeros animales; El nuevo radiotelescopio CHIME descubren un nuevo pulso de radio (FRB) desconocido; Fósiles químicos y océanos antiguos; Estudiantes de secundaria descubre una extraña fuente galáctica de rayos X; Preguntas de oyentes. En la foto, de arriba a abajo y de izquierda a derecha: Carlos González, Sara Robisco, Alberto Aparici, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep175: Sonda Solar Parker; Materia Oscura: Polémica Científica y Luz Intracumular; Preguntas Frecuentes: Cosmología
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Sonda Solar Parker; Física Solar y el legado de Parker; La luz que muestra la materia oscura; van Dokkum y la galaxia sin materia oscura: La polémica contada desde dentro; Preguntas frecuentes: Cosmología y fondo de microondas. En la foto, de arriba a abajo y de izquierda a derecha: Francis Villatoro, Alberto Aparici, Héctor Vives, Nacho Trujillo, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep174: Sagitarius A*; Medallas Fields; Escutoides; Exovida y Rayos UVA; Marte
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Nuevos datos sobre el agujero negro supermasivo de nuestra galaxia; Medallas Fields: El premio de las Matemáticas; Escutoides: La geometría de las células epiteliales; Entrevista: Clara Grima; Radiación ultravioleta y vida extraterrestre; Terraformando Marte. En la foto, de arriba a abajo y de izquierda a derecha: Alberto Aparici, Sara Robisco, Francis Villatoro, Carlos González, Héctor Vives, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep173: Especial La Cosmología Según Planck; Agua en Marte
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Especial Cosmología: El legado de la misión espacial Planck; Bonus: Agua en Marte. En la foto, de arriba a abajo y de izquierda a derecha: Bea Ruiz, Jose Alberto Rubiño, Marcos Pellejero, Héctor Vives, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep172: Concavenator y Otros Paleobichos; Superneutrino, Rayos Gamma y Blazar; 10 Nuevas Lunas Jovianas
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Descubiertas 10 nuevas lunas de Júpiter: La maldición de Coffee Break llega a The Expanse; Detección multimensajero del neutrino EHE170922A; Paleontología en la Penísula Ibérica . En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco, Alberto Aparici, Héctor Socas, Carlos Westendorp, Bernabé Cedrés. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep171: Pilares de la Creación; Peta-Neutrino Multimensajero; Inteligencia Artificial; Gravedad y The Expanse
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Preanuncio: IceCube, FERMI, MAGIC detectan un peculiar neutrino y rayos gamma de un Blazar; Magnetismo en los Pilares de la Creación; Project Debater: La inteligencia artificial de IBM que aprende a debatir; La gravedad en la serie The Expanse; Magnetismo en Supernovas. En la foto, de izquierda a derecha: Héctor Socas, Carlos Westendorp, Sara Robisco, Marian Martínez, Bea Ruiz. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep170: Encélado; Salyut 7; Cosmología, Cuerpo Negro y CMB; Galaxia sin Materia Oscura; Magnetismo Primordial
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Descubiertos orgánicos complejos en Encélado; Continúa la polémica sobre la "galaxia sin materia oscura": van Dokkum responde; Salyut 7: Realidad vs Ficción (sin spoilers); El fondo cósmico, el espectro de cuerpo negro y los agujeros negros primordiales; AT2018cow: La misteriosa explosión cósmica que todavía no tiene explicación; Cómo medir el magnetismo primordial del universo usando gravitondas; Actualizados los índices de impacto de las revistas científicas. En la foto, de izquierda a derecha: Bea Ruiz, Alberto Aparici, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep169: 'Oumuamua; ¿Galaxia sin Materia Oscura?; Amanecer Cósmico y Materia Oscura; Limpiando Basura Espacial
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: La aceleración no gravitatoria de 'Oumumua; Desmentido de la galaxia sin materia oscura; Amanecer cósmico: Pistas sobre la materia oscura y sus posibles interacciones; Primera misión para limpiar basura espacial; Paleo-detectores de materia oscura; La vida contra la energía oscura. ¿Y por qué no Esfera de Dyson Galáctica? ; Entrevista Dr Julián Muñoz. En la foto, de izquierda a derecha: Olga Zamora, Bea Ruiz, Carlos Westendorp, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep168: Ratas, Móviles y ¿Cáncer?; Estrella de Tabby; Agujeros Negros; Enzima Rubisco; 
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Estrella de Tabby: La Nueva Generación; ¿De verdad causan los móviles cáncer en ratas?; El agujero negro de Arp 299 despedaza una estrella; Entrevista Dr Miguel Pérez-Torres; La enzima rubisco: hacia un futuro de cultivos más eficientes. En la foto, de izquierda a derecha y de arriba a abajo: Sara Robisco, Francis Villatoro, Héctor Socas, Marian Martínez. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep167: Marte; EM Drive K.O.; Campo Terrestre; Ética e Int. Artificial; IoT - Sara; Medir el Protón; Inmunoterapia Cáncer
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Últimas noticias de la NASA en Marte; el EM Drive parece que no va; Inversión del campo magnético Terrestre; Inteligencia Artificial, Google y la ética; primicia de Sara: la Internet de las cosas; Midiendo la presión del protón; Avances de la inmunoterapia contra el cáncer metaestático. En la foto, de izquierda a derecha y de arriba a abajo: Alberto Aparici, Sara Robisco, Carlos González, Carlos Westendorp, Bernabé Cedrés.  Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep166: Duque; Metafísica Cuántica; Neutrinos Estériles: ¿Materia Oscura?; Volcán de Fuego; Predecir Lentes Gravitatorias
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: La erupción del Volcán de Fuego; Bienvenido Pedro Duque; Metafísica de la mecánica cuántica; Posible detección de neutrinos estériles, un prometedor candidato a materia oscura; Usando GAIA para predecir futuros eventos de lente gravitacional. En la foto, de izquierda a derecha y de arriba a abajo: Alberto Aparici, Francis Villatoro, Héctor Socas, Héctor Vives.  Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep165: Estrellas Hiper-Rápidas; Asteroide Retrógrado... ¿Interestelar?; Pirámides, Muones y... ¿Extraterrestres?
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Supernovas ciudadanas; GAIA revela estrellas hiper-rápidas: Visitantes de otras galaxias y prófugas expulsadas; El peculiar asteroide 2015 BZ509, a contracorriente en la órbita de Júpiter y... ¿procedencia interestelar?; Radiografías de muones y dudas sobre el hueco de la pirámide de Keops; El radar refuta la teoría de una cámara oculta en la tumba de Tutankhamon; Entrevista César Esteban: "¿Construyeron los extraterrestres las pirámides de Egipto?" (y otros monumentos antiguos). En la foto, de izqda a derecha: Héctor Socas, Ángel López-Sánchez, Carlos Westendorp. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep164: Envejecimiento y Telómeros; Energía Oscura y Vida en el Multiverso; Leucemia; Asteroides
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Micro-relato: "La excusa Casimir"; La ciencia del envejecimiento; El problema de la constante cosmológica: ajuste fino, principio antrópico y vida en otros universos; Leucemia: Mapa genómico y ¿exceso de higiene? En la foto, de arriba a abajo y de izqda a derecha: Alberto Aparici, Sara Robisco, Héctor Socas, Carlos Westendorp. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep163: Feynman; Europa; Experimento Big Bell; NBA; Una Galaxia muy Lejana; 
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Etimología de Paralaje; Vida y obra de Richard Feynman; Nuevos indicios sobre la habitabilidad de Europa; Baloncesto: ¿Existen las buenas rachas o es fluctuación estadística?; Formación de estrellas al principio del Universo; ¿Yanny o Lauren?. En la foto, de arriba a abajo y de izqda a derecha: Ángel López-Sánchez, Carlos González, Francis Villatoro, Héctor Socas, Andres Asensio, Héctor Vives. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep162: Planetas de Púlsar y Supernovas; El Fin del Sol; Champions; InSight a Marte; Fisión Espacial; Exoanillos; Araña
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Planetas que orbitan un púlsar; Estadística histórica de finalistas de la Champions; Nuevo modelo de las últimas fases de vida del Sol; La misión InSight despega rumbo a Marte para analizar su interior; El reactor nuclear de bolsillo de la NASA para alimentar futuros asentamientos espaciales; Anillos de exoplanetas y el problema de los subneptunos; Muere la araña más vieja del mundo. En la foto, de arriba a abajo y de izqda a derecha: Francis Villatoro, Héctor Socas, Carlos Westendorp. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep161: SETI con GAIA; Pulpos Terrestres y Transposones; Einstein; Estrellas de Neutrones; Minería Espacial; Supernovas
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Frases de Einstein; ¿Pueden las Supernovas destruir planetas?; Nuevo método para buscar "esferas de Dyson" usando GAIA; En genoma de los pulpos; Transposones: Los tramposones del ADN; Observado Helio en un exoplaneta; Estrellas de neutrones y gravitondas; Fútbol. En la foto, de izqda a derecha y de arriba abajo: Alberto Aparici, Francis Villatoro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep160: LHC y Desintegraciones Anómalas; Supremacía Cuántica; Planeta Perdido y Meteoritos con Diamantes; Supertierras
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Método científico y hada de los dientes (¡Ojo! Spoiler para niños entre minuto 7 y 12); LHCb encuentra desintegraciones no predichas (o no calculadas aún) por el Modelo Estándar; La apuesta de Google para la supremacía cuántica; Velocidad Westendorp; GAIA Data Release 2; Es difícil el vuelo espacial desde supertierras; Meteoritos, diamantes y un posible planeta perdido. En la foto, de izqda a derecha: Carlos Westendorp, Carlos González, Francis Villatoro, Bernabé Cedrés, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep159: Diabetes; Pulpos Espaciales e Hipótesis Siluriana; Materia Oscura; Redes Neuronales; Predicciones de Ciclo Solar
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: ¡Cumplimos 3 años! Con emboscada sorpresa y tarta ^_^; Avances contra la diabetes; Predicciones del ciclo solar e impacto sobre el clima terrestre; TESS y GAIA; Materia oscura: Cientificos no tan soberbios que rectifican; Alienígenas Ancestrales: La hipótesis siluriana, pulpos espaciales y panspermias absurdas; Redes neuronales que sueñan o aprenden de perros. En la foto, celebración de cumpleaños y los participantes: Andrés Asensio, Carlos González, Carlos Westendorp, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep158: Materia oscura y DAMA/LIBRA; Amanecer Cósmico; Agujeros Negros en el Centro Galáctico; Llamaradas en Proxima b
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Dudas sobre DAMA/LIBRA; Dudas sobre la galaxia sin materia oscura; Dudas sobre la absorción de Hidrógeno de la reionización en 77MHz; Agujeros negros downtown; Llamaradas que dejan peladito a Proxima b; Legos con reacciones químicas. En la foto, de izquierda a derecha: Beatriz Ruiz, Héctor Vives, Alberto Aparici, Marian Martínez. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep157: Galaxia sin materia oscura? Estrella de Scholtz errante; FELTs - Nuevas Supernovas; Alternativas agujeros negros
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Tiangong-1 cayó; experimento de recogida de basura; Clima de Juego deTronos; el misterios de la galaxia sin Materia Oscura; paso cercano de la estrella de Scholtz;  FELTs - nuevo tipo de supernova, alternativas a agujeros negros. En la foto, de izquierda a derecha: Carlos Westendorp, Ignacio Trujillo, Ángel López Sánchez, Héctor Vives. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias. 
+
+Ep156:JWST Retrasado; Multiverso Póstumo de Hawking; Programa de Langlands; Galaxia sin Materia Oscura; Augurios del Sol
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Inminente caída de la estación espacial china Tiangong-1; Nuevo retraso del futuro telescopio espacial James Webb Space Telescope; Pospuesta la decisión del sitio para el TMT; Estrella de Tabby; Metaestabilidad del Universo; Salida suave a la inflación eterna: El paper póstumo de Stephen Hawking; Maldacena, premiado con la prestigiosa medalla Lorentz; Una galaxia sin materia oscura; El programa de Langlands; ¿Está cambiando el Sol?. En la foto, de izquierda a derecha y de arriba abajo: Héctor Socas, Alberto Aparici, Francis Villatoro. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep155: Galaxia Reliquia; Ondas Magnéticas en el Sol; Langlands, Premio Abel 2018; Agujeros Negros en Latín
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Curso exprés de latín; NGC 1277, la Jordi Hurtado de las galaxias; Ondas de Alfvén y magnetohidrodinámica solar; Robert Langlands, premio Abel 2018. En la foto, de izquierda a derecha y de arriba abajo: Francis Villatoro, Héctor Socas, Nacho Trujillo. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep154: Especial Teoría de Supercuerdas
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Especial Teoría de Supercuerdas: las cuerdas como elementos fundamentales; campos cuánticos como vacíos cuerdisticos; el espacio-tiempo como interacción de cuerdas; la teoría se cuerdas como la teoría del todo. En la foto, de izquierda a derecha y de arriba abajo: Alberto Aparici, Francis Villatoro, Marian Martínez, José Edelstein. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias (IAC).
+
+
+Ep153: Especial La Física de Stephen Hawking
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Especial la Física de Stephen Hawking; Sus 7 papers más geniales según un comité de físicos ilustres; De singularidades a cosmología cuántica; La persona detrás del icono mediático. No aparecen en la foto: José Edelstein, Jose Alberto Rubiño, Héctor Socas, Garik Israelian. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias (IAC).
+
+Ep152: Amanecer Cósmico; Conjetura de Censura; Agujeros Negros de AGN; Superflares en Proxima b; Planetas Exogalácticos
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: La era de las primeras estrellas desafía la cosmología estándar: ¿Nuevas pistas sobre la materia oscura?; Contraejemplo de la Censura Cósmica; ALMA observa el entorno del agujero negro supermasivo un una galaxia activa; Megafulguración en Proxima Centauri: desmintiendo el cinturón de polvo y cuestionando la habitabilidad de Proxima b; Más comentarios sobre los exoplanetas extragalácticos. En la foto, de izquierda a derecha y de arriba abajo: Ángel López-Sánchez (alias el señalado), Héctor Socas, Julio Castro, Héctor Vives, Jose Alberto Rubiño. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias (IAC).
+
+Ep151: Hellou Orca!; Estrellas Prístinas; Mantis con Gafas; 'Lucky' Supernova; Campos Turbulentos; CRISPR Fluorescente
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Las orcas y su capacidad de imitación fonética; Midiendo la masa de la galaxia de Andrómeda; Una estrella muy peculiar que desafía la teoría; El sistema de visión 3D de las mantis religiosas; Un aficionado capta el momento clave del nacimiento de una supernova; Avances en la técnica de CRISPR y como un problema se convierte en un éxito. En la foto, de izquierda a derecha y de arriba abajo: Ángel López-Sánchez, Marian Martínez, Carlos Westendorp, Alberto Aparici. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias (IAC).
+
+Ep150: Bombardeo Tardío; Clarke Exobelt; ¿Mínimo de Maunder?; Astrodinámica del Tesla Espacial
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Cuestionado el paradigma del Bombardeo Tardío inicial sobre la Tierra; ¿Estamos entrando en un nuevo Mínimo de Maunder y consecuente glaciación?; Clarke Exobelt: Nuestro homenaje a Arthur C Clarke y contribución al SETI; Simulaciones de la órbita del descapotable espacial lanzado por Space X; En la foto, de izquierda a derecha: Héctor Socas, Javier Licandro, Carlos González, Andrés Asensio. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias (IAC).
+
+Ep149: Adiós Polchinski y Lynden-Bell; Falcon Heavy; Fine-Tuning del Universo; El Problema de las Galaxias Satélite
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Último adiós a Donald Lynden-Bell y Joe Polchinski: Despedimos a dos grandes y repasamos su obra; Primer lanzamiento del Falcon Heavy: Starman y su descapotable espacial; Centauro A y el problema de las galaxias satélites: Los límites de las simulaciones cosmológicas; Vida en un Universo sin interacción débil, Contraargumento al "ajuste fino"; ¿Exoplanetas extragalácticos?. En la foto, de izquierda a derecha y de arriba a abajo: Francis Villatoro, Marian Martínez, Alberto Aparici, Ángel López Sánchez. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias (IAC).
+
+Ep148: La Ciencia del Códice Secreto de Voynich; Materia Oscura de la Vía Láctea; El Preocupante Fallo del Ariane 5
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Inteligencia Artificial para descifrar el manuscrito Voynich; Mapeando la distribución de materia oscura en nuestra galaxia; Preocupante fallo de un cohete Ariane 5; El Asteroide 2002 AJ129: Otro no-apocalipsis. En la foto, de izquierda a derecha y de arriba a abajo: María Ribes, Héctor Socas, Bernabé Cedrés, Carlos González, Alberto Aparici. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica del Instituto de Astrofísica de Canarias
+
+Ep147: Pirámides: Trono de hierro, meteorito Hipatia, pinturas egipcias, la Tabby “Hipster”, Geoingeniería, NASA cerrada
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Pirámides: vacío en la de Keops y posble trono de hierro "extraterrestre", el raro meteorito Hipatia, resaltando pinturas egipcias, la Tabby “Hipster” - RZ Piscium, Geoingeniería y cambio climático, NASA cerrada (y el sector público de EEUU). En la foto, de izquierda a derecha: Carlos Westendorp, Héctor Vives, Juan Antonio Belmonte, Marian Martínez, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep146: Hielo en Marte; Dinosaurios y Año Jurásico; Hongos que Comen Radiación
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Nuevas revelaciones sobre Marte; Dinosaurios: Año Jurásico 2018; Hongos que se alimentan de radiación; Estimaciones sencillas sobre erupciones solares. En la foto, de izquierda a derecha y de arriba a abajo: Vary Bayón y Alberto Aparici (por videoconferencia), Héctor Socas, Andrés Asensio. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep145: Star Wars sin Spoilers; Incertidumbres en Física; Temperatura y Calor; #CienciaEnElParlamento
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Debatimos sobre la física en Star Wars: Los Últimos Jedi (sin spoilers); Incertidumbres en física: principios de indeterminación y sistemas caóticos; Temperatura y calor; La iniciativa #ciencia en el parlamento: Entrevista con Dr Andreu Climent. En la foto, de izquierda a derecha y de arriba a abajo: Francis Villatoro y Carlos González (por videoconferencia), Héctor Socas, Carlos Westendorp, Héctor Vives. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep144: Premios Señal y Ruido 2017; Estrella de Tabby; Vulnerabilidad Informática
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: La tradicional Gala de los Premios Señal y Ruido 2017; Meltdown, Spectre y la vulnerabilidad de los microprocesadores; Estrella de Tabby. En la foto, de izquierda a derecha y de arriba abajo: Francis Villatoro, Alberto Aparici y Ángel López-Sánchez (por videoconferencia), Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep143: Estrella de Belén; Materia Oscura y Polémica 'No LIGO MACHO'; Astronomía Amateur; El Puente de Magallanes
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: La Estrella de Belén: Historia y Astronomía. Entrevista con Juan Antonio Belmonte; Materia oscura y agujeros negros primordiales: La divertida polémica del "No LIGO MACHO"; La ciencia de la astronomía no profesional; El Puente de Magallanes y las estrellas que lo cruzan . En la foto, de arriba a abajo y de izquierda a derecha: Julio Castro, Alberto Aparici y Ángel López-Sánchez (ambos por videoconferencia), Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura
+
+Ep142: Excitonium; Magnetismo en Agujeros Negros; Lucy, Patroclus y Meonetius; El Quásar más Lejano
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Nuevo estado de la materia: El excitonium; El magnetismo de un agujero negro; Lucy, la futura misión a asteroides troyanos de Júpiter; Compuestos orgánicos en el cometa 67P Churyumov-Gerasimenko; Quásares lejanos: luces que alumbran los bosques Lyman-alfa . En la foto, de arriba a abajo y de izquierda a derecha: Francis Villatoro (videoconferencia), Carlos Westendorp, Marian Martínez, Javier Licandro, Héctor Vives. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura
+
+Ep141: Asteroide Interestelar 'Oumuamua; Habitabilidad Galáctica; Galactoscuroplanismo; Marte; Ojos y Telescopios
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Posible habitabilidad de nuestra galaxia cuando era un cuásar; Marte: No es agua todo lo que reluce; La sorprendente similitud entre ojos de vieiras y telescopios astronómicos; Galactoscuroplanismo: El debate sobre si la materia oscura galáctica es esférica o plana; Fotobombing galáctico: Dos agujeros negros supermasivos y la galaxia de Andrómeda. En la foto, por orden alfabético: Alberto Aparici (videoconferencia), Bernabé Cedrés (centro), Héctor Socas (izquierda), Héctor Vives (derecha). Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura
+
+
+Ep140:Colapso del Vacío y Fin del Universo; Mínimo Solar; Voyager Reactivado; ExperimentoLuna; Principio de Equivalencia
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: El fin del Universo por colapso del vacío cuántico: Una mera cuestión de tiempo; El ciclo solar visto en microondas y la obstinada constancia de los mínimos; Reactivados los propulsores principales de la Voyager 1 tras 37 años de silencio; "Súper"(?)-luna y nuestro #ExperimentoLUNA; El Principio de Equivalencia.  En la foto, de izquierda a derecha y de arriba a abajo: Ángel López-Sánchez, Alberto Aparici, Carlos Westendorp, Marian Martínez, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura 
+
+Ep139: Especial Física de Partículas II. Simetrías en Física y Leyes de Conservación; Campos Cuánticos; El Spin
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Especial Física de Partículas II; Metafísica de la realidad: campos cuánticos o materia; El spin como propiedad de partículas y campos; Simetrías en Física: Teorema de Noether y leyes de conservación. En la foto, de izquierda a derecha y de arriba a abajo: Alberto Aparici, Francis Villatoro, Nacho Trujillo, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep138: Especial Inteligencia Artificial: Redes Neuronales; La Singularidad; Posthumanismo
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Especial monográfico Inteligencia Artificial. Definiciones y conceptos básicos; Aplicaciones presentes y futuras: Ciencia, arte, coches autónomos y asistentes; Consciencia artificial: Realidad vs Ciencia Ficción; La hipótesis de la singularidad y el posthumanismo. En la foto, de arriba a abajo y de izquierda a derecha: Sara Robisco (por videoconferencia), Andrés Asensio y Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep137: La Nueva Exotierra Ross 128b; Cosmología Exótica; Grupos Matemáticos; La Supernova que No Cesa
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Descubierto Ross 128b: Una posible exotierra en zona de potencial habitabilidad a solo 11 años-luz; Google y sus auriculares con traducción en tiempo real; Cosmología exótica: Modelo holográfico de Universo como 3-brana en un agujero negro de 5 dimensiones; Grupos matemáticos: Moonshines, las sorprendentes conexiones entre grupos parias y formas modulares; La Supernova Duracell, que dura y dura. En la foto, de arriba a abajo y de izquierda a derecha: Carlos González, Francis Villatoro, Alberto Aparici (por videoconferencia), Héctor Socas y Carlos Westendorp. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep136: Pirámides y Rayos Cósmicos; Antimateria y Violaciones de Simetría; Inteligencia Artificial; Encélado; Proxima Cen
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Aniversarios: Sagan, Curie; Pirámides y Rayos Cósmicos: Entrevista con Juan Antonio Belmonte; Materia vs Antimateria: ¿Violaciones de Simetrías o Dominios del Universo?; Inteligencia Artificial; Polvo en Proxima Centauri; El Océano Interno de Encélado. En la foto, de arriba a abajo y de izquierda a derecha: Alberto Aparici (por videoconferencia), Héctor Vives, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep135: El Despertar de Tabby
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Especial Estrella de Tabby. La investigación del equipo de Coffee Break, vista desde dentro. En la foto, de arriba a abajo y de izquierda a derecha: Carlos González (por videoconferencia), Carlos Westendorp, Marian Martínez, Héctor Socas, Andrés Asensio. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep134: Cosmología; Ondas Gravitacionales, Energía Oscura y Teorías Alternativas; El Futuro del Sol; ¿Exoasteroide?
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Energía oscura y constante cosmológica; Implicaciones de la detección multimensajero de ondas gravitacionales GW170817 sobre la cosmología; El futuro magnético del Sol; Detectado un asteroide que podría provenir de fuera del Sistema Solar; Entrevista Dr. Francisco-Shu Kitaura. En la foto, de arriba a abajo y de izquierda a derecha: Javier Licandro, Jose Alberto Rubiño, Héctor Vives, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep133: Primera onda gravitacional con detección multifrecuencia: fusión estrellas de neutrones; Homenaje a H. Leavitt
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: un hito histórico en la ciencia, la primera vez que la detección de una fuente de ondas gravitacionales va unida a detecciones en el rango electromagnético; proyecto de divulgación que homenajea a la astrónoma Henrietta Leavitt con motivo de la celebración del Gender in Physics Day.
+
+En la foto, de izquierda a derecha: Carlos Westendorp Plaza, Nayra Rodríguez Eugenio, Ángel López Sánchez, Carlos González Fernández,  Julio Castro Almazán y Pepa Becerra González.
+
+Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep132: Detectada la Materia Perdida; Escudo Planetario para la Tierra; Supernova 1987; Los Anillos de Haumea
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: 60 años de Sputnik; El efecto Sunyaev-Zeldovich para detectar la materia perdida; Escudo planetario contra tormentas solares catastróficas; La supernova de 1987; Los anillos de Haumea. En la foto, de arriba a abajo y de izquierda a derecha: Alberto Aparici, Francis Villatoro, Ángel López-Sánchez (los tres por videoconferencia), Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep131: Los NOBEL; Rumores: TMT y LIGO/VIRGO; Sueños de Medusas
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Desmontando mitos sobre la Estrella de Tabby; Analizamos los Premios Nobel de Ciencia 2017; Rumores sobre el Supertelescopio TMT; Confirmado: LIGO/VIRGO convoca un anuncio para el 16-Oct; Las medusas, el ser más simple que duerme. En la foto, de arriba a abajo y de izquierda a derecha: Héctor Socas, Alberto Aparici, Carlos González, Carlos Westendorp. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep130: LIGO+VIRGO; Alimentación; Farmaciencia vs Homeopatía; Huracanes y conspiranoias; Asteroide-cometa doble
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Primera detección de ondas gravitacionales de la colaboración LIGO+VIRGO; Resultados de un macroestudio sobre alimentación y salud; Farmaciencia y su lucha contra el engaño en las farmacias; Cuentas de servilleta sobre huracanes y paranoias. En la foto, de arriba a abajo y de izquierda a derecha: Bernabé Cedrés, Itahisa Marcelino, Vary Bayón, Héctor Socas, Julio Castro, Héctor Vives. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep129: Naukas; Ig-Nobel; Homininos y huellas Europeas; Adiós Cassini - hola New Horizons y OSIRIS-REX; TRAPPIST-1
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:  Repasamos Naukas; los premios Ig-Nobel; Huellas controvertidas hace 6 millones de años en Europa; Adiós a la Cassinni y hola a New Horizons, Osiris-Rex... y repaso a TRAPPIST-1. En la foto, de arriba a abajo y de izquierda a derecha: Alberto Aparici, Carlos Westendorp y Héctor Vives. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep128: Ciencia en Fantasía; Agujeros Negros; Fulguraciones Solares; Terremotos y Luces en el Cielo; Astronautas Gemelos
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Mezclando ciencia y fantasía; Posible descubrimiento de un agujero negro de 100,000 masas solares en nuestra galxia; Llamaradas solares: ¿pueden causar terremotos?; Las misteriosas luces en el cielo observadas durante el terremoto de Mexico; Análisis del genoma de dos astronautas gemelos. En la foto, de arriba a abajo y de izquierda a derecha: Alberto Aparici, Carlos González, Héctor Socas, Héctor Vives. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep127: Babilonia; Estrella de Tabby; Fast Radio Bursts
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Tablilla Plimpton 322: Las Matemáticas también comienzan en Sumeria; Estrella de Tabby: Nuevos estudios sobre variabilidad a largo plazo; Detectados 15 nuevos FRBs (pulsos rápidos de radio); Fe de erratas sobre: materia oscura, Juego de Tronos, Señor de los Anillos. n la foto, de arriba a abajo y de izquierda a derecha: Héctor Socas, Alberto Aparici, Héctor Vives, Francis Villatoro. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep126: Juego de Tronos; Tensiones Cosmológicas y Dark Energy Survey; Teorías Alternativas; Rotación en el Universo
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Tensión en las medidas de la Constante de Hubble: Nuevos resultados del Dark Energy Survey; La astrofísica del mundo de Canción de Hielo y Fuego; Teorías alternativas sobre el origen del Universo; ¿Por qué todo parece estar rotando en el espacio?  En la foto, de izquierda a derecha: Marcos Pellejero, Carlos González, Héctor Socas, Nacho Trujillo. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep125: Agujeros Negros Primordiales y Materia Oscura; Nuevo Rumor LIGO; Eclipse Total; ¿Es el Big Bang un Agujero Negro?
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: ¿Podría la materia oscura estar hecha de agujeros negros de masa intermedia?; Analizamos el rumor sobre un gran descubrimiento de la colaboración LIGO/VIRGO; La experiencia de un eclipse solar total; ¿Es el Big Bang análogo a un agujero negro? En la foto, de arriba a abajo y de izquierda a derecha: Alberto Aparici, Nayra Rodríguez, Héctor Socas, Héctor Vives. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep124: Neurofisiología Cerebral de Hombres y Mujeres... y Viceversa; Google Memo; Exoatmósferas; Pareidolea
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Nuevas estudios sobre las diferencias fisiológicas entre cerebros de hombres y de mujeres; El Manifiesto de Google: Debatimos los diferentes puntos de vista; Pareidolia: Los monos también ven caras en las cosas; Observaciones de la estratosfera de un exoplaneta; Eclipse solar: Paranoias apocalípticas (y dale) y cómo observarlo de forma segura. En la foto, de izquierda a derecha: Héctor Socas, Carlos González, Carmen Agustín, Nacho Trujillo. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep123: Supertelescopio TMT; Hyperloop; Estructura Hiperfina de Antimateria; Explosiones de Rayos Gamma
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Resolución judicial favorable al TMT en Hawaii; Hyperloop: El supertren del futuro que propone Elon Musk; Las dificultades de China para encontrar director de su nuevo gran radiotelescopio; Nuevas observaciones aportan luz (polarizada) sobre los estallidos de rayos gamma. En la foto, de izquierda a derecha: Héctor Socas, Carlos González (por videoconferencia), Bernabé Cedrés. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+
+Ep122: AstroKatie y la Materia Oscura; Inteligencia Artificial; Misteriosas Señales de Radio; El Núcleo del Sol; Exoluna
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Entrevista a Katie Mack, @astrokatie, experta en Materia Oscura y uno de los físicos más seguidos en Twitter; El miedo a la inteligencia artificial: La simpática historia de Facebook que asustó a muchos; Los elusivos modos "g" y el interior solar; Las misteriosas señales de radio de ROSS 128; ¿Se ha descubierto la primera exoluna? En la foto, de arriba abajo y de izquierda a derecha: Carlos González, Ángel López-Sánchez (por videoconferencia), Héctor Socas, Carlos Westendorp. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep121: Agua en la Luna; Adiós a Mirzakhani; Homínidos; MEGARA y SAMI; Materiales Topológicos
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Agua en los minerales de la Luna: Implicaciones para la exploración espacial y para el origen de nuestro planeta; Fallece a la edad de 40 años Maryam Mirzakhani: Repasamos el trabajo de una de las mayores promesas de las Matemáticas; Homínidos y extinciones; Materiales topológicos y bandas electrónicas. En la foto, de arriba abajo y de izquierda a derecha: Alberto Aparici, Ricardo García, Ángel López-Sánchez (todos por videoconferencia), Nayra Rodríguez, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep120: Especial Física de Partículas y el Modelo Estándar
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Especial física de partículas; El Modelo Estándar. En la foto, de arriba abajo y de izquierda a derecha: Francis Villatoro, Alberto Aparici, Nacho Trujillo, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep119: Retrocausalidad y el tiempo en cuántica; Nuevo Barión doblemente encantado; Homínidos y nosotros; Señales oyentes
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Juno en la mancha roja de Júpiter, observaciones de la estrella de Tabby; Retrocausalidad y el tiempo en cuántica; Hominidos y noticias sobre nuestro origen pan-Africano; Señales de los oyentes. En la foto, de izquierda a derecha: Carlos Westendorp, Alberto Aparici (por videoconferencia), Francis Villatoro (por videoconferencia), Héctor Vives. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep118: Planeta 9; Objetos transneptunianos; Asteroid Day y la Oficina de Defensa Planetaria
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Planeta 9: Sesgos observacionales y un nuevo candidato; Objetos transneptunianos, cinturón de Kuiper y Némesis; El Día del Asteroide: Por qué necesitamos una Oficina de Defensa Planetaria. En la foto, de izquierda a derecha:  Bernabé Cedrés, Carlos Westendorp, Alberto Aparici (por videoconferencia), Javier Licandro, Héctor Vives, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep117: Canción de Sol y Fuego: Incendios Forestales; Magnetohidrodinámica Solar; Espículas
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Sol y Fuego; Doñana, incendios forestales y ecología; Magnetohidrodinámica solar: simulaciones de espículas; Entrevista Dr. Juan Martínez-Sykora. En la foto, de arriba abajo y de izquierda a derecha: Alberto Aparici, Vary Bayón, Marian Martínez, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep116: Especial Nueva Física, más allá del Modelo Estándar; Tertulia con Joaquim Matías
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Especial física de partículas; Búsqueda de nueva física, más allá del Modelo Estándar; Tertulia con Joaquim Matías; Altas energías: las nuevas perspectivas para el LHC y futuros aceleradores. En la foto, de arriba abajo y de izquierda a derecha: Alberto Aparici, Francis Villatoro, Nacho Trujillo, Joaquim Matías, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+EP 115: Controversia WOW; Asteroides Peligrosos; Medir Estrellas; Oyentes:5ªfuerza, Agujeros negros, Choques galaxias...
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Señal Wow: controversia sobre la explicación de que son comentas, Preguntas de los oyentes: 5ªfuerza, Caer en un agujero negro, Sistemas planetarios, Choques de cúmulos de galaxias; Asteroides detectados peligrosos; Medición de Estrellas Relativísticamente. En la foto, de arriba abajo y de izquierda a derecha: Francis Villatoro y Ángel López-Sánchez (ambos por videoconferencia), Héctor Socas, Carlos Westendorp. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep114: Misterio Wow Resuelto; Vacío Cósmico; Controversia CRISPR; ADN Neandertal; Agujero Negro sin Supernova
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Señal Wow: El misterioso pulso de radio de 1977; Vivimos en un gran vacío cósmico;  Polémica sobre la técnica de modificación genética CRISPR/Cas9; Nuevas formas de obtener el ADN de nuestros ancestros; La súbita desaparición de N6946-BH1: De estrella a agujero negro, sin pasar por supernova. En la foto, de arriba abajo y de izquierda a derecha: Francis Villatoro y Alberto Aparici (ambos por videoconferencia), Héctor Socas, Carlos Westendorp. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep113: Universo Fénix vs Inflación: Debate Cosmológico; Proteínas y Células; Juno en Júpiter; Cáncer y Metástasis
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Proteínas, los robots celulares; Sonda Solar Parker; Juno: explorando el interior de Júpiter; Migración celular y metástasis; Debate de cosmólogos: Cosmología estándar vs Universo Fénix. En la foto, de izquierda a derecha: Héctor Socas, Bernabé Cedrés, Alberto Aparici (por videoconferencia), Javier Licandro. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+Ep112: Especial Estrella de Tabby
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Especial Estrella de Tabby. La crónica de nuestras observaciones. En la foto, de izquierda a derecha: Carlos Westendorp, Héctor Socas, Marian Martínez, Carlos González, Andrés Asensio. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+EP111: Polémica Cosmológica; Plantas Medicinales; Comunicación Cuántica Contrafáctica; Enfermedades en el Hielo
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Agria polémica sobre la teoría de la inflación; Antiprotones espaciales: ¿Nuevos indicios de materia oscura?; Lo natural es bueno, ¿no?; Primer experimento de comunicación contrafáctica cuántica; Peligros inesperados del calentamiento global: Enfermedades ancestrales. En la foto, de arriba a abajo y de izquierda a derecha: Vary Bayón (videoconeferencia), Francis Villatoro (videoconferencia),Héctor Socas, Nayra Rodríguez y Carlos Westendorp. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica (UC3) del Instituto de Astrofísica de Canarias.
+
+
+Ep 110: Equipo Tabby! nueva física CERN; exfoliantes y mastodontes; ¿el Sol es especial? misteriosa señal; violinidad!
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: ¡Equipo Tabby is GO! ¿Se ha descubierto nueva física en el CERN? La polémica en Science de los microplásticos exfoliantes y en Nature del mastodonte de 130.000 años, ¿el ciclo solar de nuestra estrella es especial? La misteriosa señal de materia oscura, distinguir violines del siglo XVII a oido o su "violinidad". Entrevista a la piloto de Cassini Mar Vaquero. En la foto Francis Villatoro (por videoconferencia), Carlos Westendorp y Marian Martínez. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica del Instituto de Astrofísica de Canarias
+
+Ep109: El Sol: Ciclo, Alineamiento y Reconexión; Mancha Fría y Multiverso; Cassini en Saturno; El Murmullo de la Galaxia
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: ¿Existe relación entre el ciclo solar y la órbita de Júpiter?; Reconexión magnética y erupciones solares; Cassini, Saturno y el sorprendente vacío interior; La mancha fría del fondo cósmico de microondas: ¿Pistas sobre otros universos?; El murmullo galáctico: sismología terrestre, ondas gravitacionales y el agujero negro supermasivo del centro galáctico. En la foto, de izquierda a derecha y de arriba a abajo: Juan Carlos Ortega y Francis Villatoro (por videoconferencia), Héctor Socas, Carlos Westendorp, Javier Licandro, Andrés Asensio. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica del Instituto de Astrofísica de Canarias
+
+Ep108: Tertulia con Cirac; Física y Metafísica de la Mecánica Cuántica; Computación Cuántica; Criptografía en Internet
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Hablamos con Ignacio Cirac, uno de los fundadores de la computación cuántica; Física y Metafísica de la Mecánica Cuántica: Interpretaciones y escuelas de pensamiento; Computación cuántica: estado actual y perspectivas futuras; Criptografía clásica y cuántica: ¿El fin de la privacidad en internet? En la foto, de izquierda a derecha y de arriba a abajo: Carlos Westendorp, Marian Martínez, Héctor Socas, J. Alberto Rubiño, Ignacio Cirac, Nacho Trujillo, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. CB:SyR es una colaboración entre el Área de Investigación y la Unidad de Comunicación y Cultura Científica del Instituto de Astrofísica de Canarias
+
+Ep107: Mundo Oceánicos; Nueva SuperTierra; Computación Cuántica; Masa Negativa; Efecto Casimir; Puentes d Materia Oscura
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Encélado y Europa: Nuevos indicios sobre la posibilidad de vida; Un nuevo exoplaneta muy interesante; Cirac y la computación cuántica; Efecto Casimir y vacío cuántico; Masa negativa, agujeros de gusano y viajes en el tiempo; Puentes de materia oscura; CWPalette. En la foto, de izquierda a derecha: Marian Martínez, Andrés Asensio, Héctor Socas, Carlos Westendorp. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep106: ACOPLAMIENTO: Crossover Radio Skylab; 2001 vs 2010; Monolito en Fobos; Anomalía Pioneer; Atmósferas Planetarias
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:  Especial colaboración con Radio Skylab; 2001 vs 2010: La agria polémica entre Víctor y Héctor; Monolitos marcianos; La anomalía de las sondas Pioneer y el misterio de los sobrevuelos. En la foto, de arriba a abajo y de izquierda a derecha: Víctor Ruiz y Daniel Marín (por videoconferencia); Andrés Asensio, Nacho Trujillo y Héctor Socas. Todos los comentarios vertidos durante la tertulia, sobre todo los relativos a películas, representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep 105: ¿Fin de la energía oscura? Aceite de palma; TRAPPIST-1 habitabilidad cuestionada; TMT; Ciclo de los Artículos
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: discutimos el último artículo que intenta desmontar la energía oscura; El aceite de palma y la salud; el sistema TRAPPIST-1 y la habitabilidad reducida a 1 solo planeta; TMT y la detección de exo-atmósferas;   El ciclo de los artículos científicos; Día Mundial de la Salud y la Depresión. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. En la foto, de izquierda a derecha y arriba a abajo: Francis Villatoro Machuca y Jose Alberto Rubiño Martín (por videoconferencia); Nayra Rodríguez Eugenio, Carlos Westendorp Plaza, Itahisa Marcelino.
+
+Ep104: Cáncer; Muerte de Estrellas; Agujeros Negros a la Deriva; Materia y Antimateria; Pseudociencias y Neomagias
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: La muerte de las estrellas: Nebulosas asimétricas y supernovas; Agujeros negros a la deriva; Cáncer: errores en la replicación celular y otros factores; Materia y antimateria: buscando asimetrías; Pseudociencias, la nueva magia.  Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. 
+
+Ep103: Materia Oscura vs Alternativas: La Polémica; Ibuprofeno e Infartos; LHC; IA para salvar la Humanidad
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Materia Oscura vs Teorías Alternativas: Nuevas observaciones desatan la controversia; Relación entre ibuprofeno e infartos; Inteligencia Artificial contra asteroides peligrosos; El LHC encuentra 5 nuevas resonancias de una partícula no predicha; Dinámica galáctica en el grupo local. En la foto, de izquierda a derecha y de arriba a abajo: Ángel López-Sánchez y Francis Villatoro (por videoconferencia); Andrés Asensio, Carlos Westendorp, Jose Alberto Rubiño, Héctor Socas, Nacho Trujillo. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep102: Fast Radio Bursts: ¿Aliens?; Papas Marcianas; NASA 2017; Encélado y Europa; Materia Oscura; TRAPPIST-1
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: el “posible” origen alienígena de los FRBs, unos destellos de radio muy peculiares; Nuevas pistas sobre la escurridiza materia oscura; ¿Pueden las papas/patatas crecer en la superficie de Marte?; Las misiones de la NASA aprobadas para los próximos años; Encélado podría tener océanos a pocos kilómetros bajo su superficie helada; nuevas observaciones del sistema TRAPPIST-1 confirman la existencia del séptimo planeta. En la foto, de izquierda a derecha: Nayra Rodríguez, Juan Carlos Ortega (videoconferencia), Francis Villatoro (videoconferencia) y Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep101: Panspermia; Escudo Planetario para Marte; Computación Cuántica; Física de Partículas: SM*A*S*H
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Panspermia: TRAPPIST-1 y la transmisión de vida entre planetas; Un escudo magnético para Marte; IBM y la computación cuántica al alcance de todos; Física de partículas: El modelo SM*A*S*H. En la foto, de izquierda a derecha: Héctor Socas; Francis Villatoro; Guillermo Ballesteros; Nacho Trujillo. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep100: Especial 100!!; Premios Señal y Ruido; Alegría; Space X; Vida Primigenia; Vacío Intergaláctico; Paradoja de Fermi
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Especial 100 episodios: Tertulia multitudinaria y un poco caótica; Premios Señal y Ruido; La alegría de la ciencia; Nueva crítica a Verlinde; Space X: Turistas a la luna; La vida más antigua; Agujeros negros intermedios; Atractores y vacíos intergalácticos; Debate sobre la Paradoja de Fermi. En la foto, de izqda a derecha y de arriba a abajo: Bernabé Cedrés, Nayra Rodríguez, Ángel López-Sánchez y Juan Carlos Ortega (videoconferencia), Carlos Westendorp; Héctor Socas, Julio Castro, Jose Alberto Rubiño, Nacho Trujillo. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep99: TRAPPIST-1 y sus 7 Planetas; Planeta 9: Nuevas Pistas; Gravedad Entrópica de Verlinde; Tabby; Hidrógeno Metálico
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: El descubrimiento de 7 planetas en la enana roja TRAPPIST-1: ¿Es posible la vida en este sistema?; Nuevas pistas apuntan al misterioso Planeta 9; Dos reveses consecutivos a la teoría alternativa de Gravedad Emergente de Verlinde; Estrella de Tabby: No se produjo el esperado oscurecimiento de esta semana; Entrevista Julia de León; El controvertido anuncio del Hidrógeno metálico; SM*A*S*H, la nueva extensión de la física de partículas para explicar la inflación cósmica, la materia oscura y la estabilidad del campo de Higgs. En la foto, de izquierda a derecha: Carlos Westendorp, Nacho Trujillo, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep98: Barras y Estrellas... y Materia Oscura; La Cuna del Sol; Tejido Palpitante; Programa Especial Mujer en Ciencia
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Especial Día de la Mujer y la Niña en Ciencia: Programa especial, hecho íntegramente por mujeres y grabado en la calle, con entrevistas a niñas; Materia oscura y rotación de las barras galácticas; Desarrollan un tejido cardíaco que late; El cúmulo M67, posible cuna de nacimiento del Sol. En la foto, de izquierda a derecha: Marian Martínez, Cristina Ramos, Itahisa Marcelino. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep97: ¿Universo Holográfico?; Bioingeniería; Tensión en la Constante de Hubble
+La tertulia semanal en la que repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: La mal entendida cosmología holográfica; Bioingeniería y debates éticos; Cuásares y lentes gravitatorias: Nuevas medidas del ritmo de expansión del Universo. En la foto, de izquierda a derecha: Carlos Westendorp, Francis Villatoro (por videoconferencia), Andrés Asensio, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep96: Tertulia con Maldacena y Edelstein; Conjetura de Maldacena; Principio Holográfico; Gravedad Cuántica; ER=EPR
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Especial 20 años de la Dualidad de Maldacena y AdS=CFT; Principio Holográfico; Teoría de Cuerdas; Gravedad cuántica; Agujeros de gusano y entrelazamiento cuántico: ER=EPR; En la foto, de izquierda a derecha y de arriba a abajo: Juan Martín Maldacena; Jose Edelstein; Jose Alberto Rubiño; Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep95: Piel Sintética; El Sol: Alma e Iris; Radioastronomía y Señales de Radio Extragalácticas; Ratones Voladores
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Piel humana, impresoras 3D y biotinta; El Sol visto en radio: Primeras observaciones solares de ALMA; Radioastronomía, el hidrógeno neutro y las misteriosas señales de radio extragalácticas FRB; El veto al transporte de animales de experimentación; IRIS y el calentamiento coronal en el Sol; Coffee Break anuncia su proyecto para meter ruido en el debate sobre la Estrella de Tabby. En la foto, de izquierda a derecha: Héctor Socas, Ángel López-Sánchez (por videoconferencia), Marian Martínez, Carlos Westendorp, Itahisa Marcelino. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso
+
+Ep94: Superar la Velocidad de la Luz o Viajar Atrás en el Tiempo: Buscando Grietas en la Relatividad
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Agujeros de gusano y la métrica de Alcubierre; La equivalencia entre viajes hiperlumínicos y máquinas del tiempo; La Conjetura de la Protección Cronológica de Stephen Hawking; Curvas temporales cerradas en Relatividad General; Paradojas temporales, energía negativa y el Principio de Autoconsistencia de Novikov; El extraño billar de Polchinski y Thorne. En la foto, de izquierda a derecha: Jose Alberto Rubiño, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso
+
+Ep93: La Nova de 2022; Cáncer; Estrella de Tabby; NASA: Luz Verde a Lucy y Psyche; Envejecimiento Cerebral; Planeta 9
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: La predicción de una Nova para 2022; Incidencia y mortalidad del cáncer en diferentes países; Nueva teoría sobre la Estrella de Tabby: ¿Se tragó un planeta?; NASA aprueba Lucy y Psyche, las dos nuevas misiones al Sistema Solar exterior; Influencia de la alimentación sobre el envejecimiento cerebral; Polémica sobre el Planeta 9. En la foto, de izquierda a derecha: Javier Licandro; Itahisa Marcelino; Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso
+
+Ep92: El Espectro de la Antimateria; Adiós al Ébola; Ondas Gravitacionales; Próxima b; CRISPR-Cas9; Perros y Monos
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Mitad actualidad, mitad repaso del año 2016. Noticias de la semana: El principio del fin del ébola; El espectro de la antimateria; Analizamos lo más intersante de 2016: Ondas gravitacionales: LIGO y el futuro de la astrofísica de gravitondas; Próxima b como buque insignia de la investigación en exoplanetas; CRISPR-Cas9: La bioingeniería aporta nuevas armas contra el cáncer; Dragonfly 44, la galaxia oscura. En la foto, de izquierda a derecha: Héctor Socas, Bernabé Cedrés, Nayra Rodríguez. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso
+
+Ep91: Especial Vera Rubin: Materia Oscura y Cosmología; La Mujer en la Ciencia; Big Bang Theory
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Nuestro homenaje a Vera Rubin: Repasamos su obra y analizamos sus descubrimientos más importantes. ¿Merecía el Premio Nobel?; La mujer en la ciencia: ¿Es sexista la ciencia?; Big Bang Theory: Hablamos con Fernando Cabrera, la voz en español de Sheldon Cooper  ... ¡incluye 25 minutos de contenido extra, gratis! En la foto, de izquierda a derecha: Héctor Socas, Ángel López-Sánchez (por videoconferencia), Nayra Rodríguez. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. ¡Feliz año nuevo!
+
+Ep90: Física Alternativa: Verlinde, Gravedad Entrópica, Cosmologías VLS; Tabby
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Especial Física Alternativa. Cosmologías alternativas VLS (velocidad de la luz variable); Estrella de Tabby; La teoría de Verlinde y otras teorías de Gravedad Entrópica como alternativa a Einstein; Investigamos el OVNI de SOHO. Hoy, episodio especial Solsticio de Invierno... ¡incluye 50 minutos de contenido extra, gratis! En la foto, de izquierda a derecha: Jose Alberto Rubiño; Héctor Socas; Nacho Trujillo. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep89: IA, Singularidad y Motivaciones; Ufología y Otras Creencias: Origen Evolutivo; Boro en Marte; Cassini; Juno
+ La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Inteligencia Artificial: singularidad y motivaciones; Origen biológico-evolutivo de la ufología y otras creencias irracionales; Descubierto Boro en Marte: Implicaciones para la posibilidad de vida primigenia; Última etapa en la misión Cassini; Juno: Evaluación de riesgos. En la foto, de izquierda a derecha: Javier Licandro; Andrés Asensio; Héctor Socas. Nota: Por falta de tiempo, no se habló de OVNIs y los misteriosos cuadrados negros, como se anunció en la introducción. Queda pendiente para un próximo programa. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep88: APOCALIPSIS
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Especial Apocalipsis; Analizamos diferentes escenarios sobre el fin de la civilización humana. En la foto, de izquierda a derecha: Andrés Asensio; Carlos Westendorp, Ángel López-Sánchez (por videoconferencia); Bernabé Cedrés; Marian Martínez. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep87: Vacío Cuántico y Púlsares; Inflación vs Cosmologías Alternativas; Marte: Documentales y Realidad; Misión AIM
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Analizamos una teoría alternativa a la Cosmología actual; Vacío cuántico y campos magnéticos en las estrellas de neutrones; Marte: Documentales, Películas y Realidad. Schiaparelli, TGO y la colaboración internacional; NA64: El nuevo experimento del CERN en busca del Fotón Oscuro. En la foto, de izquierda a derecha: Carlos Westendorp, Noemí Pinilla, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep86: Homeopatía; Materia Oscura y Galaxias; Neutrinos Solares y Decaimiento Atómico; Cosas Muy, Muy Redondas; Plutón
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: EEUU exige etiquetar la homeopatía; Materia oscura, materia visible y rotación galáctica; ¿Afectan los neutrinos solares al decaimiento de los isótopos radiactivos?; Superlunas y amarillismo científico; ¿Es verdad que hay un océano habitable en Plutón? En la foto, de izquierda a derecha: Marian Martínez, Ricardo García Soto y Ángel López-Sánchez (ambos por videoconferencia), Bernabé Cedrés. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep85: Caso Wow: La Misteriosa Radio-Señal del Espacio; Primera Modificación Genética en Humanos; Planeta X; Diabetes
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Comienza la revolución de la bioingeniería: Primer tratamiento de cáncer mediante alteraciones genéticas en humanos; Posible expliación a una misteriosa señal de radio detectada en 1977; Más sobre el posible Planeta X; Diabetes; Observación Solar Amateur, por Ricardo Sánchez (Desde el Sur Explorando el Cosmos). En la foto, de izquierda a derecha: Carlos Westendorp; Noemí Pinilla; Itahisa Marcelino: Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep84: Materia Oscura: ¿Es Cancerígena? ¿Extinguió a los Dinosaurios?; Mundo Espejo; Propulsor Milagroso EM Drive
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Explicado el fallo de Schiaparelli; Materia Oscura: ¿Puede haber causado la extinción de los dinosaurios? ¿Y provocar cáncer en los humanos?; Filtrado el paper sobre el propulsor EM Drive. En la foto, de izquierda a derecha: Carlos Westendorp, Ignacio Trujillo, Itahisa Marcelino, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. Nota: Sí, sabemos que se debería decir "carcinogénica" pero no quedaba bien en el título :)
+
+Ep83: Controversia Cosmológica; Exploración Espacial: Éxitos, Fracasos y Ética; SETI y la Estrella de Tabby; TMT
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Primeras reacciones al paper que cuestionaba la energía oscura; Ya es oficial: Schiaparelli se estrelló en Marte; El supertelescopio TMT elige sitio alternativo; 10 años de la misión espacial Hinode: Entrevistamos a Saku Tsuneta, vicepresidente de la agencia espacial japonesa; Hoy casi no hay sección Estrella de Tabby. En la foto, de izquierda a derecha: Javier Licandro, Ángel López Sánchez (por videoconferencia), Bernabé Cedrés, Héctor Socas.  Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep82: CSI Nefertiti; Cuestionan la Cosmología Moderna y el Nobel 2011
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Analizamos un nuevo estudio que cuestiona la expansión acelerada del Universo, la energía oscura y las bases de la Cosmología; Te traemos la opinión de Adam Riess, ganador del Premio Nobel señalado por este estudio; El olvidado reino de Amarna y la enigmática Nefertiti: Nuevas evidencias científicas y teorías alternativas. En las fotos, de izquierda a derecha y de arriba a abajo: Marian Martínez, Jose Alberto Rubiño, Héctor Socas, Javier Licandro, Juan Antonio Belmonte, Héctor Socas (otra vez). Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep81: ¿234 Civilizaciones Extraterrestres???; Obama y las Tormentas Solares; Recuento de Galaxias y Paradoja de Olbers
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Problemas en el espacio: Exomars, Schiaparelli y Juno; Sección Tabby: La Anomalía y sus probabilidades; Anuncian el hallazgo de ¡234 civilizaciones extraterrestres! ¿Será cierto?; ¿Por qué ordena Obama que el país se prepare para una catástrofe solar?; Recuento galáctico: La paradoja de Olbers y los problemas de ver atrás en el tiempo; Adiós a "Desde el Sur Explorando el Cosmos". En la foto, de izquierda a derecha: Héctor Socas, Ángel López-Sánchez (por videoconferencia), Ignacio Trujillo. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep80: Principio Cosmológico y Universo en Rotación; Exploración Espacial; Rumores Varios; Twitter: Clinton vs Trump
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: El Principio Cosmológico y las soluciones de Bianchi de cosmología en rotación; Últimos rumores desde EEUU sobre el Supertelescopio TMT y la sonda a Europa; Twitter y las elecciones en EEUU: Inteligencia artificial para predecir los resultados En la foto, de izquierda a derecha: Carlos Westendorp, Julio Castro, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep79: Los Nobel; Adiós Starmus; Colonizar Marte; Estrella de Tabby; Sputnik
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Los Premios Nobel... otro año que no nos tocan; Starmus: El mayor festival mundial de la ciencia se traslada a Noruega; Debatimos el ambicioso plan de Elon Musk y su Space X para colonizar Marte; Estrella de Tabby: Una no-noticia y otra que sí lo es; Universario: Sputnik, el pistoletazo de la exploración espacial. En la foto, de izquierda a derecha: Carlos Westendorp, Andrés Asensio, Marian Martínez y su Ibuprofeno; Bernabé Cedrés, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep78: Europa; Premios Ig Nobel; Salud, Medicina y Fraudes; Dietas; Space X
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Géisers en Europa: ¿Noticia o Propaganda?; Repasamos los Premios Ig Nobel y Analizamos Nuestros Favoritos; Investigación en Alimentación y Salud: El Fraude del Azúcar; Quesos, Grasa y Colesterol; Interplanetary Transport System: Space X Sueña a lo Grande. En la foto, de izquierda a derecha: Carlos Westendorp, Andrés Asensio, Julio Castro, Itahisa Marcelino, Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep77: Osiris-Rex: Lanzamiento; Estrella Tabby; Europa; Alzheimer; Naukas
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Lanzamiento de Osiris-Rex: Misión al Asteroide Bennu; Estrella de Tabby; NASA Prepara un Anuncio sobre Europa; Enfermedad de Alzheimer: Novedades Esperanzadoras. En la foto, de izquierda a derecha: Carlos Westendorp; Javier Licandro; Ángel López (por videoconferencia): Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+
+Ep76: El Fondo Cósmico. Ecos de la Creación y el Futuro de la Cosmología.
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Especial Monográfico Fondo Cósmico de Microondas: Historia, Presente y Futuro de la Cosmología; Del Big Bang a la Expansión Acelerada: Mapeando la Evolución del Universo; Teoría de Inflación; El Experimento Quijote: Buscando las Ondas Gravitacionales del Big Bang. En la foto, de izquierda a derecha: Jose Alberto Rubiño; Ignacio Trujillo; Globo; Héctor Socas; Carlos Westendorp. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+
+Ep75: Tormentas Solares; Juno y Osiris-Rex; Corales blanqueados; Mosquito del Zika; Y un último hola y adiós a Philae
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Primeras Imágenes de Juno y Sonido de las Auroras Jovianas; Philae... ¡Encontrada!; Lanzamiento Inminente de Osiris-Rex; Naturaleza del Viento Solar; ¿Otra Estrella Tabby?; Tormentas Solares en los Anillos de los Árboles. Efectos del Hombre en los Corales. ¿Debemos Extinguir los Mosquitos del Zika?; Inteligencia Artificial y Cáncer.  En la foto, de izquierda a derecha: Marian Martínez; Jose Ramón Arévalo; Bernabé Cedrés; Carlos Westendorp. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep74: ¿Señal de Radio Extraterrestre?; El Tiempo; ¿Quinta Fuerza de la Naturaleza?; Agujeros Negros de Laboratorio
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: El Radiotelescopio Gigante Ruso Ratan-500 Detecta una Señal de Radio: ¿Mensaje Alienígena o Causas Naturales?; El Tiempo: Física y Metafísica, Violación de la Simetría-T; ¿Se Ha Descubierto una Quinta Fuerza de la Naturaleza?; Agujeros Negros de Laboratorio: Recreando la Radiación Hawking. En la foto, de izquierda a derecha: Jose Alberto Rubiño; Andrés Asensio; Héctor Socas; Ignacio Trujillo. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep73: Especial Próxima B: ¿Se Ha Encontrado la Próxima Tierra?
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Especial Descubrimiento de Próxima B: Un Mundo en Zona de Habitabilidad a Distancia de Viaje Humano; Begoña Vila, Premiada por Trabajos para el James Webb Space Telecope. En la foto, de izquierda a derecha: Bernabé Cedrés; Enric Pallé; Ignacio Trujillo; Marian Martínez; Carlos Westendorp. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep72: Especial Crónicas Marcianas. Esta Vez, Hablan los Expertos ¿Hay Vida en Marte? ¿La Hubo Alguna Vez? ¿Es Habitable?
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Especial Monográfico sobre Marte. Para variar, en este episodio conversamos con grandes expertos en el tema. Desde el máximo rigor científico planetamos las preguntas más provocadoras: ¿Puede haber vida en Marte? ¿La hubo alguna vez? ¿Podrá el ser humano algún día colonizar ese planeta? En la foto, de izquierda a derecha y de arriba abajo: Jesús Martínez Frías; Nahúm Chazarra; Héctor Socas; Javier Licandro. Debido a un problema técnico, la calidad del audio es en momentos puntuales inferior a lo habitual. Pedimos disculpas por ello. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+
+Ep71: Novedades sobre la Estrella de Tabby; Tormentas Solares y Guerra Nuclear; Astronautas; Reanimator
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Nuevos Resultados sobre la Estrella de Tabby: Te contamos nuestra opinión... ¡y la de Tabby!; Cuando el Sol estuvo a punto de desencadenar la Tercera Guerra Mundial; El mayor peligro para los astronautas; Ensayos para reactivar cerebros muertos. En la foto, de izquierda a derecha: Nayra Rodríguez; Julio Castro; Héctor Socas; Bernabé Cedrés. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep70: El Rumor del LHC; No Dejemos de Ver las Estrellas; ¿Es Seguro Comer Pescado?; Estrella de Tabby
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Analizamos los insistentes rumores sobre un inminente anuncio del LHC; El cielo nocturno: un espectáculo patrimonio de la humanidad a proteger; Seguridad alimentaria: el equilibrio entre riesgos y beneficios de comer pescado; Unos calculitos sencillos sobre la Estrella de Tabby: ¿Podría ser un objeto cercano a nosotros? En la foto, de izquierda a derecha: Héctor Socas, Nayra Rodríguez, Julio Castro, Ángel López.  Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep69: Lo que Vio Hitomi; Lo que No Vio LUX; Sondas: Juno, Rosetta, Osiris-Rex; impresiones Sobre la SEA 
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Observaciones Póstumas de Hitomi y los Planes para Rehacerlo; El Experimento LUX No Detecta Materia Oscura; Sondas Espaciales: Juno, Rosetta, Osiris-Rex; Nuestras Impresiones Sobre la Reunión Científica de la SEA; Política Científica en España. En la foto, de izquierda a derecha: Javier Licandro; Andrés Asensio; Carlos Westendorp; Angel López. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep68: Bombardero Nuclear Espacial; Deepmind: IA Contra la Ceguera; ¿Materia Oscura Templada, Fría o Gravedad Modificada?
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Rusia Anuncia el Primer Bombardero Nuclear Orbital: ¿Nueva Escalada Armamentística?; Inteligencia Artificial al Servicio de la Salud; ¿Materia Oscura Fría, Templada o Gravedad Modificada? Los Coffeebreakers Apuestan. En la foto, de izquierda a derecha: Julio Castro; Ricardo García (por videoconferencia); Ignacio Trujillo; Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep67: ¿Megaconstrucciones Alienígenas? Hablamos con Tabby Boyajian; La Imagen Más Profunda del Cielo; Coches Autónomos
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: La Misteriosa Estrella de Tabby... explicada por Tabby! (con exclusiva incluída) ; La Imagen Más Profunda del Cielo; Los Halos Galácticos: Fósiles del Universo; Materia Oscura ¿Fría o Templada? En la foto, de izquierda a derecha: Julio Castro; Ignacio Trujillo; Ricardo García (por videoconferencia); Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep66: Grandes Pensadores: Multiverso, Supercosmología, Inteligencia Artificial y Singularidad; Analizamos el STARMUS
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Escuchamos a los Más Grandes y te traemos Nuestro Resumen/Análisis del STARMUS, la Mayor Concentración de Científicos y Creadores de la Historia; Premios Nobel y Otros Grandes Intelectuales hablando sobre: Supercosmología; Multiverso; Inteligencia Artificial y la Singularidad; Extraterrestres; Arte; Filosofía; Música; La Oficina de Defensa Planetaria; Ciberseguridad; Ciencia Ficción... etc. En la foto, de izquierda a derecha: Carlos Westendorp; Héctor Socas; Jose Alberto Rubiño. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep65: Juno en Júpiter; Chocolate Eléctrico; Cultivando Marte; Transgénicos; Vacuna Anticáncer
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Juno: Arranca la Exploración Moderna de Júpiter; Cultivos Marcianos y Reality Shows; Productos Transgénicos y los Peligros del Arado; Reprogramar el Sistema Inmune para Combatir el Cáncer. En la foto, de izquierda a derecha: Jose Ramón Arévalo; Bernabé Cedrés; Carlos Prats; Marian Griso. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+
+
+Ep64: La Naturaleza del Tiempo; Fusión Nuclear; ¿Segunda Luna?; EM Drive; Starmus
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Fusión Nuclear: La Era de la Abundancia Energética; Bespin en Venus; 2016 OH3: ¿Segunda Luna o Compañero de Viaje de la Tierra?; Una Nueva Teoría para el Propulsor Imposible EMDrive; Starmus. En la foto, de izquierda a derecha: Marian Martínez; Ricardo García; Bernabé Cedrés; Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep63: Teletransportación Cuántica; El Ancestral Mecanismo de Anticitera; Mortal Kombat de Magnetismo Estelar; LIGO
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Descifrado el Mecanismo de Anticitera; Magnetismo Estelar: La Agria Polémica; Teletransportación Cuántica: Ventajas e Inconvenientes... bueno, Inconvenientes; Segunda Detección de LIGO; Preguntas de Oyentes. En la foto, de izquierda a derecha: Antonio Darwich; Carlos Westendorp; Marian Martínez; Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. 
+
+Ep62: ¿Es el Universo una Simulación? ¿Y un Ser Vivo?; NBA; LISA Pathfinder; Inteligencia Artificial Suicida
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: ¿Es el Universo una Simulación? Argumentos a Favor y en Contra; Finales de la NBA: Los Warriors y la Nostalgia; Primeros Resultados de LISA Pathfinder; Inteligencia Artificial: Motivaciones y Botón Suicida; En la foto, de izquierda a derecha: Antonio Darwich; Andrés Asensio; Carlos Westendorp; Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+
+Ep61: Fotón Oscuro o Quinta Fuerza de la Naturaleza; Arqueocervezas; Einstein y Facebook; Elecciones; Agujeros Negros
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: ¿Descubierta una Quinta Fuerza de la Naturaleza? Fotón Oscuro vs Bosón Protófugo; Cervezas Milenarias; Einstein y los Bulos en Internet; Agujeros Negros Primordiales y Materia Oscura; Análisis Bayesiano de los Sondeos Electorales. En la foto, de izquierda a derecha: Julio Castro; Carlos Westendorp; Andrés Asensio; Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+
+
+Ep60: Océanos y Tsunamis Marcianos; La Agria Polémica de WISE; Reentrenando el Cerebro; Exoplanetas
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Tsunamis en los Océanos del Marte Primigenio; La Agria Polémica sobre WISE; Transfiriendo Funciones en el Cerebro; Exoplanetas y Enanas Rojas; Entrevista Alexis Palmero Rodríguez. En la foto, de izquierda a derecha: Javier Licandro; Bernabé Cedrés; Ángel López (por videoconferencia); Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep59: Especial Agujeros Negros: Supermasivos, Estelares, Vientos, Jets, Galaxias Activas; Sondeos Electorales
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy:  Especial Agujeros Negros: Supermasivos, Estelares, Vientos, Jets, Galaxias Activas; Estudio Estadístico de los Sondeos Electorales. En la foto, de izquierda a derecha: Teo Muñoz; Cristina Ramos; Marian Martínez; Andrés Asensio; Carlos Westendorp. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep58: Pirámides y Rayos Cósmicos; Supernovas Ia y la Nueva Cosmología; Bosques y Desiertos; EM Drive; Mayas o Millo
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Tomografía de Muones en la Pirámide Acodada; Supernovas Tipo Ia y la Nueva Cosmología del Universo Acelerado; Cáncer y Teléfonos Móviles; Un Planeta Más Verde; ¿Ruinas Mayas o Campos de Maíz?; EM Drive y Efecto Unruh . En la foto, de izquierda a derecha: Nayra Rodríguez; Jose Ramón Arévalo; Ángel López (por videoconferencia); Bernabé Cedrés; Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep57: ¿Está Girando el Universo?; Fórmula 1; ¿Dónde se Construirá el Supertelescopio TMT?; Filosofía de la Relatividad
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: ¿Está el Universo Girando? Relatividad General en un Espacio-Tiempo en Rotación; Fórmula 1: Ranking Histórico según la Estadística Bayesiana; Entrevista Christophe Dumas, Incluída la Pregunta Clave: ¿Dónde se Construirá el TMT?; Principo de Mach y Filosofía de la Cosmología Relativista; Adiós al Prof Kroto . En la foto, de izquierda a derecha: Andrés Asensio; Javier Peláez; Alfred Rosenberg; Jose Alberto Rubiño; Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep56: Dinosaurios Extintos, Supernovas y Otros Apocalipsis; Perdimos a Hitomi; La Luna de la Vida; LHC y la Señal 750GeV
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: La Extinción de los Dinosaurios: El Supermeteorito de Chicxulub y Otros Factores; Supernovas Cercanas: Rayos Cósmicos e Isótopos Radiactivos; Japón da Hitomi por Perdida; La Luna: ¿Clave para la Vida en la Tierra?;  Más Caña al LHC: ¿Hay Algo en 750GeV? En la foto, de izquierda a derecha: Javier Licandro; Marian Martínez; Carlos Westendorp; Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep55: Especial Cosmología en la Era de la Materia Oscura y la Energía Oscura
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: La Nueva Cosmología; Materia Oscura: Retrato Robot del Sospechoso; Energía Oscura: Expansión Acelerada del Cosmos; ¿Se Conserva la Energía en el Universo?  En la foto, de izquierda a derecha: Andrés Asensio; Marian Martínez; Jose Alberto Rubiño; Carlos Westendorp; Héctor Socas; Ángel López por videoconferencia. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep54: Hackers de Panamá; ¿Vida Inteligente?; Los Starchip de Hawking; Planet 9; Cosas Oscuras y Tenebrosas
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Los Papeles de Panamá: Chapuzas Informáticas; Las Civilizaciones Avanzadas Probablemente no Habitan en Planetas; Los Nuevos Coches Autónomos; Stephen Hawking y su Idea de Sellos Interestelares; El Origen de los Agujeros Negros Más Grandes del Universo; El Test Definitivo para la Modulación DAMA: ¿Detección de la Materia Oscura o Error Experimental? En la foto, de izquierda a derecha: Andrés Asensio; Carlos Westendorp; Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep53: Cambio Climático; Polémica Planetaria; El Espectrógrafo Maldito; Entrevista: Roger Barry
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Cambio Climático, con el Prof. Roger Barry, Premio Nobel(*) por el Informe del IPCC; Continuamos Nuestro Agrio Debate Sobre Plutón y la IAU; Malos Augurios Sobre la Misión Espacial Hitomi. En la foto, de izquierda a derecha: Marian Martínez; Javier Licandro; Carlos Westendorp; Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso. (*) El IPCC advierte que, estrictamente hablando, el Premio Nobel se concede al IPCC como institución y no a los autores y contribuyentes del informe por el que se otorga el premio. El IPCC, sin embargo, reconoce oficialmente a los autores y contribuyentes del informe galardonado con el Nobel.
+
+Ep52: Crisis en AstroH; Vida Sintética; Plutón; Entrevista Alan Stern (New Horizons)
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Invitado: Alan Stern, Director de New Horizons; Buscando los Genes Mínimos para la Vida; Crisis en la Misión Espacial Hitomi (Astro-H); Plutón. En la foto, de izquierda a derecha: Héctor Socas; Carlos Westendorp; Julio Castro; Marian Martínez; Javier Licandro. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+Ep51: Rumores Varios; Agujeros Negros Primordiales; Radiación Cherenkov y Proyecto CTA; Ser Astrónomo de Soporte
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Agujeros Negros Primordiales: ¿Existen? ¿Podrían ser la Materia Oscura?; Rumores sobre Supertelescopios, Superpartículas y Exomars; La Dura Vida del Astrónomo de Soporte; La Radiación Cherenkov y el Megaproyecto CTA: Más de 100 Nuevos Telescopios de Rayos Gamma; Entrevista: Ramón García López. Programa especial grabado y emitido en directo desde los estudios de Ycoden Daute Radio; Conexión en directo con Australia donde @el_lobo_rayado observa en el Telescopio Anglo-Australiano. En la foto, de izquierda a derecha: Narciso Ramos; Héctor Socas; Ángel López Sánchez (por videoconferencia desde Australia). Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace… y a veces ni eso.
+
+
+Ep50: Amor Cuántico y Flechazos Fotónicos; Física Solar; Rapa Nui; Exomars
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Entrelazamiento Cuántico: Amantes, Restaurantes y Diamantes; Física Solar y el European Solar Telescope; El Declive de la Civilización Rapa Nui; Exomars. En la foto, de izquierda a derecha: Chano Jiménez; Bernabé Cedrés; Andrés Asensio; Marian Martínez; Carlos Westendorp. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso.
+
+
+Ep49: Inteligencia Artifical; ¿Solos en la Galaxia?; Supertelescopios y Montañas Sagradas; Fraude Científico
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Inteligencia Artificial: Nueva Batalla Hombre vs Máquina; Primer Accidente de un Coche Robótico de Google; La Paradoja de Fermi, o ¿Dónde Están los Extraterrestres?; La Meteórica Carrera de Susana González: ¿Nuevo Escándalo de Fraude Científico?; El Supertelescopio Desahuciado de las Montañas Sagradas; Adiós a Ray Tomlinson, el Hombre de la Arroba; La Galaxia Más Lejana. En el selfie (tomado en directo durante la grabación), de izquierda a derecha: Ricardo García (esquina inferior); Jose Ramón Arévalo; Andrés Asensio; Carlos Westendorp (tapado); Héctor Socas. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso.
+
+Ep48:El Misterio de la Materia Perdida; Misión: Evitar el Apocalipsis; Buscando Planet 9 en Saturno; Neutrinos Estériles
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: El Apocalipsis que Caerá del Cielo: Entre Probabilidad y Certeza; Buscando el Planet 9 en Saturno; El Misterio de la Materia (Bariónica) Perdida; Neutrinos Estériles y Materia Oscura: Una Posible Grieta en el Modelo Estándar de la Física de Partículas. En la foto, de izquierda a derecha: Javier Licandro, Carlos Westendorp, Marian Martínez, Andrés Asensio. Todos los comentarios vertidos durante la tertulia representan únicamente la opinión de quien los hace... y a veces ni eso.
+
+Ep47: Fraude y el Nobel de Medicina; Anillos Negros: ¿Amenaza para la Relatividad?; Propulsión Fotónica; Cáncer 
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Desde la Quinta Dimensión nos llega la última amenaza a la Relatividad de Einstein; El Escándalo del Fraude Científico que salpica al Nobel de Medicina; Fusión Nuclear en China; ¿Se puede Contagiar el Cáncer?; Las Ondas Gravitacionales en Interstellar. En la foto de izquierda a derecha: Héctor Socas, Nayra Rodríguez, Jose Ramón Arévalo (photoshopeado), Marian Martínez, Carlos Westendorp
+
+Ep46: Multiverso; Teorías del Todo; Materia Oscura y Dragones japoneses; Bebés sin Cáncer; La Memoria del Cristal
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Cuando los físicos hablan de múltiples universos; Cuerdas y Supersimetría: En busca de la Teoría del Todo; Emisiones Inexplicadas de Rayos X y Rayos Gamma: ¿La Huella de la Materia Oscura?; La Misión Espacial Hitomi (Astro-H), a la busca de Materia y Energía Oscura; La Memoria del Cistal: Tecnología para el Almacenamiento Eterno, entre Superman y HAL9000. En la foto, de izquierda a derecha: Jose Alberto Rubiño; Carlos Westendorp; Andrés Asensio; Marian Martínez; Héctor Socas
+
+Ep45: Hablamos con Maldacena; Ondas Gravitatorias... Detectadas!!; Física Teórica y Divulgación Heavy; Gravedad Cuántica
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Física Teórica Pura y Dura, especial divulgación "Heavy"; El experimento LIGO detecta las primeras Ondas Gravitacionales; No te pierdas nuestra entrevista con el genial Juan Martín Maldacena; Hablamos de Teoría de Cuerdas; Agujeros de Gusano; Espacios de de Sitter y anti de Sitter; La Conjetura de Maldacena; Interstellar; Las Paradojas de los Agujeros Negros. En la foto, de izquierda a derecha: Jose Alberto Rubiño; Marian Martínez; Andrés Asensio; Héctor Socas
+
+Ep44: Entrevista Riess (Premio Nobel); Energía Oscura y Cosmología; Agria Polémica con Tabby; 1991VG: ¿Sonda Alienígena?
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Hablamos con el Dr Riess, Premio Nobel de Física sobre Cosmología, Energía Oscura, El Rumor LIGO (ondas gravitatorias), El Multiverso; La Constante de Einstein y los Campos de Quintaesencia; El Misterio de la Estrella de Tabby genera una Agria Polémica Científica; Fusión Nuclear: El Futuro de la Abundancia Energética; Se Acerca 1991 VG: ¿Sonda Extraterrestre o Basura Espacial?; El Terrible Virus Zika. En la foto, de izquierda a derecha: Carlos Westendorp; Andrés Asensio; Javier Licandro; Héctor Socas. Colgaremos por separado el audio con la versión original en inglés de la entrevista al Dr Riess.
+
+Ep43: Paradojas Extraterrestres; Redes Neuronales; David Bowie; Acupuntura y Menopausia; La Misteriosa Estrella de Tabby
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: La Paradoja de Fermi, o ¿dónde están todos los extraterrestres?; Adiós al pionero de las Redes Neuronales; Acupuntura y Menopausia; ¿Constelación David Bowie?; Más vueltas al misterio de la Estrella de Tabby. En la foto, de izquierda a derecha: Carlos Westendorp, Andrés Asensio, Marian Martínez, Héctor Socas
+
+Ep42: Planet 9; Pirámides y Muones; La Misteriosa Estrella de Tabby; Bases Lunares; El Metro de Londres
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: ¿Un nuevo planeta en el sistema solar?; Nuevos datos sobre la misteriosa estrella Tabby: ¿Aumenta o debilita las probabilidadaes de una megaconstrucción extraterrestre?; El interés en futuras bases lunares; El metro de Londres. Nota: Existe un trailer en vídeo de este episodio, disponible en nuestra cuenta de youtube. En la foto, de izquierda a derecha: Carlos Westendorp, Andrés Asensio, Marian Martínez, Héctor Socas.
+
+Ep41: Analizamos el Rumor LIGO: ¿Agujeros Negros Binarios?; Biohacking y Bioinformática: La Nueva Era que se Avecina
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: ¿Ha detectado algo el experimento LIGO? Analizamos el rumor que tiene a los físicos alterados; Biohacking y bioinformática: Los peligros y las oportunidades de la revolución que se avecina; Adiós a Philae; El mundo de las tecnológicas asiáticas. En la foto, de izquierda a derecha: Raúl Abreu; Bernabé Cedrés; Héctor Socas; Marian Martínez
+
+Ep40: ¿Bombas H en Corea del Norte?; Supergalaxia Espiral; Apofis: El Nuevo Apocalipsis; Nuevos Elementos Químicos
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: La supuesta bomba H de Corea del Norte: ¿Deberíamos estar preocupados?; Apofis y el bulo apocalíptico; La extraña Malin 1, la galaxia espiral más grande del Universo conocido; Borofeno, el nuevo primo del grafeno; La reserva natural de Isla Ascensión. Hoy contamos con la colaboración especial de Ricardo García Soto, director del podcast Astronomía y Algo Más. En la foto, en sentido antihorario: Ricardo García (por videoconferencia); Bernabé Cedrés; Javier Licandro; Héctor Socas. 
+
+Ep39: Ondas en el Espacio-Tiempo; El Bio-Siglo XXI; Ingeniería Genética; El Cometa Catalina; Ébola; Plutonio 238; Marte
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Proyecto LIGO y la búsqueda de ondas en el espacio-tiempo; Las posibilidades de la bioingeniería en el siglo XXI; La guerra contra el ébola, la malaria y otras calamidades; Catalina, el cometa que podrá ser visible estos días antes de perderse para siempre; El interesante debate sobre el Plutonio 238, el radioisótopo "bueno" que nos permite explorar el espacio; Noticias sobre Marte, papas y una misión fallida. En la foto, de izquierda a derecha: Jose Ramón Arévalo; Héctor Socas.
+
+Ep38: Recopilatorio 2015, por si estás muy aburrido/a
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. Nota: Vídeo en https://youtu.be/5wQHbj-hAiQ En el episodio de hoy: Especial recopilatorio "Lo Mejor de 2015", con los mejores momentos de Coffee Break durante el año 2015. 
+
+Ep37: Navidad: Historia y Astronomía; El Intrigante Planeta Wolf 1061b; Vivir en un Agujero Negro; Supernova Recurrente
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Navidad: Historia y Astronomía; ¿Podría haber Planetas en órbita dentro de un Agujero Negro? ¿Y Estrellas de Neutrones?; Debatimos sobre la Habitabilidad de Wolf 1061b; El nuevo Cohete Reutilizable Falcon 9 de Space X; Aparece la Supernova Predicha. En la foto, de izquierda a derecha: Marian Martínez; Andrés Asensio; Julio Castro; Héctor Socas.
+
+Ep36: Megatormentas estelares; Posible detección del LHC que revolucionaría la Física; Resuelto el misterio de Ceres 
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: El LHC halla indicios de una enigmática partícula que no encaja con la física conocida; Observaciones de una megatormenta en la atmósfera de una estrella; Resuelto el misterio de las manchas blancas en Ceres; Anonymous hackea a la Agencial Espacial Europea; Aniversario del último alunizaje: ¿Hay motivos para volver a la Luna? En la foto, de izquierda a derecha: Marian Martínez; Andrés Asensio; Carlos Westendorp; Héctor Socas. Fe de erratas: Cuando en 18:30, Héctor dice 14GeV, en realidad debería decir 14TeV
+
+Ep35: Universo Holográfico; Lemaitre: Ciencia y Religión; Galaxias Monstruosas; Radiación Hawking y Efecto Unruh;
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Lemaitre, el sacerdote que revolucionó la física; Las galaxias monstruosas y los filamentos cósmicos de materia oscura; El Origen de la Radiación Hawking y su relación con el Efecto Unruh; El Universo Holográfico: Separando la realidad científica de las magufadas; Invitado especial: Desde Santiago de Chile se une a nuestra tertulia Ricardo García Soto, director del Podcast Astronomía y Algo Más. En la foto, en sentido antihorario: Ricardo García Soto, Enrique Joven, Andrés Asensio, Javier Licandro, Héctor Socas
+
+Ep34: La Ciencia de PODEMOS; Agujeros Negros; El Sobrediagnóstico del Cáncer; Materia Oscura: Baterías Revolucionarias
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Materia Oscura: DAMA/LIBRA frente a XMASS; Observan un Agujero Negro devorando una estrella; ¿Está ayudando el Diagnóstico Precoz en la lucha contra el cáncer?; Baterías de Li-O: La nueva tecnología que podría salvar el mundo; Lifi, la ultrarrápida wifi de las bombillas; Elecciones en España (1): Hablamos con PODEMOS sobre su visión para el futuro. En la foto, de izquierda a derecha (pero sin connotaciones políticas): Julio Castro; Andrés Asensio; Carlos Westendorp; Héctor Socas
+
+Ep33: Colas de Materia Oscura; La Estupidez de ISIS/Daesh; Relatividad General; Supernovas Repetidas; FlatCam
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Los planetas dejan colas de materia oscura; Daesh: no sólo malvados, también imbéciles de remate; 100 años de Relatividad General; La moviola cósmica: Cuando el universo nos ofrece la repetición de la jugada; Estrella WTF: Más datos, mismas conclusiones; FlatCam: Cámaras sin lentes. En la foto, en sentido horario: Marian Martínez, Andrés Asensio, Bernabé Cedrés, Héctor Socas
+
+Ep32: Entornos de Agujeros Negros; Alzheimer; Ratas y Monos; Detector de Materia Oscura; Planetas Arrasados; Neuronas 
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Los suburbios de los agujeros negros: megaexplosiones, chorros relativistas y otras excentricidades; La futura medicina del Alzheimer es un elixir de la juventud; Bioética y experimentación en animales; Reprogramando neuronas; Arranca el detector de materia oscura Xeon1T; Mundos arrasados por sus soles: el gemelo de la Tierra y su furibunda enana roja. En la foto, en sentido horario: Jose Ramón Arévalo, Andrés Asensio, Carlos Westendorp, Héctor Socas
+
+Ep31: En Exclusiva: Una Explicación para la 'Estrella WTF'; Carne y Cáncer; USA vs el Sol; Marte
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Recordamos a Carl Sagan en su aniversario; Una primicia mundial: Hablamos con un investigador que ha desarrollado una teoría plausible para explicar las observaciones de la misteriosa "estrella WTF" (la famosa de la "megaconstrucción alienígena");  Aclaramos el informe de la OMS sobre el riesgo de cáncer por consumo de carne; Erupciones solares arrancaron la primigenia atmósfera marciana; La administración Obama presenta un plan de actuación para las tormentas solares; Marte: ¿Es realista pensar que llegaremos en 2030? ¿Era Mark Watney originariamente canario? ¿Se pueden hacer papas arrugadas en Marte? En la foto, de izquierda a derecha: Andrés Asensio, Javier Licandro, Nayra Rodríguez, Héctor Socas
+
+Ep30: Marte, especial crossover con GeoCastAway; Análisis del libro y la película; Carne roja y cáncer
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Geólogos del podcast GeoCastAway y astrofísicos de Coffee Break unen sus fuerzas para diseccionar la ciencia de Marte, qué es realista y qué es ficción. Siguiendo la línea argumental del libro de Andy Wier y la película de Ridley Scott, Mark Watney nos guía en este entretenido debate. La Organización Mundial de la Salud publica un informe que vincula el consumo de carne con riesgo de desarrollar cáncer: ¿Deberíamos hacernos vegetarianos?
+
+Ep29: Especial Exoplanetas y STARMUS
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Exoplanetas: Mundos exóticos y otras tierras; Investigación actual y expectativas futuras; Buscando las huellas de la vida en el cosmos; STARMUS: Una concentración intelectual de proporciones históricas
+
+Ep28: Alcubierre: Viajes hiperlumínicos y máquinas del tiempo; ¿Construcciones alienígenas?; Marte (The Martian) Part I
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: La Métrica de Alcubierre: Cómo las ecuaciones de Einstein permiten ir más rápido que la luz o viajar en el tiempo; La Conjetura de la Protección Cronológica; ¿Ha detectado la misión Kepler una construcción extraterrestre alrededor de otra estrella?; Los premios IgNobel 2015; Marte (The Martian): Un primer análisis de la película de Ridley Scott. En la foto, de izqda a dcha: Marian Martínez, Andrés Asensio, Carlos Westendorp, Héctor Socas
+
+Ep27: La tumba de Tutankhamón; Materia Oscura; El Origen del Universo
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: La tumba de Tutankhamón podría albergar una cámara oculta; La enigmática Nefertiti y su fallida Revolución Amarniana; El Origen del Universo: Qué sabemos a día de hoy y qué pistas nos pueden aportar las nuevas observaciones; Cómo la esquiva Materia Oscura ha dado forma al Universo actual y cómo encontramos sus huellas en el Fondo Cósmico de Microondas
+
+Ep26: Tertulia con estudiantes de secundaria: Su visión de SDO y NewHorizons; ¿Colonizar Marte?; Nobels 2015; Neutrinos
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Programa especial, de tertulia con los alumnos de ESO del colegio Hispano-Inglés de Santa Cruz de Tenerife; SDO y New Horizons visto por los estudiantes; Colonización de Marte: Ciencia y Ética; Premios Nobel edición 2015: El misterio de la masa del neutrino. En la foto, de izquierda a derecha: Eva, Laura, Marian Martínez, Héctor Socas, Carlos Westendorp. Nota: Las preguntas del público están recortadas porque no quedaron registradas en la grabación. En su lugar, los contertulios repiten la pregunta antes de darle respuesta.
+
+Ep25: La Ciencia del Vaticano; Radiación Hawking; Agua en Marte; Vida en el Sistema Solar: Nuestras apuestas; Cefeidas
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Sacerdotes y científicos: La ciencia del Vaticano; Radiación Hawking: Cuando los Agujeros Negros emiten cosas; Los sucesivos "descubrimientos" de Agua en Marte y qué hay de especial en éste último; Marte, Europa, Encelado, Ceres... ¿dónde se descubrirá antes la vida extraterrestre? Nuestros contertulios "se mojan" y cruzan apuestas; Las Cefeidas, estrellas pulsantes y una cinta métrica universal. En la foto, de izquierda a derecha: Javier Licandro, Manolo Vázquez, Julio Castro, Héctor Socas
+
+Ep24: Hablamos con 't Hooft, Premio Nobel de Física, sobre: Agujeros Negros, Teoría de Cuerdas, Quantum Loop Gravity y +
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Hablamos con el Dr Gerard 't Hooft, Premio Nobel de Física y uno de los científicos más reconocidos de nuestro tiempo. Nos da su visión sobre el Universo como un gran ordenador, la Física del futuro... e incluso cine y literatura. Además: Teoría de Cuerdas frente a Quantum Loop Gravity... vistas por 't Hooft; La Guerra del Agujero Negro, entre Stephen Hawking, L. Susskind y 't Hooft;  Y este finde, Eclipse de Superluna. En la foto, de izquierda a derecha: Marian Martínez, Alfred Rosenberg, Andrés Asensio, Carlos Westendorp, Héctor Socas
+
+Ep23: Stonehenge; Pirámides; Antiguo Egipto; Nada de Esoterismos, Sólo Ciencia: Arqueoastronomía
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Especial monográfico Arqueoastronomía; Las piedras gigantes de Stonehenge y el descubrimiento de Durrington Walls; El antiguo Egipto y sus pirámides; ¿Fue la pirámide acodada una pirámide fallida? Una fascinante teoría alternativa nos da una explicación nueva para la construcción de la pirámide roja y la acodada de Dahshur durante el reinado de Sneferu
+
+Ep22: Agujeros Negros de Materia Oscura; El Problema de los Púlsars Desaparecidos; Homo Naledi; La Galaxia más Vieja
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Agujeros Negros de Materia Oscura; Materia y Antimateria Oscura; El Misterio de los Púlsares Desaparecidos; El Homo Naledi: Un Nuevo Pariente de la Humanidad; El Magnetismo del Sol está Desalineado; EGS8p7: La Galaxia de Benjamin Button
+
+Ep21: Quásars; Agujeros Negros; New Horizons; Los Hermanos Perdidos del Sol; Entrevista Dr Simon Porter
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Quásars: los objetos más luminosos del Univierso; Agujeros negros; Los hermanos perdidos del Sol; New Horizons recibe una nueva misión; Entrevista Dr Simon Porter, del equipo de New Horizons; Viendo la materia oscura en el fondo cósmico de microondas; Adiós al eminente neurólogo Dr Oliver Sacks
+
+Ep20: Agujeros negros; Stephen Hawking; Interstellar; Fuerzas de Marea; Linux; Unix
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Adiós Daniel Rabinovich; Agujeros negros: ¿Qué nos pasaría si caemos en uno? ¿Qué es lo que realmente ha dicho Stephen Hawking estos días? ¿Es realista el de Interstellar?; Fuerzas de Marea: Desde la corrotación de la Luna al calentamiento de Io; 24 años de Linux y el papel de Linus Torvald en la revolución del Open Source
+
+Ep19_B: Universo Holográfico; Energía Fantasma: Del Big Bang al Big Rip; La Paradoja del Agujero Negro; Marte; Plutón
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Dualidad de  Maldacena; ¿Es el Universo un Holograma?; La Paradoja de la Información del Agujero Negro; La Energía Fantasma y el posible Big Rip Cósmico; La Controvertida Colonización Privada de Marte; El Misterio del Nitrógeno de Plutón (Entrevista con la Dra Kelsi Singer, del SouthWest Research Institute en EEUU); Grafeno; Google Sunroof; Tones y Kilotones
+
+Ep19_A: Universo Holográfico; Energía Fantasma: Del Big Bang al Big Rip; La Paradoja del Agujero Negro; Marte; Plutón
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Dualidad de Maldacena; ¿Es el Universo un Holograma?; La Paradoja de la Información del Agujero Negro; La Energía Fantasma y el posible Big Rip Cósmico; La Controvertida Colonización Privada de Marte; El Misterio del Nitrógeno de Plutón (Entrevista con la Dra Kelsi Singer, del SouthWest Research Institute en EEUU); Grafeno; Google Sunroof; Tones y Kilotones
+
+Ep18: La Muerte del Universo; OVNIs en la redacción; Monolitos enterrados; Estrella Cervantes
+Coffee Break es la tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: La muerte del Universo; OVNIs en la redacción; Monilitos enterrados; Estrella Cervantes... parece algo sacado de Año Cero o Íker Jiménez, pero no. Es ciencia de la de verdad. Contertulios de hoy: Marian Martínez, Marja Seidel, Carlos Westendorp, Héctor Socas
+
+Ep17: Nuestra galaxia en rumbo de colisión; la medicina del sexo; fin al ébola; burocracia espacial; abejas y vacunas
+Coffee Break es la tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Velocidades cósmicas; la viagra femenina; el fin del ébola; burocracia espacial; últimos resultados de Rosetta/Philae; abejas que vacunan; Google Street Pollution. Hoy nos visitaron los amigos de TV Canaria. Contertulios de hoy: Jose Ramón Arévalo; Bernabé Cedrés; Julio Castro; Héctor Socas
+
+Resumen del Ep16
+Breve extracto del Ep16 de Podcast Coffee Break. Puedes escuchar el episodio completo en este mismo canal. En el episodio de ho y: La verdadera conjunción astral del verano (Rosetta; Dawn; Horizons; Kepler); el modelo de NASA frente al de ESA; el Robin Hood de la malaria; antropología de la conspiranoia; hablamos con un miembro del equipo que descubrió la "exotierra" (¿o minineptuno?)
+
+
+Ep16: La conjunción astral del verano; NASA vs ESA; paranoias; malaria
+Coffee Break es la tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: La verdadera conjunción astral del verano (Rosetta; Dawn; Horizons; Kepler); el modelo de NASA frente al de ESA;  el Robin Hood de la malaria; antropología de la conspiranoia; hablamos con un miembro del equipo que descubrió la "exotierra" (¿o minineptuno?). En la foto: Julio Castro, Javier Licandro, Héctor Socas.
+
+Ep15: Especial Literatura de Ciencia Ficción
+Coffee Break es la tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Especial monográfico sobre nuestra literatura favorita de ciencia ficción. Contamos con la presencia de escritores del género que además son científicos, Enrique Joven y Miguel Santander, que nos aportan una perspectiva desde el otro lado. En la foto: Carlos Glez Montesdeoca, Bernabé Cedrés, Miguel Santander, Enrique Joven, Héctor Socas.
+
+Ep14: Expertos en Plutón; Pentaquark; Apocalipsis de Maunder; Ratas neuronales; Galaxias en Colisión;Jordi Hurtado
+Coffee Break es la tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Contamos con la visita de Noemí Pinilla de la Univ de Tennessee, experta en Plutón; El LHC descubre el Pentaquark... y van y lo anuncian el día del flyby de Plutón; Físicos solares predicen un nuevo Mínimo de Maunder  en 30 años... o 90... o algo; Conectan cerebros de varios animales para formar una red neuronal; Cuando las galaxias chocan; El efecto Jordi Hurtado...  y una noticia de última hora que recibimos en mitad del programa. En la foto: Noemí Pinilla Alonso, Javier Licandro, Bernabé Cedrés, Carlos Westendorp, Héctor Socas.
+
+Ep13: Plutón: la crisis de New Horizons y una primicia informativa; Ébola en Liberia; Agujeros negros y estallidos gamma
+Coffee Break es la tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Crisis en la misión espacial New Horizons a una semana de su encuentro con Plutón; Te adelantamos una primicia sobre la superficie de Plutón que verás en la prensa la próxima semana; El ébola vuelve a asomar su cara trágica en Liberia a pesar de que se consideraba exitinguido; Después de 25 años, un agujero negro vuelve a producir estallidos de rayos gamma; Se prepara la primera lucha de super-robots gigantes. En la foto: Julio Castro, Javier Licandro, Jorge Iglesias, Carlos Westendorp, Héctor Socas.
+
+Ep12: Especial Cine de Ciencia Ficción
+Coffee Break es la tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. Hoy hacemos un monográfico de la historia del cine de ciencia ficción, muy sesgado hacia las películas que nos han resultado más llamativas porque evidentemente se trata de un género demasiado amplio como para intentar abarcarlo todo en profundidad. En la foto, de izquierda a derecha: Carlos González, Marian Martínez, Javier Licandro, Carlos Westendorp, Héctor Socas.
+
+Ep11:Científicos glamourosos; Redes neuronales; Pirámides; Baterías
+Coffee Break es la tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Subidón de ego: analizamos un blog según el cual somos mejores científicos que Stephen Hawking, Neil DeGrasse Tyson o Richard Dawkings; Las redes neuronales tras la inteligencia artificial de Google; La pirámide de Ceres; Baterías de flujo para competir con Tesla; Por qué debemos quemar el monte. En la foto: Natalia Ruiz Zelmanovitch, Joserra Arévalo, Manolo Vázquez, Carlos Westendorp, Héctor Socas.
+
+Ep10:Philae; Plutón; Pilas nucleares; Vida primigenia; T-Sex
+Coffee Break es la tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Philae, el despertar del durmiente y el dilema nuclear; Viendo caras en Plutón (proponemos un programa conjunto a Íker Jiménez); Encuentran vida primigenia... en la Tierra; T-Sex: Simulando el apareamiento de los tiranosaurios. En la foto: Javier Licandro, Joserra Arévalo, Carlos González, Carlos Westendorp, Héctor Socas.
+
+Coffee Break Ep09: Marte, Plutón, Godzilla y Frankenstein
+Coffee Break es la tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Decimos adiós a Christopher Lee; Palitos a la prensa española; El fallido platillo volante de NASA; Los primeros rasgos sobre la superficie de Plutón; Ropa de telaraña; Godzila, Frankenstein y Spiderman. En la foto: Carlos Westendorp, Marian Martínez, Julio Castro, Héctor Socas.
+
+Coffee Break Podcast Ep08, Especial Fronteras de la Cosmología
+La tertulia semanal sobre la actualidad científica. Hoy especial monográfico Fronteras de la Cosmología: Glosario de la Física Tenebrosa (cosas con nombres oscuros y tétricos); Cronología cosmológica; Universo observable/accesible frente a Universo total; Conexión causal; Los diferentes tamaños del Universo; Galaxias más rápidas que la luz; Distancias propias y comóviles; Horizonte cosmológico; Límite de visibilidad futura; Superficie de último scattering y Edad oscura del universo; Observaciones sobre la espuma cuántica, etc... Con este programa te regalamos un 50% más de contenido gratis (que nos quedó un poco largo, vamos). Aun así, se nos han quedado muchas cosas en el tintero. A ver si la semana que viene podemos retomar alguno de estos temas en mayor profundidad. PD: Por un pequeño error técnico, la introducción se escucha con un poco de eco pero luego mejora. No desesperen :). En la foto: Manolo Vázquez, Héctor Socas.
+
+Coffee Break Podcast Ep07
+La tertulia semanal sobre la actualidad científica. En el episodio de hoy: Repasamos la obra del recientemente fallecido John Nash Jr, y su "mente maravillosa"; Cómo las mejoras del LHC, a punto de entrar en funcionamiento, podrían desvelar por fin la misteriosa materia oscura del universo; Mosquitos transexuales, una poderosa nueva arma contra la malaria; Cemento autoreparante y bacterias albañiles; Descubierta la galaxia más luminosa del universo y su agujero negro supermasivo. En la foto, de izquierda a derecha: Javier Licandro, Joserra Arévalo, Héctor Socas, Carlos Westendorp, Juanjo Martín.
+
+Coffee Break Podcast Ep06
+La tertulia semanal sobre la actualidad científica. En el episodio de hoy: Nos metemos con Chuck Norris; Propuestas contra el sexismo en la lengua; El fascinante magnetismo de Mercurio; ¿Funciona la medicina tradicional oriental?; ¿Qué son las misteriosas manchas blancas en los cráteres de Ceres? El dilema de la búsqueda de inteligencia extraterrestre… ¿debería haber un referéndum mundial?; Levadura que produce heroína, ¿fin del chollo de los talibanes o el kit casero Breaking Bad?; Cómo cambian nuestros gustos musicales con la edad. En la foto: Carlos Westendorp, Manolo Vázquez, Julio Castro, Hector Socas, Antonio Darwich.
+
+Coffee Break Podcast Ep05
+La tertulia semanal sobre la actualidad científica. En el episodio de hoy: ¿Qué forma tiene el universo?; ¿Qué es el espacio-tiempo? Problemas de viajar en el tiempo; El fin del ébola en Liberia; Machismo en la ciencia; El controvertido propulsor EM-Drive. Todo ello con nuestro particular toque personal. En la foto: Manolo Vázquez, Héctor Socas.
+
+Coffee Break Podcast Ep04
+La tertulia semanal sobre la actualidad científica. En el episodio de hoy: Matando al mensajero, o por qué NASA estrella la sonda Messenger en Mercurio; hablamos con el director de un centro de investigación estadounidense... ¡y nos cuenta algún secreto!; qué hace un sacerdote en la nómina de una instalación científica. En preguntas de los oyentes hablamos de por qué el tiempo parecía pasar más despacio cuando éramos niños o las nuevas baterías para el hogar de Tesla. Frases del día: "La gente tiene miedo a las radiaciones y luego van y se tiran cinco horas tomando el sol"; "Parece que el universo es tan injusto como el mundo en el que vivimos"; "¿Que cómo lo hemos conseguido? Con trampas y mentiras, le dije que era una entrevista para Radio Nacional".En la foto, de izquierda a derecha: Manolo Vázquez, Alfred Rosenberg, Nayra Rodríguez Eugenio, Héctor Socas
+
+Coffee Break Podcast Ep03
+La tertulia semanal sobre la actualidad científica. "Yo no soy un experto en arqueología pero me vi las cuatro pelis de Indiana Jones". Hoy nos ha quedado un programa muy antropocéntrico, con hombres de Neandertal y pirámides precolombinas. Todo ello aderezado con agujeros negros en colisión. En la foto no aparecen: Héctor Socas, Joserra Arévalo, Manolo Vázquez.
+
+Coffee Break Podcast Ep02
+La tertulia semanal en la que nos echamos unas risas mientras repasamos las últimas noticias de la actualidad científica. En el episodio de hoy: Gravedad arcoiris y relatividad cuántica; materia oscura frente a energía oscura; vida extraterrestre y ¿marcianitos de secano? En la foto, de izquierda a derecha: Joserra Arévalo, Alfred Rosenberg, Nayra Rodríguez Eugenio, Antonio Darwich, Héctor Socas.
+
+
+Coffee Break Podcast Ep01 
+(Por un problema técnico no se escucha bien la voz de un contertulio; pedimos disculpas por el inconveniente y hemos añadido subtítulos para ayudar al oyente)
+Hoy hablamos de:
+-La reactivación del LHC y si puede ser el fin del mundo
+-La evolución de los holandeses
+-Tormentas solares en Venus
+-Nuevas observaciones de materia oscura
+En la foto, de izquierda a derecha: Héctor Socas, Juanjo Martín, Alfred Rosenberg, Antonio Darwich, Joserra Arévalo.
