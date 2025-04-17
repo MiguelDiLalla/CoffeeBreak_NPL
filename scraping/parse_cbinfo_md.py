@@ -5,13 +5,14 @@ Extracts episode structure, contertulios, and topic timestamps from cbinfo.md.
 Outputs structured JSON for downstream analysis and DB ingestion.
 
 Usage:
-    python parse_cbinfo_md.py [--force] [--dry-run] [--verbose] [--help]
+    python parse_cbinfo_md.py [--force] [--dry-run] [--verbose] [--refine-guests] [--help]
 
 Options:
-    --force      Force re-parse, even if no changes detected.
-    --dry-run    Show what would change, but do not write files.
-    --verbose    Enable detailed logging output.
-    --help       Show this help message and exit.
+    --force          Force re-parse, even if no changes detected.
+    --dry-run        Show what would change, but do not write files.
+    --verbose        Enable detailed logging output.
+    --refine-guests  Refine contertulios for missing entries using fuzzy search.
+    --help           Show this help message and exit.
 
 Author: Miguel Di Lalla (2025)
 """
@@ -30,6 +31,8 @@ try:
     RICH_AVAILABLE = True
 except ImportError:
     RICH_AVAILABLE = False
+
+from rapidfuzz import fuzz, process
 
 # --- Configurable paths (import from config.py) ---
 try:
@@ -76,6 +79,24 @@ def parse_contertulios(line: str) -> List[str]:
     # Remove trailing roles or credits
     guest_list = [re.sub(r"\s*Imagen.*", "", g).strip() for g in guest_list]
     return [g for g in guest_list if g]
+
+def cleanse_guest_list(guest_list):
+    """
+    Clean and normalize a list of guest names.
+    - Remove substrings in parentheses and extra whitespace.
+    - Split on ' y ' or ';' if present.
+    """
+    cleaned = []
+    for name in guest_list:
+        # Remove substrings in parentheses
+        name = re.sub(r"\([^)]*\)", "", name)
+        # Split on ' y ' or ';'
+        parts = re.split(r"\s+y\s+|;", name)
+        for part in parts:
+            part = part.strip()
+            if part:
+                cleaned.append(part)
+    return cleaned
 
 def parse_topic_line(line: str) -> Optional[Dict[str, Optional[str]]]:
     """Parse a topic line, extracting title and timestamp if present."""
@@ -167,8 +188,50 @@ def parse_cbinfo_md(md_path: str) -> List[Dict]:
         entries.append(entry)
     return entries
 
+def refine_guests_with_fuzzy_search(entries, logger, dry_run=False):
+    """
+    Refine contertulios for entries with empty guest lists using fuzzy search on raw_description.
+    Args:
+        entries (list): List of episode dicts.
+        logger (logging.Logger): Logger for reporting changes.
+        dry_run (bool): If True, do not write changes.
+    Returns:
+        int: Number of entries updated.
+    """
+    updated = 0
+    for entry in entries:
+        if entry.get("contertulios"):
+            continue
+        raw_desc = entry.get("raw_description", "")
+        lines = raw_desc.split("\n")
+        best_score = 0
+        best_line = None
+        # Search for best fuzzy match to 'contertulios' or 'Héctor Socas.'
+        for line in lines:
+            score1 = fuzz.partial_ratio(line.lower(), "contertulios")
+            score2 = fuzz.partial_ratio(line.lower(), "héctor socas.")
+            score = max(score1, score2)
+            if score > best_score:
+                best_score = score
+                best_line = line
+        if best_score >= 80 and best_line:
+            # Try to extract guests from the best line
+            guests = parse_contertulios(best_line)
+            if not guests:
+                # Try fallback: extract names from photo credits (common pattern)
+                match = re.search(r"(?:en la foto|en la imagen)[^:]*:([^\.]+)", best_line, re.IGNORECASE)
+                if match:
+                    guests = [g.strip().strip('.') for g in match.group(1).split(',') if g.strip()]
+            if guests:
+                guests = cleanse_guest_list(guests)
+                logger.info(f"[REFINE] {entry.get('episode_id') or entry.get('title')}: guests set to {guests}")
+                if not dry_run:
+                    entry["contertulios"] = guests
+                updated += 1
+    return updated
+
 # --- Main pipeline ---
-def main(force=False, dry_run=False, verbose=False):
+def main(force=False, dry_run=False, verbose=False, refine_guests=False):
     logger = setup_logger(verbose)
     logger.info("☕ Coffee Break cbinfo.md Parser")
     logger.info(f"Source: {CBINFO_MD}")
@@ -182,20 +245,48 @@ def main(force=False, dry_run=False, verbose=False):
     logger.debug(f"cbinfo.md hash: {md_hash}")
     json_exists = os.path.exists(CBINFO_JSON)
     need_parse = force or not json_exists or is_json_outdated(CBINFO_MD, CBINFO_JSON)
-    if not need_parse:
+    if not need_parse and not refine_guests:
         logger.info("JSON index is up to date. No parsing needed.")
         logger.info("✅ Pipeline complete.")
         return
     # Step 2: Parse cbinfo.md
-    logger.info("Parsing cbinfo.md to JSON index...")
-    episodes = parse_cbinfo_md(CBINFO_MD)
-    if dry_run:
-        logger.info(f"[DRY RUN] Would write {len(episodes)} episodes to JSON: {CBINFO_JSON}")
+    if need_parse:
+        logger.info("Parsing cbinfo.md to JSON index...")
+        episodes = parse_cbinfo_md(CBINFO_MD)
+        if dry_run:
+            logger.info(f"[DRY RUN] Would write {len(episodes)} episodes to JSON: {CBINFO_JSON}")
+        else:
+            os.makedirs(os.path.dirname(CBINFO_JSON), exist_ok=True)
+            with open(CBINFO_JSON, "w", encoding=ENCODING) as f:
+                json.dump(episodes, f, indent=2, ensure_ascii=False)
+            logger.info(f"Wrote {len(episodes)} episodes to JSON: {CBINFO_JSON}")
+        # Prompt for immediate refinement if --force is used
+        if force:
+            try:
+                user_input = input("Run --refine-guests now? [Enter=Yes, q=Quit]: ").strip().lower()
+            except EOFError:
+                user_input = 'q'
+            if user_input != 'q':
+                logger.info("Proceeding with guest refinement...")
+                refine_guests = True
+            else:
+                logger.info("Guest refinement skipped by user.")
     else:
-        os.makedirs(os.path.dirname(CBINFO_JSON), exist_ok=True)
-        with open(CBINFO_JSON, "w", encoding=ENCODING) as f:
-            json.dump(episodes, f, indent=2, ensure_ascii=False)
-        logger.info(f"Wrote {len(episodes)} episodes to JSON: {CBINFO_JSON}")
+        # Load existing JSON for refinement
+        with open(CBINFO_JSON, "r", encoding=ENCODING) as f:
+            episodes = json.load(f)
+    # Step 3: Refine guests if requested
+    if refine_guests:
+        logger.info("Refining contertulios using fuzzy search...")
+        updated = refine_guests_with_fuzzy_search(episodes, logger, dry_run=dry_run)
+        if updated:
+            logger.info(f"Refined guests in {updated} entries.")
+            if not dry_run:
+                with open(CBINFO_JSON, "w", encoding=ENCODING) as f:
+                    json.dump(episodes, f, indent=2, ensure_ascii=False)
+                logger.info(f"Updated JSON written: {CBINFO_JSON}")
+        else:
+            logger.info("No entries required guest refinement.")
     logger.info("✅ Pipeline complete.")
 
 # --- CLI entrypoint ---
@@ -207,18 +298,21 @@ def cli():
 Pipeline steps:
   1. Check if cbinfo.md changed (by hash or mtime).
   2. Parse cbinfo.md to JSON if needed.
-  3. Log/report all actions and changes.
+  3. Optionally refine contertulios using fuzzy search.
+  4. Log/report all actions and changes.
 
 Examples:
   python parse_cbinfo_md.py --dry-run
   python parse_cbinfo_md.py --force --verbose
+  python parse_cbinfo_md.py --refine-guests --verbose
         """
     )
     parser.add_argument("--force", action="store_true", help="Force re-parse, even if no changes detected.")
     parser.add_argument("--dry-run", action="store_true", help="Show what would change, but do not write files.")
     parser.add_argument("--verbose", action="store_true", help="Enable detailed logging output.")
+    parser.add_argument("--refine-guests", action="store_true", help="Refine contertulios for missing entries using fuzzy search.")
     args = parser.parse_args()
-    main(force=args.force, dry_run=args.dry_run, verbose=args.verbose)
+    main(force=args.force, dry_run=args.dry_run, verbose=args.verbose, refine_guests=args.refine_guests)
 
 if __name__ == "__main__":
     cli()

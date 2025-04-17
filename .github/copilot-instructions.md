@@ -66,6 +66,53 @@ When proposing code completions:
 
 ---
 
+## 🖥️ CLI Implementation Standards
+
+- Every script should implement CLI functionality using `argparse`
+- Include comprehensive `--help` output with:
+  - Clear description of the script's purpose
+  - Explanation of each parameter/flag
+  - Usage examples
+  - How the script fits into the overall pipeline
+- Standard flags across all scripts:
+  - `--verbose` or `-v`: Control logging verbosity
+  - `--output` or `-o`: Specify output file/directory
+  - `--config` or `-c`: Path to configuration file (if applicable)
+- Use subcommands for scripts with multiple operations
+
+---
+
+## 📊 Logging Standards
+
+- Use the `rich` library for enhanced console output
+- Implement structured logging with different levels:
+  - DEBUG: Detailed troubleshooting
+  - INFO: General operational events
+  - WARNING: Unexpected but non-critical issues
+  - ERROR: Failures that prevent specific operations
+  - CRITICAL: Application-wide failures
+- Include progress indicators for long-running operations
+- Log both to console and file when appropriate
+- Format log messages consistently with timestamps and log levels
+
+---
+
+## 📚 Documentation Requirements
+
+- Each module should have a comprehensive module-level docstring explaining:
+  - Purpose and functionality
+  - Dependencies and prerequisites
+  - How it fits into the overall pipeline
+- All functions and classes require detailed docstrings including:
+  - Parameters with types and descriptions
+  - Return values with types and explanations
+  - Exceptions that might be raised
+  - Usage examples where appropriate
+- Include inline comments for complex logic
+- Add `README.md` files to each subdirectory explaining its contents
+
+---
+
 ## 📝 Notes
 
 These instructions will evolve. All decisions and structural logic should trace back to the source docs in `.github/`.
