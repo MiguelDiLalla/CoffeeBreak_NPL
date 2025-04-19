@@ -4,18 +4,20 @@ normalize_contertulios.py
 CLI tool for normalization and assisted completion of 'contertulios' (guests/panelists) in CoffeeBreak_NPL podcast metadata.
 
 Provides three main operations:
-    --sustitute-aliases: Replace aliases in cbinfo_index.json with canonical names.
+    --substitute-aliases: Replace aliases in cbinfo_index.json with canonical names.
     --assisted-completion: Suggest normalized names for empty contertulios via fuzzy matching.
     --validate: Check for missing normalized names in filled contertulios via fuzzy matching.
 
 Usage:
-    python -m names_normalization.normalize_contertulios [--sustitute-aliases | --assisted-completion | --validate] [--verbose] [--output PATH] [--config PATH]
+    python -m names_normalization.normalize_contertulios [--substitute-aliases | --assisted-completion | --validate] [--verbose] [--output PATH] [--config PATH]
 
 See --help for details.
 """
 import argparse
 import json
 import os
+import sys
+import importlib.util
 from pathlib import Path
 from typing import Dict, List, Any, Set
 from rich.console import Console
@@ -59,37 +61,47 @@ def get_cbinfo_index_path() -> Path:
 
 def load_json(path: Path) -> Any:
     """Load a JSON file with UTF-8 encoding."""
-    with open(path, 'r', encoding='utf-8') as f:
-        return json.load(f)
+    try:
+        with open(path, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except Exception as e:
+        logger.error(f"Failed to load JSON from {path}: {e}")
+        sys.exit(1)
 
 def save_json(data: Any, path: Path) -> None:
     """Save a JSON file with UTF-8 encoding."""
-    with open(path, 'w', encoding='utf-8') as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
+    try:
+        with open(path, 'w', encoding='utf-8') as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+    except Exception as e:
+        logger.error(f"Failed to save JSON to {path}: {e}")
+        sys.exit(1)
 
 def load_normalized_names() -> Dict[str, List[str]]:
     """
     Load normalized names and their aliases from contertulios.json.
-    
-    Returns:
-        Dict[str, List[str]]: Dictionary mapping normalized names to their aliases
     """
     contertulios_path = get_contertulios_path()
     data = load_json(contertulios_path)
     
     if 'normalized' in data and 'aliases' in data:
-        # Handle legacy format (list of normalized names and list of aliases)
         normalized = data.get('normalized', [])
-        aliases = data.get('aliases', [])
+        aliases_field = data.get('aliases', {})
+        # If aliases is a dict mapping raw->canonical, invert into lists per canonical
+        if isinstance(aliases_field, dict):
+            normalized_to_aliases = {norm: [] for norm in normalized}
+            for raw, canon in aliases_field.items():
+                if canon in normalized_to_aliases:
+                    normalized_to_aliases[canon].append(raw)
+            return normalized_to_aliases
+        # Else, legacy format (list of parallel alias lists)
+        alias_lists = aliases_field
         normalized_to_aliases = {}
         for i, norm in enumerate(normalized):
-            if i < len(aliases):
-                alias_list = aliases[i]
-                if isinstance(alias_list, str):
-                    alias_list = [alias_list]
-                normalized_to_aliases[norm] = alias_list
-            else:
-                normalized_to_aliases[norm] = []
+            alias_list = alias_lists[i] if i < len(alias_lists) else []
+            if isinstance(alias_list, str):
+                alias_list = [alias_list]
+            normalized_to_aliases[norm] = alias_list
         return normalized_to_aliases
     elif 'canonical_dict' in data:
         # Handle canonical_dict format
@@ -223,21 +235,23 @@ def substitute_aliases(episodes: List[Dict], normalized_names: Dict[str, List[st
     return normalized_episodes
 
 def assisted_completion(episodes: List[Dict], normalized_names: Dict[str, List[str]], 
-                        threshold: float = DEFAULT_SIMILARITY_THRESHOLD) -> List[Dict]:
+                        threshold: float = DEFAULT_SIMILARITY_THRESHOLD,
+                        non_interactive: bool = False) -> List[Dict]:
     """
     For episodes with empty contertulios, suggest normalized names via fuzzy matching of their raw_description.
+    Avoid suggesting names already present. Log multiple raw names mapping to the same normalized suggestion.
     
     Args:
         episodes (List[Dict]): List of episode dictionaries from cbinfo_index.json
         normalized_names (Dict[str, List[str]]): Dictionary of normalized names and their aliases
         threshold (float): Minimum similarity score to consider a match (0-100)
+        non_interactive (bool): If True, run in batch mode without prompts
         
     Returns:
         List[Dict]: Updated episodes with user-approved normalized contertulios
     """
     updated_episodes = []
     completion_count = 0
-    
     for episode in episodes:
         # Skip if not an episode or already has contertulios
         if (episode.get('entry_type') != 'episode' or 
@@ -245,51 +259,75 @@ def assisted_completion(episodes: List[Dict], normalized_names: Dict[str, List[s
             episode['contertulios']):
             updated_episodes.append(episode)
             continue
-        
         raw_description = episode.get('raw_description', '')
         if not raw_description:
             updated_episodes.append(episode)
             continue
-        
         # Extract potential names from the raw description
         potential_names = extract_names_from_description(raw_description)
-        
         if not potential_names:
             updated_episodes.append(episode)
             continue
-        
-        # User interaction for name suggestions
-        console.print(f"\n[bold cyan]Episode:[/bold cyan] {episode.get('episode_id', 'unknown')} - {episode.get('title', 'No title')}")
-        console.print(f"[dim]{raw_description[:200]}...[/dim]")
-        console.print("[yellow]This episode has no contertulios. Potential matches found:[/yellow]")
-        
-        suggested_contertulios = []
+        # Track which normalized names are suggested and which raw names map to them
+        norm_to_raws = {}
         for name in potential_names:
             best_match = find_best_normalized_match(name, normalized_names, threshold)
             if best_match:
-                console.print(f"Found potential match: [bold]{name}[/bold] -> [green]{best_match}[/green]")
-                choice = Prompt.ask("Add this contertulio?", choices=["y", "n", "q"], default="n")
-                
+                norm_to_raws.setdefault(best_match, []).append(name)
+        # Remove normalized names already present (case-insensitive)
+        already_present = set(n.lower() for n in episode.get('contertulios', []))
+        # Discard suggestions with only one raw match and that match is a non-spaced option
+        filtered_norm_to_raws = {
+            norm: raws for norm, raws in norm_to_raws.items()
+            if not (len(raws) == 1 and ' ' not in raws[0])
+        }
+        suggestions = [norm for norm in filtered_norm_to_raws if norm.lower() not in already_present]
+        # Log multiple raw names mapping to the same normalized suggestion
+        for norm, raws in norm_to_raws.items():
+            if len(raws) > 1:
+                logger.info(f"Multiple extracted names {raws} map to normalized '{norm}' in episode {episode.get('episode_id')}")
+        if not suggestions:
+            updated_episodes.append(episode)
+            continue
+        console.print(f"\n[bold cyan]Episode:[/bold cyan] {episode.get('episode_id', 'unknown')} - {episode.get('title', 'No title')}")
+        console.print(f"[dim]{raw_description[:200]}...[/dim]")
+        console.print("[yellow]This episode has no contertulios. Potential matches found:[/yellow]")
+        suggested_contertulios = []
+        for norm in suggestions:
+            raw_names = filtered_norm_to_raws[norm]
+            # Color: red if no spaces, bright green if contains spaces
+            colored_raws = []
+            for raw in raw_names:
+                if ' ' in raw:
+                    colored_raws.append(f"[bright_green]{raw}[/bright_green]")
+                else:
+                    colored_raws.append(f"[red]{raw}[/red]")
+            colored_raws_str = ', '.join(colored_raws)
+            # Keep the normalized suggestion itself default color
+            console.print(f"Suggested: [bold]{norm}[/bold] (from extracted: {colored_raws_str})")
+            if non_interactive:
+                suggested_contertulios.append(norm)
+                logger.debug(f"Auto-added {norm} for extracted {raw_names} in non-interactive mode, episode {episode.get('episode_id')}")
+            else:
+                choice = Prompt.ask(f"Add this contertulio?", choices=["y", "n", "q"], default="y") # default to yes, thancks
                 if choice.lower() == "y":
-                    suggested_contertulios.append(best_match)
-                    console.print(f"[green]Added {best_match}[/green]")
+                    suggested_contertulios.append(norm)
+                    console.print(f"[green]Added {norm}[/green]")
                 elif choice.lower() == "q":
                     console.print("[yellow]Skipping remaining suggestions for this episode[/yellow]")
                     break
-            
         if suggested_contertulios:
             updated_episode = {**episode, 'contertulios': suggested_contertulios}
             completion_count += 1
         else:
             updated_episode = episode
-        
         updated_episodes.append(updated_episode)
-    
     logger.info(f"Completed contertulios for {completion_count} episodes")
     return updated_episodes
 
 def validate_contertulios(episodes: List[Dict], normalized_names: Dict[str, List[str]], 
-                         threshold: float = DEFAULT_SIMILARITY_THRESHOLD) -> List[Dict]:
+                         threshold: float = DEFAULT_SIMILARITY_THRESHOLD,
+                         non_interactive: bool = False) -> List[Dict]:
     """
     For episodes that already have contertulios, check if any potential names in the
     raw_description are missing from the contertulios list.
@@ -298,6 +336,7 @@ def validate_contertulios(episodes: List[Dict], normalized_names: Dict[str, List
         episodes (List[Dict]): List of episode dictionaries from cbinfo_index.json
         normalized_names (Dict[str, List[str]]): Dictionary of normalized names and their aliases
         threshold (float): Minimum similarity score to consider a match (0-100)
+        non_interactive (bool): If True, run in batch mode without prompts
         
     Returns:
         List[Dict]: Updated episodes with additional user-approved normalized contertulios
@@ -330,10 +369,19 @@ def validate_contertulios(episodes: List[Dict], normalized_names: Dict[str, List
         
         # Find potential missing contertulios
         missing_potential = []
+        norm_to_raws = {}
         for name in potential_names:
             best_match = find_best_normalized_match(name, normalized_names, threshold)
             if best_match and best_match.lower() not in current_contertulios:
-                missing_potential.append((name, best_match))
+                norm_to_raws.setdefault(best_match, []).append(name)
+        # Discard suggestions with only one raw match and that match is a non-spaced option
+        filtered_norm_to_raws = {
+            norm: raws for norm, raws in norm_to_raws.items()
+            if not (len(raws) == 1 and ' ' not in raws[0])
+        }
+        for norm, raws in filtered_norm_to_raws.items():
+            for raw in raws:
+                missing_potential.append((raw, norm))
         
         if not missing_potential:
             updated_episodes.append(episode)
@@ -347,15 +395,23 @@ def validate_contertulios(episodes: List[Dict], normalized_names: Dict[str, List
         # Collect additional contertulios to add
         additional_contertulios = []
         for orig_name, norm_name in missing_potential:
-            console.print(f"Found potential missing contertulio: [bold]{orig_name}[/bold] -> [green]{norm_name}[/green]")
-            choice = Prompt.ask("Add this contertulio?", choices=["y", "n", "q"], default="n")
-            
-            if choice.lower() == "y":
+            # Color: red if no spaces, bright green if contains spaces
+            if ' ' in orig_name:
+                colored_orig = f"[bright_green]{orig_name}[/bright_green]"
+            else:
+                colored_orig = f"[red]{orig_name}[/red]"
+            console.print(f"Found potential missing contertulio: {colored_orig} -> [green]{norm_name}[/green]")
+            if non_interactive:
                 additional_contertulios.append(norm_name)
-                console.print(f"[green]Added {norm_name}[/green]")
-            elif choice.lower() == "q":
-                console.print("[yellow]Skipping remaining validations for this episode[/yellow]")
-                break
+                logger.debug(f"Auto-added missing {norm_name} in non-interactive mode for episode {episode.get('episode_id')}")
+            else:
+                choice = Prompt.ask("Add this contertulio?", choices=["y", "n", "q"], default="y") # default to yes, thanks
+                if choice.lower() == "y":
+                    additional_contertulios.append(norm_name)
+                    console.print(f"[green]Added {norm_name}[/green]")
+                elif choice.lower() == "q":
+                    console.print("[yellow]Skipping remaining validations for this episode[/yellow]")
+                    break
         
         if additional_contertulios:
             updated_contertulios = episode['contertulios'] + additional_contertulios
@@ -370,8 +426,8 @@ def validate_contertulios(episodes: List[Dict], normalized_names: Dict[str, List
     return updated_episodes
 
 # ========== CLI Operations ==========
-def sustitute_aliases_cli(args):
-    """CLI entrypoint for --sustitute-aliases operation"""
+def substitute_aliases_cli(args):
+    """CLI entrypoint for --substitute-aliases operation"""
     cbinfo_path = get_cbinfo_index_path()
     normalized_names = load_normalized_names()
     episodes = load_json(cbinfo_path)
@@ -394,7 +450,7 @@ def assisted_completion_cli(args):
     logger.info(f"Loaded {len(episodes)} episodes from {cbinfo_path}")
     logger.info(f"Loaded {len(normalized_names)} normalized names from {get_contertulios_path()}")
     
-    updated_episodes = assisted_completion(episodes, normalized_names)
+    updated_episodes = assisted_completion(episodes, normalized_names, threshold=args.threshold, non_interactive=args.non_interactive)
     
     output_path = args.output if args.output else cbinfo_path
     save_json(updated_episodes, Path(output_path))
@@ -409,7 +465,7 @@ def validate_contertulios_cli(args):
     logger.info(f"Loaded {len(episodes)} episodes from {cbinfo_path}")
     logger.info(f"Loaded {len(normalized_names)} normalized names from {get_contertulios_path()}")
     
-    updated_episodes = validate_contertulios(episodes, normalized_names)
+    updated_episodes = validate_contertulios(episodes, normalized_names, threshold=args.threshold, non_interactive=args.non_interactive)
     
     output_path = args.output if args.output else cbinfo_path
     save_json(updated_episodes, Path(output_path))
@@ -422,7 +478,8 @@ def main():
         epilog="See project README for pipeline context."
     )
     group = parser.add_mutually_exclusive_group(required=True)
-    group.add_argument('--sustitute-aliases', action='store_true', 
+    group.add_argument('--substitute-aliases', action='store_true', 
+                      dest='substitute_aliases',
                       help="Replace aliases in cbinfo_index.json with canonical names.")
     group.add_argument('--assisted-completion', action='store_true', 
                       help="Suggest normalized names for empty contertulios via fuzzy matching.")
@@ -431,19 +488,39 @@ def main():
     parser.add_argument('--verbose', '-v', action='store_true', help="Enable verbose logging.")
     parser.add_argument('--output', '-o', type=str, help="Output file or directory.")
     parser.add_argument('--config', '-c', type=str, help="Path to configuration file.")
+    parser.add_argument('--non-interactive', action='store_true', help="Run in batch mode without prompts.")
+    parser.add_argument('--log-file', type=str, help="Path to log output file.")
     parser.add_argument('--threshold', '-t', type=float, default=DEFAULT_SIMILARITY_THRESHOLD,
                       help=f"Similarity threshold (0-100) for fuzzy matching (default: {DEFAULT_SIMILARITY_THRESHOLD}).")
     args = parser.parse_args()
 
+    # Setup logging verbosity
     if args.verbose:
         logger.setLevel(logging.DEBUG)
+    # Add file handler if requested
+    if args.log_file:
+        fh = logging.FileHandler(args.log_file)
+        fh.setFormatter(logging.Formatter('[%(asctime)s] %(levelname)s: %(message)s', '%Y-%m-%d %H:%M:%S'))
+        logger.addHandler(fh)
 
-    if args.sustitute_aliases:
-        sustitute_aliases_cli(args)
+    # Load user config if provided
+    if args.config:
+        spec = importlib.util.spec_from_file_location("user_config", args.config)
+        user_cfg = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(user_cfg)
+        global config
+        config = user_cfg
+
+    # Execute operation
+    if args.substitute_aliases:
+        substitute_aliases_cli(args)
+        sys.exit(0)
     elif args.assisted_completion:
         assisted_completion_cli(args)
+        sys.exit(0)
     elif args.validate:
         validate_contertulios_cli(args)
+        sys.exit(0)
 
 if __name__ == "__main__":
     main()

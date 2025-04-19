@@ -1,1 +1,2 @@
-rapidfuzz
+rich>=10.2.2
+rapidfuzz>=1.10.6
