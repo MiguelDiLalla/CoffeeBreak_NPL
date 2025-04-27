@@ -254,11 +254,20 @@ def assisted_completion(episodes: List[Dict], normalized_names: Dict[str, List[s
     completion_count = 0
     for episode in episodes:
         # Skip if not an episode or already has contertulios
-        if (episode.get('entry_type') != 'episode' or 
-            'contertulios' not in episode or 
-            episode['contertulios']):
+        if episode.get('entry_type') != 'episode':
             updated_episodes.append(episode)
             continue
+            
+        # Skip if contertulios field doesn't exist or if it exists but is not empty
+        if 'contertulios' not in episode:
+            updated_episodes.append(episode)
+            continue
+            
+        # Skip if contertulios list is not empty
+        if episode['contertulios']:
+            updated_episodes.append(episode)
+            continue
+        
         raw_description = episode.get('raw_description', '')
         if not raw_description:
             updated_episodes.append(episode)
