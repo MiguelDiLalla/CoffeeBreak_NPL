@@ -113,6 +113,22 @@ When proposing code completions:
 
 ---
 
+## 🌐 Web Development Best Practices
+- Follow the `/web` folder structure: `assets/`, `css/`, `js/`, `data/`, `index.html`, `episode.html`.
+- Use HTML5 semantic elements and ARIA roles for accessibility.
+- Style with Tailwind CSS in utility-first approach; ensure responsive design mobile-first.
+- Implement modular Vanilla JS in separate files: `app.js`, `search.js`, `player.js`, `history.js`, `share.js`.
+- Load `data/episodes.json` via Fetch API; handle errors and use UTF-8 encoding.
+- Integrate FlexSearch for client-side search; index on build and query at runtime.
+- Use ffmpeg.wasm for in-browser audio trimming/export; guard fallbacks when unsupported.
+- Persist clip history in LocalStorage; expose clear API in `history.js` module.
+- Generate and parse deep links with URLSearchParams in `share.js`.
+- Serve via simple HTTP server (e.g., `python -m http.server`) for local development; avoid CORS issues.
+- Use a build script (Node.js or Makefile) to concatenate/minify assets if needed.
+- Include a `/web/README.md` with setup and usage instructions; keep docs in sync with code.
+
+---
+
 ## 📝 Notes
 
 These instructions will evolve. All decisions and structural logic should trace back to the source docs in `.github/`.

@@ -12,6 +12,21 @@ Este proyecto es una aplicación web estática diseñada para explorar, buscar, 
 - **LocalStorage** para historial de recortes
 - **Deep Links (URL Parameters)** para compartir recortes
 
+**Branding y Estilos:**
+- **Colores:**
+  - Background: `#18171a` (darkgrey from blue)
+  - Main: `#37b827` (green)
+  - Accents: `#abffd2` (aquamarine)
+- **Tipografía:**
+  - Títulos: Pattaya
+  - Texto: Rokkitt
+  - Implementación:
+  ```html
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Pattaya&family=Rokkitt:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+  ```
+
 ---
 
 ## Estructura Visual del Sitio (Diagrama General)
@@ -206,7 +221,59 @@ if (start && end) {
 - Enlaces compatibles con copiar/pegar
 - Al abrir: carga episodio y ajusta rango de sliders automáticamente
 
----
+## 7. Estructura de la carpeta web/
+
+```plaintext
+📁 web
+├── 📁 assets
+│   ├── 📁 images
+│   ├── 📁 icons
+│   └── 📁 audio
+├── 📁 css
+│   └── tailwind.css
+├── 📁 js
+│   ├── app.js
+│   ├── search.js
+│   ├── player.js
+│   ├── history.js
+│   └── share.js
+├── 📁 data
+│   └── episodes.json
+├── 📄 index.html
+├── 📄 episode.html
+└── 📄 README.md
+```
+
+Explicación de carpetas y archivos
+
+📁 assets  
+- **images/** → Miniaturas y recursos gráficos  
+- **icons/**  → Iconos de UI (SVG, PNG)  
+- **audio/**  → Fragmentos o caché temporal de audio (opcional)  
+
+📁 css  
+- **tailwind.css** → Archivo generado por Tailwind con los estilos del sitio  
+
+📁 js  
+- **app.js**     → Inicializa la aplicación y maneja vistas  
+- **search.js**  → Motor de búsqueda con FlexSearch (transcripciones en el futuro)  
+- **player.js**  → Control del reproductor (play, pause, trim, export)  
+- **history.js** → Gestión de historial de recortes (LocalStorage)  
+- **share.js**   → Generación de deep‐links y compartición en redes  
+
+📁 data  
+- **episodes.json** → Base de datos de episodios exportada desde el pipeline principal  
+
+📄 index.html  
+Página principal: grid de episodios + reproductor inferior siempre visible  
+
+📄 episode.html (opcional)  
+Vista individual de un episodio (puede omitirse según diseño final)  
+
+📄 README.md  
+Documentación básica de la carpeta `/web` y su uso  
+
+
 
 ## Extras y Futuro
 
